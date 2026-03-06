@@ -1,0 +1,2031 @@
+id,item,text,type,item_num,row_id,x,y,z
+1500,driver1,Hoplessness,driver,1,0,6.427614,8.535843,-4.9026093
+1500,driver2,Trauma,driver,2,1,9.77573,9.258393,3.992977
+1500,rfd1,stop being a nuisance to my family,rfd,1,2,8.100867,8.536129,-1.0795336
+1500,rfd2,feeling like I'm not a good dad or husband,rfd,2,3,7.975426,9.408689,-0.64275515
+1501,driver1,Lack of self compassion,driver,1,4,6.698144,11.059059,-3.359275
+1501,driver2,Physical/Emotional Abuse from step father,driver,2,5,8.842406,10.107213,2.3659208
+1501,driver3,Availability of death,driver,3,6,4.9970455,9.5650015,-2.1100004
+1501,rfd1,I don't want to die,rfd,1,7,4.870256,9.9470005,-2.2603023
+1502,driver1,Self-hate,driver,1,8,10.574206,15.665268,-8.220803
+1502,driver2,Recent break-up with fiance,driver,2,9,7.5859575,9.15402,0.16617706
+1502,rfd1,I don't feel like I am worth time and space,rfd,1,10,7.170905,8.24324,-2.8381555
+1502,rfd2,I feel like I can't accomplish anything,rfd,2,11,6.5028305,9.349918,-4.595495
+1502,rfd3,everything is my fault,rfd,3,12,7.291737,9.998626,-3.7251167
+1507,driver1,hopelessness,driver,1,13,2.9019256,8.0762005,-8.785957
+1507,driver2,no means of financial support,driver,2,14,7.745419,10.846078,-1.939602
+1507,rfd1,no reasons to live,rfd,1,15,5.172201,9.392819,-2.9168358
+1507,rfd2,no friends,rfd,2,16,7.430746,8.414658,-1.390791
+1507,rfd3,no family,rfd,3,17,7.554415,8.546427,-1.0968304
+1507,rfd4,no money,rfd,4,18,7.8188624,10.922981,-2.7311528
+1507,rfd5,"""What else is left?""",rfd,5,19,6.1959696,9.521852,-2.7456374
+1508,driver1,defeat; entrapment,driver,1,20,3.4592378,9.442434,-3.7430193
+1508,driver2,depression,driver,2,21,-6.5132003,7.8035283,8.852024
+1508,rfd1,honestly don't want to die,rfd,1,22,4.8716073,9.912807,-2.2672691
+1508,rfd2,lonliness; worry,rfd,2,23,6.797485,7.905968,-2.4049256
+1509,driver1,Hoplessness,driver,1,24,6.407983,8.504957,-4.9391494
+1509,driver2,PTSD,driver,2,25,8.688283,10.875569,3.8272488
+1509,rfd1,always a lingering thought,rfd,1,26,8.193995,11.058579,0.63668925
+1509,rfd2,feeling like a failure,rfd,2,27,7.0015,9.638479,-4.881211
+1509,rfd3,I let everyone down;,rfd,3,28,7.624434,9.315802,-3.4833975
+1509,rfd4,feelings of guilt that I've put people through so much,rfd,4,29,8.870632,11.609979,0.48113477
+1510,driver1,guilt and shame in parent choices,driver,1,30,8.883299,11.45982,0.49996656
+1510,driver2,"isolation, lonliness",driver,2,31,6.982727,8.017062,-2.3058796
+1510,rfd1,because I am a christian and will go home to peace and happiness,rfd,1,32,4.912704,9.715592,-1.2039516
+1510,rfd2,get rid of physical and emotional pain,rfd,2,33,2.3812943,11.232666,-1.1946765
+1511,driver1,lonely; isolated,driver,1,34,6.420527,8.360546,-2.030037
+1511,driver2,thoughts about childhood,driver,2,35,8.2008295,10.84603,0.83925736
+1511,rfd1,feeling low,rfd,1,36,6.3649125,8.757127,-4.7846775
+1511,rfd2,feeling hopeless,rfd,2,37,5.278818,9.563467,-4.951351
+1511,rfd3,going through the same thing every day,rfd,3,38,5.4383364,10.172447,-2.8295004
+1512,driver1,feeling worthless/hopless,driver,1,39,6.462222,8.591968,-4.861609
+1512,driver2,schizophrenia,driver,2,40,5.0233316,13.733099,-0.9197909
+1512,rfd1,I don't want to die,rfd,1,41,4.88347,9.97854,-2.2647498
+1512,rfd2,the voices tell me I am worthless and will be better off dead; they tell me to do it,rfd,2,42,5.422603,13.359639,0.204368
+1514,driver1,feeling trapped,driver,1,43,4.4758787,10.220028,-4.8907094
+1514,driver2,being a burden,driver,2,44,9.643335,9.764282,-2.5875425
+1514,rfd1,I don't want to die right now,rfd,1,45,4.866013,9.978584,-2.270509
+1517,driver1,burden on others  and pysch pain,driver,1,46,9.572552,9.873846,-2.7005115
+1517,driver2,grief,driver,2,47,7.157078,7.866473,1.9742384
+1517,rfd1,right now I don't want to die,rfd,1,48,4.9094706,9.915397,-2.2830951
+1517,rfd2,because I miss them; wife died and court took kids,rfd,2,49,7.37926,8.595457,-0.29482338
+1518,driver1,defeat; feel like I have control of nothing in life,driver,1,50,5.1286564,9.920509,-4.823192
+1518,driver2,alcohol use,driver,2,51,2.8610008,11.059133,9.154617
+1518,rfd1,had enough of this anxious feeling,rfd,1,52,6.068333,13.793824,-2.880587
+1518,rfd2,feel like a disappointment,rfd,2,53,7.2175927,9.572009,-4.8583417
+1518,rfd3,easiest thing would be to just die,rfd,3,54,4.80245,10.241065,-2.5674195
+1520,driver1,lack of automony in life,driver,1,55,6.4788475,10.88349,-3.2602904
+1520,driver2,depression,driver,2,56,-6.477192,7.7783313,8.830686
+1520,rfd1,being trapped,rfd,1,57,4.347539,10.266453,-5.0143867
+1520,rfd2,worry about money,rfd,2,58,8.536234,10.808659,-2.6386101
+1522,driver1,helpless/defeated,driver,1,59,4.610123,9.520604,-5.780051
+1522,driver2,stressors,driver,2,60,6.6106143,15.379141,-3.0188217
+1522,rfd1,I didn't want to die; just wanted a vacation from my stress,rfd,1,61,4.821866,9.930166,-2.281979
+1525,driver1,psychological pain,driver,1,62,0.67254126,11.696824,-0.944749
+1525,driver2,stress,driver,2,63,6.6930547,15.458843,-3.0610764
+1525,rfd1,because feel like nobody wants me,rfd,1,64,7.3043795,8.425533,-2.5108786
+1525,rfd2,feeling lonely and misunderstood,rfd,2,65,7.1781206,8.250871,-2.6117675
+1525,rfd3,feeling like I'm just existing,rfd,3,66,5.619918,8.792757,-4.1504765
+1526,driver1,feeling trapped and hopeless,driver,1,67,4.857605,9.838653,-5.0597134
+1526,driver2,depression and schizophrenia,driver,2,68,5.0249357,13.958476,-1.3581107
+1526,rfd1,sick of this world and the people in it,rfd,1,69,5.3441663,11.248857,-2.480798
+1526,rfd2,tired,rfd,2,70,5.505063,12.761269,-1.8743234
+1528,driver1,psychological and physical pain,driver,1,71,2.1931305,11.364325,-1.0783634
+1528,rfd1,because I didn't see any hope,rfd,1,72,5.4218183,9.777319,-4.2594523
+1532,driver1,defeat/hopelessness,driver,1,73,4.5548525,9.376768,-5.9306736
+1532,driver2,drug use,driver,2,74,1.5760239,18.864737,2.0139937
+1532,rfd1,tired of letting myself down and everybody else,rfd,1,75,5.2844577,11.050865,-2.572967
+1532,rfd2,it would just be easier,rfd,2,76,8.79292,9.43028,-2.1220007
+1533,driver1,hurt by family (psychological pain),driver,1,77,8.312929,8.579407,-0.6376026
+1533,driver2,drug use,driver,2,78,1.575397,18.864851,2.012578
+1533,rfd1,hopelessness/ I don't really know,rfd,1,79,2.8363597,8.021314,-8.786578
+1539,driver1,self-hate/shame,driver,1,80,10.351365,15.444553,-7.9224205
+1539,rfd1,feeling shame and self-hatred,rfd,1,81,10.239434,15.313104,-7.768164
+1539,rfd2,think about the past,rfd,2,82,8.345,11.018741,0.7268607
+1540,rfd1,We all die; everything that has moving parts wears out.,rfd,1,83,5.021884,9.590601,-2.0998957
+1540,rfd2,no reasons for dying right now.,rfd,2,84,4.9541216,9.71429,-2.50294
+1544,driver1,hopelessness/defeat,driver,1,85,4.5001054,9.336512,-6.0030317
+1544,driver2,drugs/finances,driver,2,86,2.3257697,17.805258,2.7430325
+1544,rfd1,my usefulness crossed over to becoming a danger to others,rfd,1,87,8.31053,9.771656,-3.3155391
+1544,rfd2,idea of death doesn't really bother me,rfd,2,88,4.939761,9.6452055,-2.131004
+1545,driver1,self-hate,driver,1,89,10.586649,15.677394,-8.229813
+1545,driver2,substance abuse,driver,2,90,2.380114,17.769999,2.8092852
+1545,rfd1,feel hopeless about everything,rfd,1,91,5.381947,9.605407,-4.6704106
+1548,driver1,worthlessness,driver,1,92,9.861613,9.353652,-6.7640715
+1548,driver2,my problems/stress,driver,2,93,5.8641887,14.241237,-2.623673
+1548,rfd1,"dying was a side effect, I wanted to not feel anything for a while; if I die I die",rfd,1,94,4.421134,10.3645,-1.9015311
+1548,rfd2,feeling overwhelmed,rfd,2,95,6.4431405,13.493035,-2.7292047
+1548,rfd3,"confused, sometimes I let negative thoughts seem bigger then they actually are",rfd,3,96,5.97638,10.313801,-3.860025
+1553,driver1,"""I'm a failure""; psych/emotional pain",driver,1,97,6.9845934,9.695673,-4.932297
+1553,driver2,meth abuse,driver,2,98,2.3230186,17.835747,2.8060496
+1553,rfd1,my kids would be better off,rfd,1,99,8.362153,9.030811,-1.5650935
+1553,rfd2,parents wouldn't have to worry about me,rfd,2,100,8.579404,9.135877,-2.0238295
+1554,driver1,psych pain,driver,1,101,0.6907061,11.72927,-0.96923596
+1554,driver2,want to have control,driver,2,102,5.277547,10.399889,-4.3058667
+1554,driver3,trauma,driver,3,103,9.783423,9.25032,3.9997025
+1554,rfd1,my family,rfd,1,104,7.582548,8.401406,-0.9106144
+1554,rfd2,my son (these are people I woud die for),rfd,2,105,7.464066,8.393324,-0.88385874
+1560,driver1,depression,driver,1,106,-6.523795,7.790552,8.854631
+1560,rfd1,no reasons,rfd,1,107,5.01038,9.249648,-2.942897
+1561,driver1,substance use,driver,1,108,2.368909,17.780535,2.8678021
+1561,rfd1,wife in the hospital,rfd,1,109,7.663945,9.0833235,-0.2500039
+1561,rfd2,dad killed mom,rfd,2,110,7.687262,8.312511,0.26787573
+1561,rfd3,loss of mother,rfd,3,111,7.4260807,8.2937155,0.39666313
+1562,driver1,someone to check-in on me periodically,driver,1,112,6.9484167,8.501846,-2.0685282
+1563,driver1,depression,driver,1,113,-6.4786086,7.7735405,8.882867
+1563,rfd1,worried about not getting my daughter back,rfd,1,114,8.014419,8.821565,-0.07560683
+1564,driver1,dealing with grief and anxiety,driver,1,115,7.378465,8.319297,1.2212245
+1565,driver1,dealing with trauma,driver,1,116,9.606926,9.387236,3.7504761
+1565,rfd1,blame myself for cousin's murder,rfd,1,117,8.83062,11.473262,0.47580442
+1566,driver1,addiction,driver,1,118,2.2185206,17.989065,2.7387376
+1566,driver2,self-worth,driver,2,119,7.8493586,11.997055,-5.268531
+1566,rfd1,done with life,rfd,1,120,5.255232,10.371622,-2.762732
+1566,rfd2,life is pointless,rfd,2,121,5.1103334,9.1881275,-3.1717212
+1566,rfd3,addiction,rfd,3,122,2.2570765,17.949984,2.7446692
+1567,driver1,Anxiety and Depression,driver,1,123,5.2809286,14.170285,-2.7970119
+1567,rfd1,to escape,rfd,1,124,3.9901156,10.004004,-2.1547925
+1567,rfd2,feelings of inferiority,rfd,2,125,6.6272097,8.8274355,-5.04489
+1567,rfd3,feelings of being stupid,rfd,3,126,6.425218,8.841618,-5.0663195
+1568,driver1,issues with medication management,driver,1,127,4.086882,12.317537,-1.1065348
+1568,rfd1,felt like a failure,rfd,1,128,7.0562625,9.564287,-4.8796277
+1568,rfd2,too much pain,rfd,2,129,2.6629057,10.769986,-1.0034971
+1568,rfd3,no support system,rfd,3,130,7.5062146,10.606458,-2.1861908
+1570,driver1,drug use,driver,1,131,1.5682462,18.872768,2.010168
+1571,driver1,feeling stuck in neagtive emotions,driver,1,132,4.8701553,10.238973,-4.6997743
+1571,rfd1,not being able to provide a happy life for my children,rfd,1,133,6.9140806,8.772479,-0.5738005
+1573,driver1,drug use,driver,1,134,1.5748998,18.87082,2.0140054
+1573,driver2,depression,driver,2,135,-6.517572,7.836643,8.8283825
+1574,driver1,Depression and anxiety,driver,1,136,5.0345573,14.018097,-1.650453
+1574,rfd1,"I'm old and won't ever get it right (Depression, marriage)",rfd,1,137,5.3670707,9.828983,-4.5611367
+1578,driver1,"self-worth, esteem",driver,1,138,7.806376,12.010046,-5.279313
+1578,rfd1,"not being good enough, feeling like a failure",rfd,1,139,6.818165,9.585219,-4.643516
+1580,driver1,drinking too much,driver,1,140,2.9721286,11.165365,9.065745
+1582,driver1,depression and loneliness,driver,1,141,7.0461493,8.014819,-2.3042753
+1582,rfd1,being alone,rfd,1,142,6.1248326,8.585266,-1.803066
+1583,driver1,excessive alcohol drinking,driver,1,143,2.9678469,11.151094,9.157071
+1584,driver1,drug use,driver,1,144,1.5688074,18.87393,2.0078757
+1584,rfd1,withdrawal symptoms,rfd,1,145,3.1118839,11.514474,9.048416
+1584,rfd2,comparing life to others,rfd,2,146,5.3916593,9.378479,-3.1320207
+1584,rfd3,rough upbringing,rfd,3,147,8.763853,10.085698,2.0707514
+1585,driver1,depression,driver,1,148,-6.5062685,7.7809124,8.8621025
+1585,rfd1,to escape,rfd,1,149,3.9759111,10.024244,-2.1405997
+1587,driver1,Depression,driver,1,150,-6.586741,7.7851458,8.928414
+1587,rfd1,being a burden to family,rfd,1,151,9.302063,9.460538,-2.4340217
+1589,driver1,depression,driver,1,152,-6.5047708,7.816999,8.897192
+1589,driver2,anxiety,driver,2,153,5.3768353,16.49854,-5.8320403
+1589,rfd1,my suffering,rfd,1,154,3.029558,10.57235,-1.6230069
+1590,driver1,stressed and overwhelmed,driver,1,155,6.3255854,13.859225,-2.745019
+1590,rfd1,"tired, overwhelmed",rfd,1,156,6.30779,13.767329,-2.6862378
+1591,driver1,substance use,driver,1,157,2.3749626,17.774826,2.8740668
+1591,rfd1,selling drugs,rfd,1,158,1.796471,18.482378,2.121151
+1591,rfd2,legal issues,rfd,2,159,8.151986,10.788267,-2.5300038
+1591,rfd3,brother died 2019,rfd,3,160,7.5200434,8.332139,0.472259
+1592,driver1,fear of losing mother and brother,driver,1,161,8.082142,8.686392,-0.5137574
+1592,driver2,alcohol use,driver,2,162,2.8839655,11.081632,9.150679
+1592,rfd1,if mother passes away,rfd,1,163,7.4859457,8.261524,0.4147157
+1592,rfd2,afraid of relationships,rfd,2,164,6.2085276,10.829907,-4.056239
+1592,rfd3,I can avoid the pain,rfd,3,165,3.6087422,10.745901,-1.759338
+1594,driver1,Fear of letting myself and others down,driver,1,166,6.2779756,10.757219,-3.893248
+1594,driver2,alcohol use,driver,2,167,2.8819056,11.078889,9.139956
+1594,rfd1,being able to escape all the pain,rfd,1,168,3.5173965,10.579412,-1.8921336
+1595,driver1,Hopeless/defeated,driver,1,169,4.532754,9.385314,-5.928083
+1595,driver2,depression,driver,2,170,-6.4755306,7.754107,8.830228
+1595,rfd1,no one cares,rfd,1,171,8.273038,8.817543,-2.7331004
+1595,rfd2,people don't understand what I'm going through,rfd,2,172,7.714448,8.670108,-3.006638
+1595,rfd3,"Feeling alone, no support system",rfd,3,173,7.2043657,8.363051,-2.426999
+1597,driver1,anger,driver,1,174,5.954235,13.414642,-4.0262647
+1597,driver2,potential for hopeless future,driver,2,175,5.7732477,9.893436,-4.4652395
+1597,driver3,drug use,driver,3,176,1.5650513,18.87745,2.0045474
+1597,rfd1,on drugs,rfd,1,177,1.9833655,18.043486,2.1105435
+1597,rfd2,don't want to feel this way anymore,rfd,2,178,5.1673822,10.633883,-2.8892398
+1600,driver1,drug use,driver,1,179,1.5695996,18.873842,2.0087457
+1601,driver1,entrapment,driver,1,180,3.43093,9.460786,-3.6451795
+1601,driver2,drug use,driver,2,181,1.556646,18.885134,1.995297
+1601,rfd1,sometimes I don't feel like I have parents,rfd,1,182,7.6933365,8.23702,-0.8196852
+1601,rfd2,feel purposeless sometimes,rfd,2,183,5.4342637,8.782853,-4.1037574
+1601,rfd3,lack of direction,rfd,3,184,5.2101016,9.020723,-4.1639643
+1603,driver1,Relationship stress,driver,1,185,6.688033,15.450529,-3.0506654
+1603,rfd1,stress,rfd,1,186,6.6759353,15.437277,-3.046513
+1605,driver1,psychological pain,driver,1,187,0.63469744,11.675781,-0.90581536
+1605,driver2,PTSD,driver,2,188,8.692389,10.880435,3.831641
+1605,driver3,drug use,driver,3,189,1.5719906,18.87165,2.011648
+1605,rfd1,being raped,rfd,1,190,8.822696,10.092333,2.3256187
+1605,rfd2,losing my friend,rfd,2,191,7.1456,8.900071,0.18166298
+1608,driver1,Psychological/emotional pain,driver,1,192,2.039092,11.365468,-1.1267015
+1608,rfd1,I'm fed up,rfd,1,193,5.0590076,11.162488,-2.4761992
+1608,rfd2,"cry for help, I need help! I didn't necessarily want to die",rfd,2,194,4.843798,9.965966,-2.2423508
+1609,driver1,evaluated for PTSD,driver,1,195,8.679032,10.900051,3.833292
+1609,driver2,Depression,driver,2,196,-6.5247664,7.7973065,8.8780155
+1609,rfd1,I want to make my husband sorry,rfd,1,197,7.710081,9.011839,-0.4722232
+1611,driver1,ending frustrations and pains,driver,1,198,3.5760162,10.566012,-2.161596
+1611,driver2,loneliness,driver,2,199,13.495245,0.99011254,3.4066021
+1611,rfd1,loneliness,rfd,1,200,13.480928,0.98372936,3.4531455
+1611,rfd2,hard time returning to faith,rfd,2,201,5.2388387,9.755998,-4.718409
+1611,rfd3,miss having people with the same values,rfd,3,202,8.503002,8.568548,-2.2952697
+1611,rfd4,I let God down,rfd,4,203,7.5636315,9.359127,-3.590639
+1611,rfd5,I am a failure,rfd,5,204,7.584624,9.493666,-4.744054
+1613,driver1,feeling helpless and trapped,driver,1,205,4.859719,9.831615,-5.1464763
+1613,driver2,occupational therapy,driver,2,206,5.2021933,12.033346,-1.059959
+1613,driver3,arthritis,driver,3,207,2.673508,11.404173,-1.0202357
+1613,rfd1,"hopelessness, can't do anything",rfd,1,208,5.220968,9.632568,-4.7097945
+1613,rfd2,habing no help,rfd,2,209,6.806743,9.459932,-2.8866327
+1613,rfd3,nothing left for me,rfd,3,210,6.365978,9.29752,-2.6589005
+1613,rfd4,I cause my family a lot of pain,rfd,4,211,3.301671,11.340173,-1.2878377
+1617,driver1,guilt and shame,driver,1,212,8.958742,11.651913,0.57672244
+1617,driver2,PTSD,driver,2,213,8.671683,10.859696,3.8101556
+1617,rfd1,not being able to help anybody,rfd,1,214,6.6842027,10.481798,-3.2772236
+1617,rfd2,running over kids in Iraq,rfd,2,215,8.739367,10.132437,2.1889515
+1618,driver1,feeling defeated and trapped,driver,1,216,4.914041,9.869147,-5.020208
+1618,driver2,hearing voices,driver,2,217,5.4731083,13.484221,0.31784204
+1618,rfd1,I'm fat,rfd,1,218,8.242956,9.288599,-3.8936818
+1618,rfd2,I hear voices,rfd,2,219,5.523764,13.52836,0.3688569
+1619,driver1,percieved to be a burden,driver,1,220,9.806808,9.756978,-2.5106692
+1619,rfd1,nobody understands,rfd,1,221,7.8428206,8.565635,-2.7884836
+1619,rfd2,everybody writes off how I feel when I tell them,rfd,2,222,7.757019,8.674226,-2.9178133
+1619,rfd3,being really overwhelmed,rfd,3,223,6.4086475,13.542222,-2.6845644
+1621,driver1,loneliness/lack of belonging,driver,1,224,7.158253,7.9624333,-2.5088325
+1621,driver2,grief/loss,driver,2,225,7.2206755,8.01761,1.7367648
+1621,rfd1,to be with my brother,rfd,1,226,6.440522,8.631887,-0.71703196
+1621,rfd2,not seeing my kids,rfd,2,227,7.2026215,8.646812,-0.36277303
+1623,driver1,"pain, too mcuh pain",driver,1,228,2.6928096,10.673767,-1.0260831
+1623,driver2,bad relationship with drugs,driver,2,229,2.2366843,17.859123,2.5920112
+1623,rfd1,fucking up,rfd,1,230,7.3821797,9.078919,-0.93322456
+1623,rfd2,she's not going to want me back,rfd,2,231,7.7274456,9.124061,-0.0774461
+1624,driver1,hopelessness,driver,1,232,2.8902824,8.066076,-8.806155
+1624,driver2,using drugs,driver,2,233,1.7674527,18.541166,2.1267254
+1625,driver1,intense emotional and psychological pain,driver,1,234,2.2788522,11.25779,-1.0971928
+1625,rfd1,"I'm a burden to my family, they have to deal with my illness",rfd,1,235,4.381815,11.811262,-1.3918102
+1625,rfd2,physical/emotional pain,rfd,2,236,2.3680758,11.269336,-1.011675
+1626,driver1,feeling defeated/overwhelmed,driver,1,237,4.8266606,9.691292,-5.3977985
+1626,driver2,medication management,driver,2,238,4.0795403,12.295956,-1.1099024
+1626,rfd1,"feeling defeated by medical nonsense, tired of dealing with it",rfd,1,239,4.3526073,11.668129,-1.8215706
+1626,rfd2,easy way out,rfd,2,240,4.3782287,10.262752,-3.5942886
+1627,driver1,anger at the world,driver,1,241,5.9405894,13.382834,-4.067549
+1627,driver2,substance use,driver,2,242,2.3624947,17.78737,2.860652
+1627,driver3,trauma,driver,3,243,9.801377,9.236757,4.00091
+1627,rfd1,feeling trapped by situation,rfd,1,244,4.4474773,10.155921,-4.880344
+1627,rfd2,loneliness,rfd,2,245,13.533142,0.98971397,3.4817762
+1628,driver1,psychological pain,driver,1,246,0.66506046,11.706687,-0.9503628
+1628,driver2,depression,driver,2,247,-6.514352,7.8030763,8.827644
+1628,rfd1,to just stop hurting,rfd,1,248,3.82028,10.6594305,-1.6976806
+1628,rfd2,feel like I'm a drain on others,rfd,2,249,9.098894,9.259761,-3.0840638
+1629,driver1,not being wanted/loneliness,driver,1,250,7.153864,8.061013,-2.557099
+1629,driver2,cutting back on meds,driver,2,251,3.9312975,11.955444,-1.2946389
+1629,rfd1,feel hopeless about everything,rfd,1,252,5.369874,9.6424265,-4.6764383
+1629,rfd2,don't want to live on a machine,rfd,2,253,5.4041862,10.971187,-2.2362487
+1629,rfd3,want to get out of other people's way,rfd,3,254,4.2103386,10.0878,-2.5944479
+1629,rfd4,don't feel the need to live anymore,rfd,4,255,4.96365,10.391659,-2.6508553
+1630,driver1,hopelessness,driver,1,256,2.8677652,8.020123,-8.743538
+1630,driver2,grief/shame,driver,2,257,7.292422,8.19789,1.5967149
+1630,rfd1,guilt I feel relating to my wife,rfd,1,258,8.094657,9.2868185,-0.42734465
+1630,rfd2,never got to see my baby,rfd,2,259,7.02136,8.701101,-0.4007235
+1631,driver1,self-hatred,driver,1,260,10.64241,15.734506,-8.294173
+1631,driver2,feeling like a burden to everyone,driver,2,261,9.199802,9.284932,-2.9781482
+1631,rfd1,not feeling wanted,rfd,1,262,7.255393,8.25289,-3.1110427
+1631,rfd2,not feeling useful,rfd,2,263,6.4804587,8.68275,-4.682305
+1631,rfd3,there being no point,rfd,3,264,4.9605026,8.970064,-3.2753608
+1634,driver1,psychological pain,driver,1,265,0.67249733,11.700093,-0.931438
+1634,driver2,physical pain,driver,2,266,2.3773444,11.246486,-0.9689071
+1634,rfd1,going through everything I've gone through,rfd,1,267,5.3075304,10.182022,-2.664899
+1634,rfd2,"I've been going through this long enough, tired all the time",rfd,2,268,5.250006,11.495582,-2.3256042
+1635,driver1,loneliness/hopelessness,driver,1,269,7.023329,8.018245,-2.342251
+1635,driver2,homelessness,driver,2,270,8.150257,11.778274,-1.5499046
+1635,rfd1,depression,rfd,1,271,-6.52753,7.8047047,8.851365
+1635,rfd2,not being with my family,rfd,2,272,6.9411674,8.705043,-0.5350608
+1635,rfd3,get out of the pain,rfd,3,273,3.383022,10.750871,-1.7507013
+1637,driver1,psychological/emotional pain,driver,1,274,2.0608237,11.37101,-1.0987723
+1637,rfd1,because I need to get the fuck up out of this bitch,rfd,1,275,4.896589,10.917368,-2.1434126
+1637,rfd2,emotional pain,rfd,2,276,1.9100363,11.281758,-1.1829238
+1637,rfd3,"my existence is so miserable, just want it to end",rfd,3,277,5.112889,10.178983,-3.0186567
+1638,driver1,psychological pain,driver,1,278,0.63919413,11.698697,-0.93297756
+1638,driver2,feelings of worthlessness,driver,2,279,6.4872775,8.723414,-4.884877
+1638,driver3,abuse,driver,3,280,8.71148,10.227491,2.0713718
+1638,rfd1,better off not having to go through abuse,rfd,1,281,8.732044,10.207953,2.1504843
+1638,rfd2,feel like nobody loves me,rfd,2,282,7.529771,8.447565,-2.5766675
+1638,rfd3,might find peace,rfd,3,283,4.945247,9.766728,-1.1190553
+1640,driver1,hopelessness/entrapment,driver,1,284,4.640975,9.589313,-5.459699
+1640,driver2,drug use,driver,2,285,1.5605384,18.867214,2.020804
+1641,driver1,mental anguish,driver,1,286,0.6960341,11.686096,-0.9522783
+1641,driver2,shame and guilt,driver,2,287,8.927782,11.698025,0.5904023
+1641,driver3,failure/fear of failure,driver,3,288,6.2689114,10.781406,-4.0549726
+1641,rfd1,failed business,rfd,1,289,8.109433,9.20618,-4.9654794
+1641,rfd2,shame and guilt about poor decisions,rfd,2,290,8.95412,11.675681,0.6252894
+1641,rfd3,stop the mental anguish,rfd,3,291,3.17893,10.757033,-2.1178772
+1642,driver1,hopeless about situation,driver,1,292,5.20511,9.707913,-4.722977
+1642,driver2,overwhelming stress,driver,2,293,6.3954463,14.109462,-2.7698753
+1642,rfd1,I don't want to be in pain,rfd,1,294,3.503113,10.75365,-1.7182066
+1642,rfd2,I want to sleep,rfd,2,295,5.479472,12.628275,-1.8559302
+1642,rfd3,I don't want to be burdened by my body,rfd,3,296,4.780584,10.378844,-2.1204672
+1642,rfd4,tired of fighting living like this every day,rfd,4,297,5.2429357,11.254961,-2.2786689
+1643,driver1,hopeless,driver,1,298,2.9715717,8.139204,-8.780639
+1643,driver2,finding work/being productive,driver,2,299,6.4635625,8.983876,-4.4541774
+1643,rfd1,"If I can't be productive, I don't want to be on this planet",rfd,1,300,6.3260703,8.97741,-4.4007716
+1644,driver1,burden to others,driver,1,301,9.576565,9.882273,-2.706104
+1644,rfd1,I lived my life,rfd,1,302,5.3203945,9.671574,-3.1317537
+1644,rfd2,I don't have anyone left,rfd,2,303,6.4896007,9.201465,-2.546861
+1644,rfd3,"I'm old, I'm not good for anything",rfd,3,304,6.900614,9.450823,-4.3632684
+1644,rfd4,I'm just a burden,rfd,4,305,9.068232,9.377956,-3.1708097
+1646,driver1,feeling unwanted,driver,1,306,7.2077265,8.231591,-3.1421473
+1646,driver2,feel like I'm a burden,driver,2,307,9.23609,9.220452,-3.035441
+1646,rfd1,"feeling unloved, unwanted",rfd,1,308,7.227914,8.16888,-3.033714
+1646,rfd2,feeling miserable,rfd,2,309,6.298948,8.80497,-4.726422
+1646,rfd3,"if I died, life would go on",rfd,3,310,5.070555,9.599332,-2.1207738
+1646,rfd4,nobody wants to deal with me,rfd,4,311,7.7782693,8.658496,-2.6470618
+1647,driver1,self-hate and worthlessness,driver,1,312,10.436123,15.490764,-8.060807
+1647,driver2,estranged from mother and daughter,driver,2,313,8.097261,8.753848,-0.18786356
+1647,rfd1,not at peace with my family,rfd,1,314,6.9340234,8.709746,-0.5866743
+1647,rfd2,lost the woman I love,rfd,2,315,7.2392035,9.071282,0.031847112
+1647,rfd3,trauma from molestation and beatings,rfd,3,316,8.893618,10.030264,2.607516
+1649,driver1,not feeling loved/not belonging,driver,1,317,7.185567,7.946471,-2.658258
+1649,rfd1,receive no love from my family and ex-wife,rfd,1,318,7.8552923,8.432115,-1.9111794
+1650,driver1,feeling helpless and hopeless,driver,1,319,5.1418834,9.652515,-5.115846
+1650,driver2,"feeling abandoned, like no one is there for me",driver,2,320,7.199191,8.27918,-2.614771
+1650,rfd1,not dealing with things that stress me out,rfd,1,321,6.428744,10.496187,-3.4182708
+1650,rfd2,things that are out of my control,rfd,2,322,6.4703937,10.48246,-3.3874438
+1651,driver1,sex abuse,driver,1,323,8.773524,10.161753,2.232955
+1651,rfd1,to avoid abandonment,rfd,1,324,3.9910717,9.993292,-2.1769419
+1651,rfd2,feeling helpless,rfd,2,325,5.1986985,9.713171,-5.4261684
+1651,rfd3,"no quality of life, no routine",rfd,3,326,5.962553,10.949095,-2.9216752
+1657,driver1,lack of a will to live,driver,1,327,6.454851,10.834085,-3.2044046
+1657,rfd1,nothing left to live for,rfd,1,328,5.505558,9.359888,-2.7740326
+1657,rfd2,I'm worthless,rfd,2,329,8.514896,9.22796,-4.0738487
+1658,driver1,psychological pain,driver,1,330,0.6553776,11.742074,-0.97061443
+1658,rfd1,I'm just a burden for others,rfd,1,331,9.141952,9.472595,-3.1218486
+1658,rfd2,when I go down roads I don't want to go down,rfd,2,332,5.0047674,10.030502,-4.399524
+1659,driver1,feeling worthless/hopless,driver,1,333,6.4478316,8.58134,-4.873791
+1659,driver2,relationship problems,driver,2,334,7.8178005,9.196262,-0.029143887
+1659,driver3,lack of access to basic needs,driver,3,335,7.5082717,10.731828,-2.3697581
+1659,rfd1,nobody supporting me when my husband passed away,rfd,1,336,7.3642282,8.166807,0.5009255
+1659,rfd2,daughter passed away,rfd,2,337,7.452303,8.317374,0.3942131
+1660,driver1,psychological pain,driver,1,338,0.6714095,11.709199,-0.94971836
+1660,driver2,drug use,driver,2,339,1.5397307,18.911375,1.9892913
+1661,driver1,hopelessness,driver,1,340,2.8877187,8.089478,-8.84057
+1661,driver2,trauma,driver,2,341,9.776662,9.26207,3.9940553
+1661,rfd1,to make a statement as to how cruel the world is,rfd,1,342,4.0008564,9.991014,-2.0803676
+1661,rfd2,end my psychological turmoil,rfd,2,343,3.5300162,10.724958,-2.3922036
+1663,driver1,fear of future,driver,1,344,5.9959574,10.625995,-4.2762866
+1663,driver2,lack of hope/despair,driver,2,345,3.1324482,8.031936,-8.436852
+1663,rfd1,"despair, so much despair",rfd,1,346,3.0157864,7.982354,-8.626021
+1663,rfd2,scared to ask father for help,rfd,2,347,8.2631645,8.197567,-0.092225246
+1663,rfd3,what's going on in the world,rfd,3,348,5.9929852,9.982325,-3.2047386
+1664,driver1,hopelessness,driver,1,349,2.8849869,8.030007,-8.800805
+1664,rfd1,tired of feeling the way I feel,rfd,1,350,5.3109317,11.047048,-2.7837665
+1664,rfd2,the person that I was is gone,rfd,2,351,7.2292485,9.058951,-0.007244722
+1665,driver1,hopelessness/feeling like nobody cares,driver,1,352,3.0382094,8.029798,-8.630851
+1665,rfd1,don't want to go through the burden of chemotherapy,rfd,1,353,3.795413,11.023616,-1.6614176
+1666,driver1,self-hatred,driver,1,354,10.627066,15.724889,-8.2705345
+1666,driver2,depression and anxiety,driver,2,355,5.056245,14.0387125,-1.6736286
+1666,driver3,lost job,driver,3,356,7.9134083,11.032055,-3.0820198
+1666,rfd1,"I'm a disappointment, a failure, a dud",rfd,1,357,7.642157,9.462241,-4.7600427
+1667,driver1,self-hatred,driver,1,358,10.6570835,15.74911,-8.307992
+1667,driver2,alcohol use,driver,2,359,2.8544178,11.052416,9.151076
+1667,rfd1,I have nothing,rfd,1,360,6.443428,9.27769,-2.6415558
+1667,rfd2,"I have baggage, I've done wrong",rfd,2,361,6.810844,9.866436,-3.9747322
+1667,rfd3,don't want kids,rfd,3,362,7.854914,9.299298,-0.8774783
+1667,rfd4,withdrawal from alcohol,rfd,4,363,3.0360649,11.270269,9.1211815
+1669,driver1,just need somebody to talk to,driver,1,364,7.0048504,8.521529,-2.080057
+1670,driver1,voices in my head,driver,1,365,5.43925,13.437306,0.24723744
+1670,driver2,psychological pain,driver,2,366,0.6679905,11.7068405,-0.9404328
+1670,rfd1,getting too tired of fighting,rfd,1,367,5.087826,11.062123,-2.158933
+1671,driver1,depression,driver,1,368,-6.503524,7.7829933,8.85333
+1671,rfd1,my health,rfd,1,369,4.8536777,12.079554,-1.3576142
+1671,rfd2,lost everything,rfd,2,370,7.0113206,9.239069,-0.11298788
+1671,rfd3,depression,rfd,3,371,-6.5489554,7.8127875,8.790767
+1672,driver1,substance use,driver,1,372,2.3262494,17.821688,2.8256507
+1672,driver2,no job,driver,2,373,7.8916826,11.050992,-3.0956752
+1672,rfd1,feelings/love wasn't given back/reciprocated,rfd,1,374,7.220381,8.127727,-3.096317
+1673,driver1,feel like I'm a burden to my family,driver,1,375,9.223351,9.20313,-2.9208786
+1673,driver2,occupational therapy,driver,2,376,5.2154474,12.035522,-1.0598946
+1673,rfd1,so it will all be over,rfd,1,377,4.451172,10.555664,-1.9179205
+1674,driver1,psychological pain,driver,1,378,0.6831895,11.739735,-0.97330785
+1674,driver2,depression,driver,2,379,-6.547005,7.8667374,8.9151
+1674,rfd1,no more coping skills,rfd,1,380,6.2146387,11.12218,-2.9904337
+1674,rfd2,sheer exhaustion,rfd,2,381,6.3635464,14.00731,-2.7625363
+1674,rfd3,ending my distress,rfd,3,382,3.5813015,10.584519,-2.2772577
+1680,driver1,hopelessness,driver,1,383,2.9090674,8.085768,-8.795067
+1680,driver2,sexual trauma/PTSD,driver,2,384,8.871615,10.098617,2.7861652
+1680,rfd1,tired of living,rfd,1,385,5.336133,11.2348795,-2.4484153
+1680,rfd2,hurts emotionally and physically to live,rfd,2,386,2.2796414,11.226987,-1.1877177
+1680,rfd3,"it feels like it isn't even worth it, the effort I put in isn't worth what I get back",rfd,3,387,6.886869,9.544792,-4.840891
+1681,driver1,self-hatred/psychological pain,driver,1,388,0.67909664,11.610728,-0.95846856
+1681,driver2,depression/PTSD,driver,2,389,8.633822,10.827639,3.7272382
+1681,rfd1,lots of self-hatred,rfd,1,390,10.670206,15.764559,-8.324372
+1681,rfd2,bad memories with brother and molestations,rfd,2,391,8.874326,9.997746,2.5724769
+1681,rfd3,things not working out here,rfd,3,392,5.800538,9.987471,-3.6591947
+1681,rfd4,feeling like a burden to friends,rfd,4,393,9.234631,9.226883,-2.9768717
+1681,rfd5,no joy in life,rfd,5,394,5.219962,9.251766,-3.2000759
+1687,driver1,low self-worth,driver,1,395,7.897472,11.987181,-5.096706
+1687,driver2,feeling like a burden,driver,2,396,9.266572,9.251806,-3.006629
+1687,rfd1,feeling neglected,rfd,1,397,7.251742,8.242665,-3.0973291
+1687,rfd2,feeling unappreciated,rfd,2,398,7.2223983,8.288772,-3.2301452
+1687,rfd3,no self-worth,rfd,3,399,7.9465985,11.957633,-5.107393
+1688,driver1,hopelessness,driver,1,400,2.8495388,8.015685,-8.767455
+1688,driver2,psychological/physical pain,driver,2,401,2.1910045,11.353275,-1.0944575
+1688,driver3,feeling like a burden to others,driver,3,402,9.189935,9.319842,-2.9556954
+1688,rfd1,wanting to die because I'm in so much misery,rfd,1,403,5.0464783,10.194196,-2.858409
+1688,rfd2,feeling like others would be better off without me,rfd,2,404,8.878667,8.890874,-2.6838272
+1689,driver1,stress/psychological pain,driver,1,405,2.1488376,11.466482,-1.1313496
+1689,driver2,hopelessness,driver,2,406,2.917506,8.058635,-8.718023
+1689,rfd1,hopelessness,rfd,1,407,2.932923,8.012874,-8.714841
+1689,rfd2,things aren't going to get better,rfd,2,408,5.681708,10.320337,-3.5183892
+1690,driver1,psychological pain,driver,1,409,0.6790295,11.726606,-0.9602064
+1690,driver2,flashbacks/trauma,driver,2,410,8.795449,10.2553005,3.1421533
+1690,rfd1,trauma that makes me feel helpless,rfd,1,411,9.347767,9.551438,3.4552107
+1691,driver1,hopelessness,driver,1,412,2.823796,7.985811,-8.775012
+1691,driver2,continual failure,driver,2,413,8.094066,9.21127,-4.961866
+1691,rfd1,kids won't have the shame of what I didn't do,rfd,1,414,8.074403,9.279594,-1.1087774
+1691,rfd2,"if I was gone, the good would stand out",rfd,2,415,8.644703,8.858748,-2.1958883
+1693,driver1,psychological pain,driver,1,416,0.67776805,11.723412,-0.9066107
+1693,driver2,flashbacks/painful memories,driver,2,417,8.811149,10.172776,3.0400882
+1693,rfd1,to get away from a lot of unnecessary hurt and pain,rfd,1,418,3.8523886,10.304978,-1.8772914
+1693,rfd2,thoughts of the past,rfd,2,419,8.275228,11.004489,0.75521743
+1695,driver1,psychological pain,driver,1,420,0.68525296,11.741067,-0.93071824
+1695,driver2,"not feeling good enough, worthy enough, up to par",driver,2,421,6.671481,9.184434,-4.684757
+1696,driver1,stress,driver,1,422,6.726242,15.493311,-3.1011631
+1696,driver2,being around negative people,driver,2,423,6.1190157,10.459715,-3.6975617
+1698,driver1,self-hatred,driver,1,424,10.597477,15.690045,-8.245112
+1698,rfd1,to stop hurting,rfd,1,425,3.8103678,10.471579,-1.7856227
+1698,rfd2,to see my parents again,rfd,2,426,6.5007057,8.663082,-0.6694095
+1700,driver1,hopelessness/helplessness,driver,1,427,4.463054,9.301262,-6.0372467
+1700,driver2,"PTSD, insomnia",driver,2,428,8.595163,10.851272,3.723539
+1700,driver3,alcohol abuse,driver,3,429,2.9272952,11.116616,9.151765
+1700,rfd1,I'm miserable all day,rfd,1,430,5.3562903,10.018545,-3.258327
+1700,rfd2,failure to parents,rfd,2,431,8.44302,8.509535,-0.6030234
+1700,rfd3,bankrupt drug addict,rfd,3,432,2.277089,17.858204,2.6531143
+1700,rfd4,lack of sleep is torturous,rfd,4,433,5.610124,12.991524,-1.9010378
+1701,driver1,hopelessness/helplessness,driver,1,434,4.457647,9.29729,-6.0387053
+1701,driver2,feeling abandoned by God,driver,2,435,7.097378,8.2774515,-2.9761841
+1701,rfd1,I'm in so much pain,rfd,1,436,3.106541,10.688248,-1.4251447
+1701,rfd2,can't walk or do anything for myself,rfd,2,437,2.951181,11.545856,-1.44984
+1701,rfd3,mentally and physically estranged from family,rfd,3,438,8.1722555,8.66717,-0.6905158
+1702,driver1,psyhological/physical pain,driver,1,439,2.0103102,11.428077,-1.0862616
+1702,driver2,grief/loss of loved ones,driver,2,440,7.3294806,8.274748,0.93595475
+1702,driver3,BPD,driver,3,441,5.003829,13.772015,-0.94310486
+1702,rfd1,feeling like I have nothing,rfd,1,442,6.4170113,8.682022,-4.7587366
+1702,rfd2,can get nothing done,rfd,2,443,6.4518776,9.397249,-4.2637324
+1702,rfd3,being overly medicated,rfd,3,444,4.8810186,13.363928,-1.1047707
+1702,rfd4,feeling helpless,rfd,4,445,5.2112055,9.750363,-5.446999
+1703,driver1,hopelessness about romantic situation and friendships,driver,1,446,5.2917886,9.523713,-4.8120675
+1703,driver2,feeling alone,driver,2,447,6.9967017,8.349793,-2.44848
+1704,driver1,physical pain,driver,1,448,2.396141,11.199359,-0.90121853
+1704,driver2,disability,driver,2,449,5.267438,12.059245,-1.0450273
+1704,rfd1,life isn't worth living right now,rfd,1,450,5.3139405,9.649596,-2.9128382
+1704,rfd2,chronic pain,rfd,2,451,2.626543,11.462955,-1.0167965
+1707,driver1,feeling like a burden,driver,1,452,9.271266,9.252905,-3.0038526
+1707,driver2,alcoholism,driver,2,453,3.2342892,11.329664,9.255211
+1707,rfd1,drinking too much,rfd,1,454,2.9700525,11.132284,9.057178
+1707,rfd2,too many drugs,rfd,2,455,1.5346181,18.910175,1.9754187
+1707,rfd3,not keeping jobs,rfd,3,456,7.899238,11.082388,-3.025824
+1707,rfd4,"part of me doesn't want to keep going, feeling stuck in a rut",rfd,4,457,4.727719,10.134219,-4.8229146
+1708,driver1,lack of sense of community/connection,driver,1,458,7.197036,7.9815483,-2.5005586
+1708,driver2,lack of job,driver,2,459,7.8501797,11.083487,-2.984277
+1708,rfd1,just tired of dealing with things,rfd,1,460,5.174489,11.166957,-2.3187592
+1712,driver1,stress and pressure,driver,1,461,6.6385427,15.412448,-3.0238795
+1713,driver1,psychological pain,driver,1,462,0.67183965,11.699416,-0.9068196
+1713,driver2,grief/trauma,driver,2,463,7.5470095,8.449705,1.6116141
+1714,driver1,psychological pain,driver,1,464,0.6632568,11.744098,-0.96812713
+1714,driver2,grief/loneliness,driver,2,465,7.3517075,8.367465,1.1352319
+1714,rfd1,tired of hurting all the time,rfd,1,466,3.8003428,10.800854,-1.7699319
+1714,rfd2,getting to see my mother,rfd,2,467,6.5582356,8.608512,-0.6652114
+1715,driver1,thwarted belongingness,driver,1,468,7.1987214,7.903626,-2.6703482
+1715,driver2,percieved burden-ness,driver,2,469,9.882056,9.956549,-2.4307413
+1715,driver3,depression,driver,3,470,-6.553315,7.777983,8.852538
+1715,rfd1,I want it all to be over,rfd,1,471,4.804476,10.81952,-2.053805
+1715,rfd2,I want to be at peace,rfd,2,472,4.9053674,9.729243,-1.1738449
+1721,driver1,grief,driver,1,473,7.160833,7.865589,2.0104668
+1721,driver2,depression,driver,2,474,-6.408785,7.8956566,8.992399
+1721,rfd1,sick and tired of being sick and tired,rfd,1,475,5.2305655,11.4151745,-2.383361
+1721,rfd2,people misinterpret my issue,rfd,2,476,7.7626505,8.776828,-3.0775292
+1721,rfd3,feeling like I don't have anyone,rfd,3,477,7.262588,8.388944,-2.4237037
+1725,driver1,feeling worthless/hopless,driver,1,478,6.434628,8.583541,-4.874985
+1725,driver2,limited physical activity,driver,2,479,4.898085,12.136579,-1.2305199
+1725,rfd1,I keep screwing up,rfd,1,480,6.337338,9.827069,-4.6354117
+1725,rfd2,putting a burden on everyone's lives,rfd,2,481,9.43362,9.797298,-2.648532
+1725,rfd3,not being able to do the stuff I used to do,rfd,3,482,6.5645065,10.647399,-3.0217342
+1725,rfd4,feel powerless to change myself,rfd,4,483,5.8029833,10.174221,-4.7211676
+1728,driver1,feeling like a burden,driver,1,484,9.298051,9.235112,-2.9795883
+1728,driver2,heroin use,driver,2,485,1.7527086,18.612558,2.1314087
+1728,rfd1,feeling like they wouldn't have to deal with my problems if I was gone,rfd,1,486,8.890059,8.835,-2.5690742
+1728,rfd2,feeling exhausted dealing with issues,rfd,2,487,6.3660545,13.699461,-2.6794012
+1731,driver1,self-hatred,driver,1,488,10.643742,15.735095,-8.294641
+1731,driver2,bad relationship with parents,driver,2,489,8.334975,8.354943,-0.3828223
+1731,rfd1,giving up on myself,rfd,1,490,5.49578,9.881919,-4.7301564
+1731,rfd2,"feeling very empty, a pit of emptiness",rfd,2,491,6.3635616,8.750906,-4.647489
+1731,rfd3,"it wouldn't matter if I did die, feel very worthless",rfd,3,492,4.9553733,9.683766,-2.1532075
+1731,rfd4,"feeling actual pain in my chest, like my heart is breaking",rfd,4,493,2.2601376,11.322908,-1.1029644
+1732,driver1,psychological pain,driver,1,494,0.6667032,11.722387,-0.94944113
+1732,driver2,drugs,driver,2,495,2.0406466,17.965445,2.153758
+1733,driver1,psychological pain,driver,1,496,0.6885643,11.708232,-0.9583254
+1733,driver2,depression,driver,2,497,-6.4808507,7.7882605,8.877271
+1733,rfd1,"feeling no one is there for me, alone",rfd,1,498,7.159574,8.318432,-2.4562752
+1733,rfd2,doing the same thing every day,rfd,2,499,5.554667,10.18771,-2.8006866
+1735,driver1,knowing there is a better place,driver,1,500,5.630416,9.147847,-4.368403
+1735,driver2,homelessness,driver,2,501,8.139269,11.752584,-1.5759895
+1735,driver3,drug use,driver,3,502,1.5970434,18.914106,1.969909
+1735,rfd1,"saw someone from the other side who told me to go the ""hotel of freedom""",rfd,1,503,4.415369,9.826925,-2.0578008
+1735,rfd2,if things don't get any better,rfd,2,504,5.6335015,10.331623,-3.483606
+1736,driver1,thwarted belongingness,driver,1,505,7.195104,7.9238977,-2.6470819
+1736,driver2,homelessness,driver,2,506,8.151115,11.768541,-1.5649146
+1736,rfd1,all alone in the world,rfd,1,507,6.215658,8.516988,-1.8716235
+1736,rfd2,tired of life,rfd,2,508,5.2824984,11.289245,-2.497096
+1738,driver1,nothing left to give,driver,1,509,6.1276755,9.3903,-2.756458
+1738,driver2,loneliness,driver,2,510,13.483493,0.9417996,3.4429483
+1738,driver3,HIV,driver,3,511,4.42817,12.554717,-1.0059549
+1738,rfd1,feel sick of being sick,rfd,1,512,4.811345,11.6852,-2.0205715
+1738,rfd2,only time I get to talk about HIV is with doctors or therapists,rfd,2,513,4.468996,12.536759,-0.9832716
+1738,rfd3,"see diagnosis of HIV as a personal failure, don't want sons to be ashamed of me",rfd,3,514,4.4767027,12.491034,-0.98662144
+1741,driver1,psychological pain,driver,1,515,0.6739154,11.727337,-0.9501287
+1741,driver2,grief/loss,driver,2,516,7.239518,8.151004,1.4419469
+1741,rfd1,"feeling overwhelmed, everything's hitting me at once",rfd,1,517,6.534086,13.461065,-2.6656432
+1743,driver1,psychological pain,driver,1,518,0.6399927,11.670228,-0.90225434
+1743,driver2,relationship with sister,driver,2,519,8.1430435,8.281047,-0.3474065
+1743,driver3,trauma,driver,3,520,9.782259,9.253798,3.9963272
+1743,rfd1,"I feel like I don't belong here, in this world",rfd,1,521,5.692236,8.804199,-4.0913763
+1743,rfd2,my family hates me,rfd,2,522,7.938187,8.510608,-1.4887214
+1743,rfd3,I'm not needed,rfd,3,523,8.498319,9.195585,-3.9989836
+1743,rfd4,"I feel like my life is all planned out, like I don't any choice in the matter",rfd,4,524,5.6189656,9.603615,-4.261278
+1744,driver1,feeling hurt by the world,driver,1,525,5.719601,9.185424,-4.5184135
+1746,driver1,psychological pain,driver,1,526,0.6577201,11.73727,-0.91898644
+1746,driver2,hopelessness,driver,2,527,2.8412356,8.0414505,-8.745741
+1746,driver3,bipolar disorder,driver,3,528,5.0161858,13.763831,-0.9655982
+1746,rfd1,low coping skills with everyday life,rfd,1,529,6.3119216,11.164971,-3.0701263
+1746,rfd2,no foundation,rfd,2,530,7.603421,10.681158,-2.0701845
+1746,rfd3,drug use excasturbates issues,rfd,3,531,2.135355,18.032766,2.625409
+1747,driver1,hopelessness/lack of future,driver,1,532,5.594172,9.805826,-4.48201
+1747,driver2,drug use,driver,2,533,1.5564694,18.89055,1.9975259
+1747,driver3,depression,driver,3,534,-6.374357,7.6759677,8.917412
+1747,rfd1,"hopelessness, feeling like I don't have a purpose",rfd,1,535,5.4012437,8.8804245,-4.138308
+1748,driver1,feeling defeated/trapped/helpless,driver,1,536,4.8804836,9.717236,-5.2946367
+1748,driver2,loneliness,driver,2,537,13.531116,0.95480865,3.4757524
+1748,rfd1,I'm so tired of fighting and losing,rfd,1,538,5.0402074,11.06671,-2.2236867
+1748,rfd2,feeling beaten down,rfd,2,539,5.081118,9.57869,-5.1533465
+1749,driver1,feeling defeated/giving up,driver,1,540,4.9808297,9.706464,-5.251555
+1749,driver2,depression,driver,2,541,-6.57473,7.8686438,8.717848
+1749,rfd1,"overwhelmed, stressed",rfd,1,542,6.3738112,13.901314,-2.7827158
+1749,rfd2,feeling like a failure,rfd,2,543,7.0183835,9.659491,-4.895373
+1749,rfd3,wanting to just give up,rfd,3,544,5.247994,9.793657,-4.8943763
+1749,rfd4,depressed about nephew dying by suicide,rfd,4,545,7.4094195,8.31897,0.6458341
+1909,driver1,physical pain,driver,1,546,2.3995416,11.180244,-0.9104784
+1909,driver2,anxiety,driver,2,547,5.358782,16.520575,-5.813328
+1909,driver3,depression,driver,3,548,-6.625146,7.70583,8.904784
+1909,rfd1,"don't want to be in pain, deal with medical issues",rfd,1,549,3.597566,10.775557,-1.7482375
+1909,rfd2,no reasons to live,rfd,2,550,5.1687884,9.412755,-2.908796
+1910,driver1,alcoholism,driver,1,551,3.2252986,11.320672,9.215995
+1910,driver2,psychological pain,driver,2,552,0.7092409,11.677939,-0.9128385
+1912,driver1,sadness/lack of purpose,driver,1,553,5.1527715,8.685211,-4.1762395
+1912,rfd1,won't have a conscious experience,rfd,1,554,4.6789885,10.043811,-2.094477
+1912,rfd2,"no more suffering, anticipation, burden",rfd,2,555,3.9406285,10.396986,-1.9042114
+1912,rfd3,people would be better off without me,rfd,3,556,8.724505,8.804037,-2.2058887
+1913,driver1,fear of losing daughter,driver,1,557,8.046693,8.76096,-0.1409352
+1915,driver1,potential loss of my fmaily,driver,1,558,7.872913,10.742899,-2.6193695
+1915,driver2,financial burden,driver,2,559,9.553367,10.353074,-2.4989772
+1915,rfd1,insurmountable problems,rfd,1,560,3.2493944,8.180266,-8.9405985
+1917,driver1,anxiety/overwhelmed,driver,1,561,6.2821307,13.831668,-2.7677534
+1918,driver1,family,driver,1,562,7.809814,8.5044775,-0.80481076
+1918,driver2,racing thoughts/overwhelmed,driver,2,563,6.5308647,13.361312,-2.6210935
+1918,rfd1,family problems,rfd,1,564,8.2417,8.451519,-0.57675946
+1918,rfd2,getting back to the old me,rfd,2,565,5.90828,10.228346,-4.6508274
+1919,driver1,hopelessness,driver,1,566,2.8591971,7.9657145,-8.821732
+1919,driver2,lack of social support/loneliness,driver,2,567,7.077997,8.047734,-2.3360956
+1919,rfd1,selfishness,rfd,1,568,10.566576,15.646014,-8.211589
+1919,rfd2,to show people,rfd,2,569,4.0209794,9.910845,-2.1400437
+1922,driver1,PTSD,driver,1,570,8.674988,10.876487,3.8278203
+1922,driver2,perfectionism,driver,2,571,6.408459,10.781811,-3.7540858
+1922,rfd1,to feel relief,rfd,1,572,3.8104792,10.406197,-1.8294576
+1923,driver1,childhood abuse,driver,1,573,8.78945,10.151625,2.256374
+1923,driver2,self-hatred,driver,2,574,10.63326,15.72491,-8.283816
+1923,rfd1,I'm a waste of spcae,rfd,1,575,8.495859,9.240208,-4.0463414
+1923,rfd2,There's no reason to be here,rfd,2,576,5.0111117,10.419373,-2.818809
+1926,driver1,can't stay sober,driver,1,577,3.0760574,11.257071,9.148044
+1926,driver2,family relationships,driver,2,578,8.119574,8.409884,-0.6096672
+1926,rfd1,"I wouldn't hurt anyone anymore, except for one more time",rfd,1,579,4.0446115,10.736538,-1.572553
+1928,driver1,being bullied,driver,1,580,8.779715,10.151713,2.0359006
+1930,driver1,hopelessness,driver,1,581,2.7540627,7.958614,-8.691725
+1930,rfd1,not going anywhere in life,rfd,1,582,5.3451343,9.794964,-3.891676
+1930,rfd2,dead end job,rfd,2,583,7.892787,11.08284,-3.081649
+1930,rfd3,going to bed hungry,rfd,3,584,5.614936,12.992389,-1.8503202
+1931,driver1,living arrangements,driver,1,585,7.5957575,11.360706,-1.8529929
+1931,driver2,chest pains,driver,2,586,2.3742898,11.324494,-0.97774166
+1931,rfd1,this will all go away,rfd,1,587,4.5364614,10.689594,-1.9026545
+1934,driver1,worthlessness/shame,driver,1,588,9.772893,9.437478,-6.620931
+1934,rfd1,get away from it all,rfd,1,589,3.9375432,10.448804,-2.41439
+1934,rfd2,seeing grandmother again,rfd,2,590,7.3574266,8.400302,0.016338931
+1934,rfd3,not having to deal with it anymore,rfd,3,591,6.125563,9.389024,-1.8404312
+1935,driver1,loneliness/losing loved ones,driver,1,592,7.0884986,7.956983,-2.2030537
+1935,rfd1,not having to worry about this world anymore,rfd,1,593,6.083981,9.128502,-1.5509422
+1936,driver1,loneliness,driver,1,594,13.523875,0.94029224,3.4376268
+1936,driver2,self-hatred,driver,2,595,10.620054,15.712506,-8.2709465
+1936,rfd1,feeling worthless,rfd,1,596,6.468368,8.649384,-4.817634
+1936,rfd2,no good to nobody,rfd,2,597,9.692516,9.355296,-6.594608
+1936,rfd3,I hate myself,rfd,3,598,6.3000107,10.121763,-4.834761
+1936,rfd4,people would be better off without me,rfd,4,599,8.741676,8.792825,-2.2225335
+1938,driver1,people pushing drugs on me,driver,1,600,2.0017445,18.074324,2.2285583
+1938,rfd1,being with God,rfd,1,601,5.9367933,8.849776,-1.830125
+1939,driver1,physical pain,driver,1,602,2.4032898,11.175748,-0.9075785
+1939,driver2,psychological pain,driver,2,603,0.59386986,11.659253,-0.8926502
+1939,rfd1,nothing to look forward to,rfd,1,604,5.446663,9.319326,-2.8936384
+1943,driver1,lack of purpose,driver,1,605,4.964054,8.4902935,-4.1700673
+1943,driver2,being a gay christian,driver,2,606,5.894975,8.933074,-1.9074112
+1943,rfd1,I'm not enough,rfd,1,607,6.8867173,9.339131,-4.513192
+1943,rfd2,letting people down,rfd,2,608,7.654931,9.307941,-3.374422
+1943,rfd3,financial issues,rfd,3,609,8.340046,10.8341675,-2.583385
+1943,rfd4,not wanted sexually,rfd,4,610,6.6923146,8.491076,-2.097249
+1944,driver1,living environment,driver,1,611,7.4113464,11.329671,-1.9165794
+1944,driver2,loss of independence,driver,2,612,7.40609,10.564447,-2.0162466
+1944,rfd1,nothing to live for except for children,rfd,1,613,5.385388,9.270642,-2.7975655
+1944,rfd2,all of my support system is dead,rfd,2,614,7.5071836,10.492228,-2.1245878
+1945,driver1,hopelessness about hopelessness,driver,1,615,2.8316677,7.972457,-8.763933
+1945,rfd1,all the stress up top,rfd,1,616,6.611905,15.250553,-3.0049393
+1946,driver1,relationship with mother,driver,1,617,8.320864,8.293328,0.005623447
+1946,rfd1,"it'll all be over, no more pain, no more hurt, just over",rfd,1,618,4.4018826,10.577246,-1.8547645
+1947,driver1,psychological pain,driver,1,619,0.66708505,11.745603,-0.98015815
+1947,rfd1,"part of life, the pair will be gone",rfd,1,620,7.4663444,8.877102,0.14378668
+1949,driver1,self-esteem,driver,1,621,7.7829547,11.993817,-5.2869353
+1949,rfd1,self-hatred,rfd,1,622,10.635243,15.726369,-8.287635
+1950,driver1,relationship with brother,driver,1,623,8.146412,8.302756,-0.42300737
+1951,driver1,anger/desperation,driver,1,624,5.940611,13.394549,-4.0580564
+1951,rfd1,not satisfied with myself and what I can do with my illness,rfd,1,625,4.5093,11.678461,-1.928202
+1951,rfd2,having nothing and not ever having anything,rfd,2,626,6.0234146,8.676513,-1.9259382
+1952,driver1,shame/failure,driver,1,627,9.0447645,12.300208,1.1877178
+1952,driver2,loneliness,driver,2,628,13.533647,0.96630734,3.4341748
+1952,rfd1,to get out family's way,rfd,1,629,4.012562,9.971716,-2.1907558
+1953,driver1,relationship with mother,driver,1,630,8.275848,8.276503,-0.011399582
+1953,driver2,anger/reckless behavior,driver,2,631,5.9360266,13.446004,-4.0316005
+1953,driver3,shame/failure,driver,3,632,9.064315,12.3258505,1.2107594
+1954,driver1,anxiety/emotions,driver,1,633,5.8868346,13.89714,-3.4324236
+1954,rfd1,overwhelmed with emotions,rfd,1,634,6.2390194,13.53596,-3.0022159
+1954,rfd2,no one to talk to,rfd,2,635,7.2739043,8.476001,-1.9708823
+1958,driver1,emotional regulation,driver,1,636,6.0121865,13.988351,-3.412852
+1959,driver1,self-hatred,driver,1,637,10.668238,15.760446,-8.320608
+1959,driver2,perfectionsim,driver,2,638,3.0724552,7.8668494,-8.917648
+1959,driver3,anxiety/depression,driver,3,639,5.356247,14.1329975,-2.8144608
+1959,rfd1,ruminations of self-hatred,rfd,1,640,10.320822,15.408532,-7.875988
+1959,rfd2,can't do anything right,rfd,2,641,6.4034047,9.648399,-4.1372104
+1959,rfd3,I'll never get to where I want to be,rfd,3,642,5.885544,9.844503,-4.3021636
+1959,rfd4,people won't care or notice,rfd,4,643,8.504775,9.036938,-2.4355485
+1959,rfd5,the world would be better off,rfd,5,644,8.67849,9.227022,-2.1142137
+1961,driver1,voices in my head,driver,1,645,5.4394546,13.450114,0.25021172
+1961,rfd1,there's nothing for me,rfd,1,646,6.3539,9.162888,-2.6810143
+1961,rfd2,people talking about me,rfd,2,647,7.8640933,8.822019,-2.983898
+1962,driver1,psychological pain,driver,1,648,0.71932924,11.686299,-0.99916667
+1962,driver2,burden to others,driver,2,649,9.5592785,9.858849,-2.7442894
+1962,driver3,hopelessness/lack of purpose,driver,3,650,5.2151914,8.800639,-4.168726
+1962,rfd1,tired of living,rfd,1,651,5.3448834,11.271504,-2.4696157
+1962,rfd2,I feel insignificant to/unwanted by society,rfd,2,652,7.15478,8.234386,-3.2385435
+1962,rfd3,disconnected from a lot of other people and emotions,rfd,3,653,7.0609818,8.073816,-2.3259194
+1962,rfd4,"death kind of fascinates me, curious about the afterlife",rfd,4,654,5.0060973,9.575076,-2.0687442
+1966,driver1,lack of sleep,driver,1,655,5.626022,13.1181345,-1.9292669
+1966,driver2,depression,driver,2,656,-6.4162474,7.667935,8.766549
+1966,driver3,anxiety,driver,3,657,5.3953156,16.485374,-5.798798
+1966,rfd1,to get rid of all the hurt and stuff,rfd,1,658,3.8869128,10.318826,-1.8321362
+1966,rfd2,not to be stuck in a loop,rfd,2,659,4.557136,10.20022,-4.868451
+1969,driver1,self-worth,driver,1,660,7.8527565,11.983161,-5.2485375
+1969,driver2,sexual trauma,driver,2,661,8.882336,10.036637,2.5619578
+1969,rfd1,low self-worth,rfd,1,662,7.9251614,11.964547,-5.072789
+1969,rfd2,feeling unimportant,rfd,2,663,6.5304956,8.601767,-4.5956664
+1969,rfd3,feeling like a failure,rfd,3,664,7.0002947,9.713641,-4.940496
+1972,driver1,psychological pain,driver,1,665,0.7072684,11.759541,-0.98980176
+1972,rfd1,I have nobody else,rfd,1,666,6.8232794,8.878571,-2.3707206
+1972,rfd2,don't want to be in my thoughts,rfd,2,667,8.0425415,11.094892,0.5659815
+1972,rfd3,rehabilitation,rfd,3,668,5.154818,12.048131,-1.0839244
+1973,driver1,loneliness,driver,1,669,13.478125,0.930048,3.4888632
+1973,rfd1,feeling like a burden on everyone,rfd,1,670,9.229068,9.263661,-3.003084
+1973,rfd2,feeling like a waste of space,rfd,2,671,6.0393724,8.645313,-4.130377
+1973,rfd3,being used,rfd,3,672,8.150415,9.439169,-2.056351
+1973,rfd4,no purpose,rfd,4,673,4.889247,8.919046,-3.258488
+1974,driver1,hallucinations,driver,1,674,5.3153896,13.571322,0.016867938
+1974,driver2,loneliness,driver,2,675,13.523413,0.95952964,3.4384143
+1976,driver1,depression,driver,1,676,-6.516917,7.7573066,8.883301
+1976,driver2,anxiety,driver,2,677,5.3611207,16.502157,-5.815251
+1976,rfd1,domestic abuse,rfd,1,678,8.793444,10.157113,2.2406218
+1976,rfd2,hopeless about future support,rfd,2,679,7.5998826,10.543856,-2.2721984
+1977,driver1,depression,driver,1,680,-6.4501033,7.715732,8.932611
+1977,driver2,anxiety,driver,2,681,5.3635654,16.525747,-5.837315
+1978,driver1,place to live,driver,1,682,7.6431937,11.383815,-1.8503703
+1978,rfd1,I'm alone,rfd,1,683,6.9233127,8.542486,-2.1796176
+1978,rfd2,nobody cares,rfd,2,684,8.261899,8.810792,-2.7518244
+1978,rfd3,I don't have a secure place to live,rfd,3,685,7.8367167,11.23747,-1.7663349
+1978,rfd4,daughter,rfd,4,686,7.9833403,8.668659,-0.067556046
+1984,driver1,stress,driver,1,687,6.734439,15.500418,-3.1023455
+1984,driver2,burden to others,driver,2,688,9.566568,9.8788595,-2.7217202
+1984,rfd1,to be with my mom,rfd,1,689,6.4650993,8.615725,-0.69518834
+1984,rfd2,not be so tired,rfd,2,690,5.488958,12.700925,-1.8816484
+1987,driver1,hopelessness,driver,1,691,2.8487613,8.01578,-8.772409
+1992,driver1,stress,driver,1,692,6.670054,15.4302845,-3.0427413
+1992,driver2,self-hatred,driver,2,693,10.6516285,15.743448,-8.306527
+1993,driver1,depression,driver,1,694,-6.6371865,7.9187207,8.73848
+1993,rfd1,loss of my little girl,rfd,1,695,7.262808,8.3937235,0.29082343
+1993,rfd2,loss of sister,rfd,2,696,7.4875183,8.289884,0.37993163
+1993,rfd3,loss of mother,rfd,3,697,7.419169,8.316623,0.40776905
+1994,driver1,stress,driver,1,698,6.7322335,15.502213,-3.100974
+1994,rfd1,may get a job I'm not going to enjoy,rfd,1,699,7.879658,11.071284,-3.1246152
+1994,rfd2,can't help some people,rfd,2,700,7.513325,9.588165,-3.14828
+1994,rfd3,people are selfish,rfd,3,701,7.8823185,9.618167,-3.2374828
+1994,rfd4,it'd just be easier to not wake up,rfd,4,702,8.753732,9.466289,-2.1113296
+1995,driver1,guilt about past,driver,1,703,8.725872,11.34875,0.7131366
+1995,rfd1,bad stuff from past,rfd,1,704,8.4442215,10.870817,1.0122684
+1996,driver1,pain,driver,1,705,2.7328985,10.625651,-1.0619466
+1996,driver2,burden to others,driver,2,706,9.618077,9.907413,-2.6807544
+1996,rfd1,it's time to die,rfd,1,707,5.100029,10.130232,-2.144146
+1997,driver1,hopelessness,driver,1,708,2.9070415,8.10413,-8.802381
+1997,driver2,self-hatred,driver,2,709,10.671858,15.7631035,-8.326295
+1997,rfd1,be more peaceful,rfd,1,710,4.887428,9.698069,-1.173584
+1997,rfd2,won't be as stressed,rfd,2,711,6.59873,15.246704,-3.0051873
+1999,driver1,independent living,driver,1,712,7.501973,11.284224,-1.8310785
+2001,driver1,lack of purpose,driver,1,713,4.96812,8.49772,-4.1623945
+2001,driver2,hopelessness,driver,2,714,2.8037074,8.053815,-8.746232
+2001,driver3,depression/stress,driver,3,715,5.6654806,14.106026,-2.4527206
+2001,rfd1,feel stressed,rfd,1,716,6.537194,14.837589,-2.936269
+2001,rfd2,feeling like I don't have anyone,rfd,2,717,7.2349133,8.379855,-2.4143796
+2001,rfd3,afraid of losing my kids,rfd,3,718,7.9122357,9.119599,-0.6767129
+2002,driver1,health,driver,1,719,4.7822657,12.148956,-1.2386531
+2002,driver2,stress,driver,2,720,6.7011757,15.474345,-3.0729823
+2002,rfd1,I can't live with the chaos,rfd,1,721,6.735059,10.867959,-2.4458287
+2003,driver1,hopelessness,driver,1,722,3.001229,8.068445,-8.77099
+2003,rfd1,nothing to live for,rfd,1,723,5.36613,9.306431,-2.8445005
+2005,driver1,hopelessness,driver,1,724,2.8081548,7.998056,-8.775274
+2005,driver2,coping skills,driver,2,725,6.239333,11.205685,-2.9944987
+2005,rfd1,"when God takes me, it'll be my time",rfd,1,726,5.220645,10.060462,-1.9955598
+2007,driver1,anxiety,driver,1,727,5.38735,16.49252,-5.8064523
+2008,driver1,thoughts about ex/grief,driver,1,728,7.3686914,8.328716,1.1669056
+2008,rfd1,nobody will miss me,rfd,1,729,8.650423,8.861634,-2.2402673
+2009,driver1,loneliness,driver,1,730,13.517522,0.9602087,3.4220557
+2009,driver2,grief,driver,2,731,7.1513925,7.8652277,1.987631
+2009,rfd1,no purpose,rfd,1,732,4.8957787,8.931641,-3.250193
+2009,rfd2,hate life in general,rfd,2,733,5.5686054,9.78359,-3.2627296
+2009,rfd3,I hate people,rfd,3,734,7.7741528,9.132832,-3.1461792
+2009,rfd4,no friends,rfd,4,735,7.438188,8.405952,-1.3976604
+2009,rfd5,waiting for God to take me,rfd,5,736,5.319466,9.926727,-2.106161
+2010,driver1,fear about health,driver,1,737,6.109785,10.87994,-4.1791143
+2011,driver1,trapped in my mind,driver,1,738,4.3406863,10.305461,-4.982791
+2011,rfd1,I just can't take it anymore,rfd,1,739,4.9850273,11.05952,-2.3561223
+2014,driver1,stress,driver,1,740,6.688333,15.477626,-3.073962
+2017,driver1,self-hatred/low self-esteem,driver,1,741,7.940492,12.044866,-5.097441
+2017,rfd1,no family or anyone in my life,rfd,1,742,7.2627616,8.562394,-0.98900425
+2020,driver1,self-esteem,driver,1,743,7.814706,11.994701,-5.260284
+2022,driver1,guilt,driver,1,744,8.970197,11.599251,0.6556591
+2022,rfd1,I haven't acted right in life,rfd,1,745,6.6263595,9.77049,-4.1996183
+2022,rfd2,"I've created this tug-o-war, ""leave christa"" ""go back to christy""",rfd,2,746,4.9818163,11.005719,-2.2561567
+2024,driver1,stress/worry,driver,1,747,5.765639,14.18079,-2.535773
+2024,driver2,depression,driver,2,748,-6.630744,7.791125,8.797419
+2024,driver3,self-hatred,driver,3,749,10.683891,15.775498,-8.337842
+2024,rfd1,losing the loved ones I loved the most,rfd,1,750,6.9890065,8.610829,-0.16748632
+2024,rfd2,not being successful,rfd,2,751,6.5848618,10.122959,-3.7425032
+2024,rfd3,feeling unloved,rfd,3,752,7.227405,8.176071,-3.1175897
+2025,driver1,hopelessness,driver,1,753,2.8872292,8.015606,-8.844787
+2025,rfd1,hopelessness,rfd,1,754,2.86524,7.9575233,-8.804415
+2025,rfd2,psychological pain,rfd,2,755,0.66558313,11.7092495,-0.9390609
+2025,rfd3,not being able to talk to somebody close about this,rfd,3,756,7.4522653,8.4687805,-1.7245698
+2025,rfd4,wanting the pain to stop,rfd,4,757,3.6857698,10.6904545,-1.7535744
+2027,driver1,hopelessness,driver,1,758,2.8485837,8.096731,-8.924642
+2027,driver2,seelf-hatred,driver,2,759,10.587196,15.67774,-8.235306
+2027,rfd1,getting out of the misery I'm in,rfd,1,760,4.870302,10.177005,-2.866121
+2028,driver1,stress,driver,1,761,6.681051,15.4797325,-3.0650628
+2028,driver2,trauma,driver,2,762,9.785282,9.249235,4.002045
+2028,rfd1,escape from hardship,rfd,1,763,3.6653543,10.377343,-2.1621692
+2028,rfd2,not having to deal with the pain,rfd,2,764,3.5859985,10.544657,-1.8046383
+2050,driver1,drug use,driver,1,765,1.5543426,18.891247,1.9937438
+2050,driver2,negative emotions,driver,2,766,5.969093,13.55072,-3.3559675
+2050,driver3,pain,driver,3,767,2.7330933,10.642552,-1.0658858
+2050,rfd1,"uselessness; pain, not able to move forward",rfd,1,768,2.7441523,11.434434,-1.3396692
+2050,rfd2,"don't have car, job, skills to get along",rfd,2,769,7.825527,11.18556,-1.7565987
+2050,rfd3,it's just going to get worse,rfd,3,770,5.6529903,10.3532915,-3.5163994
+2057,driver1,percieved to be a burden,driver,1,771,9.849246,9.754409,-2.491148
+2057,driver2,narcotics anonymous,driver,2,772,1.9694275,18.157421,2.20758
+2057,rfd1,stop hurting everybody,rfd,1,773,4.11889,10.781774,-1.5977721
+2057,rfd2,tired,rfd,2,774,5.5054364,12.758594,-1.8722944
+2057,rfd3,feel like a burden,rfd,3,775,9.283018,9.213729,-3.053323
+2059,driver1,"feeling defeated, trapped",driver,1,776,4.9003196,9.857799,-5.0799212
+2059,driver2,alcohol use,driver,2,777,2.856094,11.054335,9.14481
+2059,driver3,anxiety,driver,3,778,5.408629,16.464901,-5.777557
+2059,rfd1,feeling a fight or flight response,rfd,1,779,5.408398,16.338215,-5.6789846
+2062,driver1,depression,driver,1,780,-6.5612254,7.829119,8.88881
+2062,driver2,anxiety,driver,2,781,5.3759484,16.509825,-5.8482556
+2062,driver3,alcohol use,driver,3,782,2.8127735,11.010599,9.115339
+2063,driver1,PTSD,driver,1,783,8.699022,10.889198,3.840509
+2063,driver2,alcohol use,driver,2,784,2.8721154,11.070887,9.155262
+2067,driver1,I'm a failure,driver,1,785,7.656861,9.465863,-4.73786
+2067,driver2,internal stigma,driver,2,786,10.392579,15.471435,-7.958062
+2067,rfd1,I'm an eyesore/physically hideous,rfd,1,787,8.107901,9.2985115,-3.8701582
+2068,driver1,I'm a failure,driver,1,788,7.6493764,9.466831,-4.7442956
+2068,driver2,depression,driver,2,789,-6.5733294,7.8443313,8.858125
+2068,rfd1,everyone I love is dead,rfd,1,790,6.917409,8.928174,-0.63181454
+2068,rfd2,tired of being lonely,rfd,2,791,6.8207335,8.571186,-2.1103098
+2072,driver1,psychological pain,driver,1,792,0.73101866,11.772612,-1.0081285
+2072,driver2,depression,driver,2,793,-6.528993,7.8747663,8.931301
+2072,driver3,trauma,driver,3,794,9.823354,9.211432,3.9760907
+2074,driver1,psychological pain,driver,1,795,0.6471667,11.720304,-0.95271605
+2074,driver2,alcohol use,driver,2,796,2.8677592,11.065223,9.147609
+2074,rfd1,for all the turmoil and pain,rfd,1,797,3.8411498,10.32838,-1.9236271
+2074,rfd2,want everything to stop and not feel anything,rfd,2,798,4.2671437,10.584914,-2.1305356
+2075,driver1,self-hatred,driver,1,799,10.723347,15.816867,-8.379759
+2075,driver2,PTSD,driver,2,800,8.658189,10.915188,3.8678086
+2075,rfd1,I've disappointed my family,rfd,1,801,7.8022575,8.692303,-1.0483538
+2075,rfd2,"hopelessness, uncertainty",rfd,2,802,2.9854972,8.021103,-8.65598
+2081,driver1,difficulty walking,driver,1,803,2.866556,11.493525,-1.3264842
+2081,rfd1,world was falling apart,rfd,1,804,6.0131283,9.967324,-3.2509055
+2081,rfd2,pain from cancer,rfd,2,805,2.4240732,11.223575,-1.0958922
+2081,rfd3,troubled relationship with daughter,rfd,3,806,8.105121,8.734801,-0.07344786
+2081,rfd4,tired of fighting,rfd,4,807,5.082018,11.11826,-2.2504852
+2082,driver1,alcohol,driver,1,808,3.2435665,11.346627,9.238764
+2082,rfd1,lots of sadness,rfd,1,809,7.1577215,7.9167647,1.8674803
+2082,rfd2,reminder of sisters,rfd,2,810,7.875406,8.241805,-0.06274151
+2085,driver1,defeated/overwhelmed,driver,1,811,4.600148,9.524235,-5.7558494
+2085,driver2,depression,driver,2,812,-6.4136705,7.8798656,8.721641
+2087,driver1,defeated/overwhelmed,driver,1,813,4.6206503,9.5470915,-5.7366962
+2087,driver2,substance use,driver,2,814,2.3414712,17.808838,2.843503
+2087,rfd1,no family support,rfd,1,815,7.6901026,10.6438465,-1.8407371
+2089,driver1,regret/self-hatred,driver,1,816,10.281505,15.387315,-7.8376107
+2089,driver2,substance use,driver,2,817,2.36756,17.783234,2.8708165
+2089,rfd1,I've made some bad choices,rfd,1,818,6.795754,9.837614,-3.9883513
+2092,driver1,grief/loss,driver,1,819,7.287314,8.210552,1.3996402
+2092,rfd1,to be with child again,rfd,1,820,6.5457234,8.693619,-0.68276596
+2092,rfd2,stress,rfd,2,821,6.734816,15.514722,-3.107328
+2094,driver1,prospect of jail,driver,1,822,3.7743483,9.704014,-3.0943944
+2094,driver2,PTSD,driver,2,823,8.672422,10.895492,3.810495
+2094,driver3,alcohol use,driver,3,824,2.8193147,11.017505,9.140754
+2094,rfd1,not going to jail,rfd,1,825,3.779316,9.685206,-3.1265588
+2094,rfd2,thinking about the court case,rfd,2,826,3.5685544,9.535961,-3.5026078
+2097,driver1,hopelessness/psychological pain,driver,1,827,2.4652004,11.382485,-1.4694939
+2097,driver2,drug use,driver,2,828,1.5506625,18.897488,1.9910247
+2097,rfd1,mom's life would be better if I were gone,rfd,1,829,8.118918,8.519143,-1.0444493
+2098,driver1,percieved to be a burden,driver,1,830,9.817831,9.765309,-2.5056233
+2098,driver2,toxic masculinity,driver,2,831,5.2656927,13.558691,-1.0627761
+2098,rfd1,being a burden on others,rfd,1,832,9.369784,9.723425,-2.6776178
+2099,driver1,lack of purpose,driver,1,833,4.9600844,8.488221,-4.163346
+2099,driver2,sexual trauma,driver,2,834,8.873749,10.038078,2.5434234
+2100,driver1,PTSD,driver,1,835,8.693983,10.881875,3.8342142
+2100,rfd1,everyone I love is dead,rfd,1,836,6.8803706,8.880639,-0.66030884
+2102,driver1,defeated/helplessness,driver,1,837,4.586958,9.504083,-5.7835965
+2102,driver2,stress,driver,2,838,6.677617,15.462447,-3.045597
+2102,rfd1,stress,rfd,1,839,6.7308826,15.51576,-3.0974643
+2103,driver1,helplessness,driver,1,840,5.1902504,9.74073,-5.517663
+2103,driver2,hopelessness,driver,2,841,2.8625255,8.029838,-8.7507515
+2103,rfd1,"not really having a reason to live, nothing to live for",rfd,1,842,5.2081337,9.502926,-2.8983622
+2105,driver1,loneliness,driver,1,843,13.43816,1.02481,3.4099398
+2105,rfd1,I don't have too much family,rfd,1,844,7.6126227,8.551798,-1.2766742
+2105,rfd2,people hate to be around me,rfd,2,845,7.8043594,8.818907,-2.9159005
+2105,rfd3,HIV status,rfd,3,846,4.4593873,12.525981,-1.0023407
+2107,driver1,hopelessness,driver,1,847,2.8654375,8.047085,-8.892086
+2107,driver2,helplessness,driver,2,848,5.1865983,9.730796,-5.509056
+2107,rfd1,people would be better off without me,rfd,1,849,8.7306,8.8185215,-2.2208238
+2107,rfd2,don't like who I've become,rfd,2,850,6.093849,10.21752,-4.7239995
+2107,rfd3,feel weak,rfd,3,851,5.2906327,9.562936,-5.3333077
+2107,rfd4,feel helpless,rfd,4,852,5.1912503,9.687371,-5.416696
+2109,driver1,defeated/trapped,driver,1,853,4.5566216,9.574322,-5.6966133
+2109,driver2,financial burden,driver,2,854,9.545567,10.359277,-2.4999125
+2109,rfd1,"peace, I want my peace",rfd,1,855,4.915859,9.71956,-1.163342
+2109,rfd2,no more pain,rfd,2,856,3.7592132,10.804944,-1.5641521
+2109,rfd3,feeling trapped,rfd,3,857,4.462715,10.252308,-4.9003596
+2110,driver1,loneliness/lack of belonging,driver,1,858,7.142509,7.9620285,-2.4839823
+2110,driver2,depression,driver,2,859,-6.498978,7.785265,8.890911
+2110,rfd1,I don't want to be here,rfd,1,860,5.0510178,10.511713,-2.7772608
+2110,rfd2,nobody would care if I was gone,rfd,2,861,8.578705,8.897011,-2.2481546
+2111,driver1,worthlessness,driver,1,862,9.863819,9.351392,-6.769112
+2111,driver2,lack of purpose,driver,2,863,4.982125,8.512591,-4.1509204
+2113,driver1,feel unloved,driver,1,864,7.254929,8.198598,-3.0827181
+2113,driver2,perceived burden,driver,2,865,9.836685,10.133575,-2.4400997
+2113,driver3,regrets with parenthood,driver,3,866,7.7620754,9.55632,-0.5690245
+2113,rfd1,family,rfd,1,867,7.8215027,8.492685,-0.799903
+2115,driver1,issues with family,driver,1,868,8.236725,8.459926,-0.6363822
+2115,driver2,feel like a failure,driver,2,869,7.048771,9.670114,-4.9125233
+2115,driver3,stress from legal issues,driver,3,870,8.413784,11.039615,-2.57106
+2115,rfd1,nothing's ever right,rfd,1,871,6.3088174,9.803492,-4.0016136
+2117,driver1,marriage,driver,1,872,13.301424,1.1674241,3.2241168
+2117,rfd1,drugs,rfd,1,873,2.0094855,17.997524,2.1218379
+2121,driver1,grief,driver,1,874,7.1612973,7.8596053,1.993942
+2121,driver2,self-hatred,driver,2,875,10.716234,15.8083,-8.371217
+2121,driver3,guilt,driver,3,876,8.940895,11.56551,0.65028
+2121,rfd1,escaping the emotional pain,rfd,1,877,3.4550908,10.593742,-2.1529086
+2121,rfd2,feel like I don't have a sense of purpose,rfd,2,878,5.4342904,8.824008,-4.1307793
+2122,driver1,grief,driver,1,879,7.153781,7.8723598,1.9820677
+2122,driver2,stress/overwhelmed,driver,2,880,6.3318644,13.893336,-2.7332892
+2122,rfd1,tired of dealing with the same stuff,rfd,1,881,5.104288,11.140387,-2.3178446
+2122,rfd2,the fact that my boyfriend is gone,rfd,2,882,6.9716287,8.672803,-0.29943052
+2122,rfd3,tired of being stressed out,rfd,3,883,5.259713,11.296615,-2.4115896
+2124,driver1,guilt,driver,1,884,8.968947,11.603215,0.6522688
+2125,driver1,self-hatred,driver,1,885,10.674572,15.766687,-8.328847
+2125,driver2,worthlessness,driver,2,886,9.824906,9.390424,-6.7302556
+2125,rfd1,I'm not worth anything to nobody,rfd,1,887,8.562524,9.198231,-4.1045704
+2125,rfd2,could be with my dad,rfd,2,888,6.716924,8.55243,-0.6580592
+2125,rfd3,it would be better off for some people,rfd,3,889,8.682832,9.315991,-2.0345402
+2125,rfd4,I don't want to be crazy in front of people anymore,rfd,4,890,6.0305552,10.267831,-4.6092796
+2130,driver1,alcohol,driver,1,891,3.2313385,11.33619,9.235502
+2130,driver2,worthlessness,driver,2,892,9.857959,9.358815,-6.7632275
+2130,driver3,shame,driver,3,893,9.071527,12.3547535,1.2348179
+2130,rfd1,depression,rfd,1,894,-6.5183992,7.8001084,8.874431
+2130,rfd2,drinking problem,rfd,2,895,2.9805207,11.173445,9.124329
+2130,rfd3,might as well go to see mother and brother,rfd,3,896,7.191991,8.508065,-0.54059327
+2131,driver1,financial stress,driver,1,897,8.58237,10.905648,-2.6053529
+2131,driver2,hopelessness,driver,2,898,2.8017433,7.9910297,-8.874905
+2131,driver3,psychological pain/grief,driver,3,899,1.7196689,11.42797,-1.0563837
+2133,driver1,percieved to be a burden,driver,1,900,9.864422,9.769465,-2.4692795
+2133,driver2,self-hatred,driver,2,901,10.665311,15.757553,-8.31914
+2133,rfd1,disappointing my family,rfd,1,902,7.7334743,8.807499,-0.9966966
+2133,rfd2,don't feel worthy of living,rfd,2,903,5.157099,9.552075,-2.9842942
+2133,rfd3,not being successful,rfd,3,904,6.5867743,10.122979,-3.742671
+2135,driver1,feelings of doubt,driver,1,905,6.3715277,8.94672,-5.1927867
+2135,driver2,fear of failure,driver,2,906,6.1709805,10.874698,-4.122183
+2136,driver1,loneliness,driver,1,907,13.494093,0.97328967,3.4644628
+2136,rfd1,nothing really exists,rfd,1,908,5.197109,8.986188,-3.2501626
+2136,rfd2,nobody really knows how I feel,rfd,2,909,7.669978,8.528099,-2.7865758
+2136,rfd3,I don't know if I'm ever going to get to where I want to be,rfd,3,910,5.9483886,9.814189,-4.393472
+2136,rfd4,people always try to hold me down,rfd,4,911,7.950141,8.914342,-3.0390632
+2137,driver1,hopelessness,driver,1,912,2.846731,8.065647,-8.811903
+2137,driver2,shame,driver,2,913,9.071807,12.355688,1.2354733
+2137,rfd1,I don't feel like I have anything to contribute,rfd,1,914,6.47117,8.774476,-4.5116234
+2137,rfd2,I'm going to continue to struggle,rfd,2,915,4.63471,10.153907,-4.9024997
+2137,rfd3,tired of having to fight my way through life,rfd,3,916,5.210739,11.237273,-2.286596
+2141,driver1,psychological pain,driver,1,917,0.65531296,11.722425,-0.95212936
+2142,driver1,shame,driver,1,918,9.060403,12.34399,1.2229278
+2142,driver2,drug use,driver,2,919,1.5560899,18.891266,1.9973972
+2142,driver3,trauma,driver,3,920,9.787173,9.248221,4.0033817
+2142,rfd1,diabetes,rfd,1,921,4.280203,12.418067,-1.1998578
+2142,rfd2,I wouldn't hurt anymore,rfd,2,922,3.9446757,10.740074,-1.5398426
+2143,driver1,hopelessness,driver,1,923,2.8138318,8.078821,-8.73298
+2143,driver2,trauma,driver,2,924,9.812076,9.222347,4.0238404
+2147,driver1,loneliness,driver,1,925,13.51941,0.94124347,3.4692752
+2147,rfd1,I'm not needed,rfd,1,926,8.49061,9.197619,-4.013543
+2148,driver1,self-hatred,driver,1,927,10.697558,15.789845,-8.353357
+2148,driver2,PTSD,driver,2,928,8.702968,10.883729,3.8516824
+2149,driver1,grief,driver,1,929,7.157241,7.8582244,1.9981351
+2150,driver1,depression,driver,1,930,-6.4935026,7.8236694,8.805954
+2150,driver2,anxiety,driver,2,931,5.348245,16.54229,-5.850604
+2150,driver3,PTSD,driver,3,932,8.691306,10.891882,3.8463676
+2150,rfd1,tired of everything,rfd,1,933,5.300506,11.29266,-2.4140966
+2150,rfd2,losing support system,rfd,2,934,7.534103,10.5683565,-2.2227385
+2150,rfd3,no outlet for emotions,rfd,3,935,6.012894,13.530348,-3.1984932
+2151,driver1,depression,driver,1,936,-6.6142335,7.84775,8.943827
+2151,rfd1,I'm at the end of my life anyway,rfd,1,937,4.9503455,9.793986,-2.309758
+2153,driver1,loneliness,driver,1,938,13.5331135,0.9282651,3.4854033
+2153,rfd1,all of the stress,rfd,1,939,6.5834093,14.959226,-2.9500716
+2153,rfd2,life doesn't always come out the way I'd like it to be,rfd,2,940,5.7501645,9.874551,-3.8452175
+2154,driver1,hopelessness,driver,1,941,2.751218,7.9761806,-8.869545
+2154,driver2,loneliness,driver,2,942,13.548138,0.9789422,3.4871795
+2154,rfd1,I don't really have a purpose,rfd,1,943,4.9196386,8.886085,-3.3348634
+2154,rfd2,I don't matter much to anyone,rfd,2,944,8.423004,8.951138,-3.2918086
+2154,rfd3,I feel like a burden to people,rfd,3,945,9.188443,9.261915,-3.020759
+2154,rfd4,I don't see a future for myself,rfd,4,946,5.7975755,9.942686,-4.4077864
+2156,driver1,low self-esteem,driver,1,947,7.888358,11.995322,-5.0657425
+2156,driver2,lack of self-love,driver,2,948,6.724581,11.032753,-3.402653
+2156,rfd1,self-confidence is very low,rfd,1,949,5.8492465,9.573035,-4.966898
+2157,driver1,anger,driver,1,950,5.938051,13.394924,-4.0485888
+2158,driver1,guilt,driver,1,951,8.993622,11.599787,0.68257695
+2158,rfd1,EDS is getting worse,rfd,1,952,5.6501656,10.333993,-3.521123
+2159,driver1,emotional regulation,driver,1,953,6.0098834,13.9730015,-3.4034395
+2160,driver1,hopelessness,driver,1,954,2.8014688,8.097912,-8.791696
+2160,rfd1,getting old and tired,rfd,1,955,5.3853483,11.289215,-2.492889
+2161,driver1,dealing with strong emotions,driver,1,956,6.032252,13.652943,-3.2418404
+2161,rfd1,missing grandparents,rfd,1,957,7.39243,8.420876,-0.073739074
+2161,rfd2,not living up to my potential,rfd,2,958,6.646817,9.478738,-4.60108
+2161,rfd3,being bullied and teased,rfd,3,959,8.763073,10.162084,2.0762687
+2162,driver1,alcohol use,driver,1,960,2.8792403,11.076133,9.163564
+2163,driver1,lack of coping skills,driver,1,961,6.5777607,11.069299,-3.121049
+2163,driver2,guarded emotions,driver,2,962,6.028668,13.627258,-3.3583791
+2163,rfd1,stress,rfd,1,963,6.73934,15.524956,-3.1056886
+2164,driver1,lack of positivity,driver,1,964,6.0232334,10.273485,-3.7608972
+2164,rfd1,lessening the burden on others,rfd,1,965,9.402255,9.751886,-2.6350827
+2164,rfd2,escaping my pain,rfd,2,966,3.510216,10.549836,-2.180779
+2164,rfd3,avoiding being alone,rfd,3,967,6.1722918,8.536528,-1.8236303
+2167,driver1,failure,driver,1,968,8.083061,9.223927,-4.93662
+2167,rfd1,life is hard,rfd,1,969,5.520633,9.839631,-3.1252413
+2167,rfd2,family's gone,rfd,2,970,7.6048336,8.565928,-0.5276932
+2167,rfd3,failure,rfd,3,971,8.102462,9.205347,-4.9670134
+2167,rfd4,sadness,rfd,4,972,7.143362,7.849065,2.0094094
+2168,driver1,dissatisfaction with life,driver,1,973,5.64846,9.841165,-3.7735848
+2169,driver1,shame,driver,1,974,9.073415,12.357325,1.2323658
+2170,driver1,lack of love,driver,1,975,6.877438,11.018791,-3.3711982
+2170,driver2,worthlessness,driver,2,976,9.859539,9.353276,-6.7648206
+2170,rfd1,it's overwhelming when people come to me for help,rfd,1,977,6.5991855,13.416147,-2.7060258
+2171,driver1,self-hatred,driver,1,978,10.680596,15.77169,-8.335031
+2171,driver2,guilt,driver,2,979,8.955439,11.628069,0.6267549
+2171,driver3,racing thoughts,driver,3,980,8.157152,11.078668,0.59873044
+2171,rfd1,unhappy,rfd,1,981,5.9168973,13.027936,-3.8711746
+2173,driver1,self-hatred,driver,1,982,10.684806,15.776855,-8.340146
+2173,driver2,finances,driver,2,983,8.32712,10.857536,-2.5779538
+2173,driver3,instability,driver,3,984,7.2790813,10.927532,-2.255653
+2173,rfd1,I would be out of my misery,rfd,1,985,8.611633,9.206806,-2.0678868
+2173,rfd2,children wouldn't have to worry about me,rfd,2,986,8.54065,9.119843,-2.004409
+2173,rfd3,I don't like taking up so much space,rfd,3,987,6.0943885,8.645476,-4.090273
+2175,driver1,worthlessness,driver,1,988,9.859255,9.358118,-6.764682
+2175,driver2,loneliness,driver,2,989,13.580404,1.0282558,3.5371566
+2175,rfd1,exhausted of being the nice person,rfd,1,990,5.287317,11.129666,-2.2249694
+2175,rfd2,feeling like I'm not good enough,rfd,2,991,6.7650027,9.528999,-4.607185
+2176,driver1,hopelessness,driver,1,992,2.7702591,8.088362,-8.839477
+2176,driver2,loneliness,driver,2,993,13.463781,1.001781,3.5121841
+2176,rfd1,"I'm alone, I don't have anybody",rfd,1,994,7.1043363,8.597477,-2.1423712
+2176,rfd2,my diagnosis,rfd,2,995,4.43111,12.281483,-1.3009689
+2177,driver1,agitations,driver,1,996,5.933639,13.4546795,-3.9989061
+2177,rfd1,smoking to hurt myself,rfd,1,997,1.9482111,18.357227,2.3710122
+2183,driver1,loneliness,driver,1,998,13.504508,0.9832382,3.502532
+2183,driver2,hopelessness,driver,2,999,2.8383298,8.071666,-8.841388
+2183,driver3,alcohol use,driver,3,1000,2.8504498,11.047945,9.13826
+2183,rfd1,rent is late,rfd,1,1001,8.014141,11.618996,-1.6974541
+2183,rfd2,trying so hard and see no way out,rfd,2,1002,4.63352,10.147157,-4.8246384
+2184,driver1,feel trapped,driver,1,1003,4.4257646,10.248159,-4.94104
+2184,driver2,shame,driver,2,1004,9.096191,12.3823,1.2619219
+2184,rfd1,grief from loss of family members,rfd,1,1005,7.3641295,8.267773,0.92167276
+2184,rfd2,ashamed of disability,rfd,2,1006,5.2691665,12.065501,-1.0409256
+2185,driver1,pain of breakup,driver,1,1007,7.418867,9.152434,0.30472377
+2185,driver2,re-entry into society,driver,2,1008,6.2265325,9.6343775,-2.027406
+2185,rfd1,the break up,rfd,1,1009,7.455213,9.151699,0.23071909
+2186,driver1,alcohol use,driver,1,1010,2.8741994,11.070932,9.155691
+2187,driver1,grief,driver,1,1011,7.1376004,7.83127,2.0298836
+2187,driver2,guilt,driver,2,1012,8.995091,11.628304,0.6767154
+2187,driver3,insomnia,driver,3,1013,5.6142216,12.994808,-1.852327
+2188,driver1,guilt/shame,driver,1,1014,8.942046,11.583845,0.6299278
+2188,driver2,alcohol use,driver,2,1015,2.805852,11.004864,9.178971
+2188,rfd1,failure,rfd,1,1016,8.100908,9.207648,-4.956499
+2188,rfd2,stress,rfd,2,1017,6.734065,15.519063,-3.1005461
+2188,rfd3,relapsing,rfd,3,1018,4.434633,10.263203,-4.970943
+2189,driver1,feeling of betrayal,driver,1,1019,8.871391,11.688004,0.38261333
+2189,driver2,sexual trauma,driver,2,1020,8.8787565,10.034338,2.5734468
+2189,rfd1,I don't like being hurt because I'm a nice person,rfd,1,1021,4.2105985,10.744057,-1.6562737
+2189,rfd2,my kindness being taken advantage of,rfd,2,1022,8.001806,9.423723,-2.1516492
+2193,driver1,low self-esteem,driver,1,1023,7.8989983,11.996306,-5.059923
+2193,driver2,depression,driver,2,1024,-6.566379,7.8478713,8.843996
+2194,driver1,loneliness,driver,1,1025,13.478446,0.94267285,3.4232743
+2194,rfd1,other people's insecurities,rfd,1,1026,10.45964,15.507339,-8.086504
+2195,driver1,trauma,driver,1,1027,9.764168,9.2456455,4.050338
+2195,driver2,grief,driver,2,1028,7.1612616,7.857865,2.0013053
+2196,driver1,overwhelming thoughts,driver,1,1029,6.5293775,13.348412,-2.626384
+2196,rfd1,feel unwanted,rfd,1,1030,7.2427597,8.183593,-3.0719945
+2196,rfd2,helpless,rfd,2,1031,5.167119,9.711448,-5.5326214
+2196,rfd3,mother,rfd,3,1032,7.971393,8.397964,0.023131983
+2200,driver1,feel neglected,driver,1,1033,7.2167344,8.176839,-3.08176
+2200,driver2,grief,driver,2,1034,7.1485376,7.847172,2.011295
+2200,rfd1,going to heaven,rfd,1,1035,4.4008665,9.712955,-2.0454047
+2200,rfd2,being with my mom,rfd,2,1036,6.613428,8.611599,-0.7359145
+2200,rfd3,don't have to feel anything anymore,rfd,3,1037,4.076805,10.628528,-1.8051988
+2201,driver1,current health,driver,1,1038,4.736639,12.170165,-1.2628158
+2201,driver2,hopelessness,driver,2,1039,2.8410137,8.064837,-8.802822
+2201,rfd1,it's not going to get any better,rfd,1,1040,5.666112,10.382547,-3.51052
+2201,rfd2,I don't want to be in any more pain,rfd,2,1041,3.5640306,10.763532,-1.6883554
+2202,driver1,physical pain,driver,1,1042,2.394609,11.199661,-0.91495866
+2202,rfd1,the physical pain would stop,rfd,1,1043,3.9286606,10.699125,-1.5816257
+2208,driver1,trauma,driver,1,1044,9.836002,9.198874,4.0641093
+2208,driver2,grief,driver,2,1045,7.176523,7.8557534,2.014636
+2210,driver1,grief,driver,1,1046,7.175131,7.8738017,1.9844534
+2210,rfd1,mother's death,rfd,1,1047,7.4671907,8.306562,0.39400846
+2210,rfd2,loneliness,rfd,2,1048,13.443451,1.0083838,3.5339897
+2211,driver1,loneliness,driver,1,1049,13.496844,0.99158883,3.4824677
+2211,driver2,bipolar disorder,driver,2,1050,5.0293503,13.777558,-0.9421847
+2211,rfd1,to get to heaven,rfd,1,1051,4.1695437,9.846252,-2.038896
+2211,rfd2,I won't have to fight back tears anymore,rfd,2,1052,4.2686944,10.604381,-1.6981231
+2211,rfd3,loneliness,rfd,3,1053,13.509598,0.9562843,3.4333835
+2211,rfd4,how people percieve me,rfd,4,1054,7.853321,8.8003235,-3.068382
+2212,driver1,physical pain,driver,1,1055,2.371415,11.181772,-0.89009094
+2212,rfd1,escaping the physical pain,rfd,1,1056,3.4805987,10.588082,-2.0607836
+2212,rfd2,it's my time,rfd,2,1057,5.1958976,10.098101,-2.044908
+2214,driver1,trauma,driver,1,1058,9.807522,9.264024,4.03644
+2214,rfd1,abandoned by mother,rfd,1,1059,7.832522,8.454248,0.04622434
+2214,rfd2,"loneliness, lack of support",rfd,2,1060,7.1001153,8.064504,-2.2685587
+2214,rfd3,trauma in the past,rfd,3,1061,9.19871,9.762499,3.2067828
+2214,rfd4,people suck,rfd,4,1062,7.8088527,9.140949,-3.136244
+2217,driver1,depression,driver,1,1063,-6.586211,7.9083858,8.773718
+2217,driver2,anxiety,driver,2,1064,5.414423,16.46988,-5.78069
+2219,driver1,grief,driver,1,1065,7.129566,7.878443,1.9764818
+2219,driver2,loneliness,driver,2,1066,13.51773,0.9415924,3.431525
+2219,rfd1,can't talk to anybody,rfd,1,1067,7.3688955,8.460454,-1.985236
+2219,rfd2,loneliness,rfd,2,1068,13.510855,0.9616336,3.4601245
+2219,rfd3,too much on my mind,rfd,3,1069,6.8517084,11.60794,-2.0908306
+2219,rfd4,hurting,rfd,4,1070,2.7218795,10.623007,-1.0468181
+2222,driver1,anxiety,driver,1,1071,5.381399,16.503424,-5.8137336
+2222,driver2,depression,driver,2,1072,-6.471496,7.88317,8.821376
+2222,rfd1,I've lost everything,rfd,1,1073,7.0004797,9.226807,-0.08890408
+2223,driver1,depression,driver,1,1074,-6.563145,7.8348317,8.820598
+2223,rfd1,depression,rfd,1,1075,-6.583614,7.9146743,8.745569
+2223,rfd2,fighting with wife,rfd,2,1076,7.8980937,9.199022,-0.345032
+2223,rfd3,don't have custody of kids,rfd,3,1077,7.9127464,9.401318,-0.9126022
+2224,driver1,homelessness,driver,1,1078,8.173235,11.760107,-1.5995356
+2224,rfd1,want to escape the physical pain,rfd,1,1079,3.5639923,10.64989,-1.9346895
+2226,driver1,grief,driver,1,1080,7.1460958,7.8497086,1.9964055
+2226,rfd1,husband's death,rfd,1,1081,7.484172,8.273258,0.5551247
+2226,rfd2,daughter's ex,rfd,2,1082,8.080122,8.766106,0.0048509864
+2226,rfd3,hearing voices,rfd,3,1083,5.4651937,13.478987,0.304386
+2227,driver1,social isolation,driver,1,1084,6.94536,8.054532,-2.3293493
+2227,rfd1,best part of my life is over,rfd,1,1085,5.335264,10.181792,-2.7409015
+2227,rfd2,no family to talk to,rfd,2,1086,7.4095044,8.549124,-1.5347936
+2227,rfd3,nobody would care,rfd,3,1087,8.495051,9.003764,-2.3696468
+2229,driver1,feeling trapped,driver,1,1088,4.4529834,10.208396,-4.8954606
+2229,driver2,self-hatred,driver,2,1089,10.628101,15.720234,-8.28171
+2229,rfd1,I hate who I am from time to time,rfd,1,1090,6.2722263,10.109845,-4.8162885
+2230,driver1,feeling like a waste of space,driver,1,1091,6.0376616,8.639136,-4.1206346
+2230,driver2,PTSD,driver,2,1092,8.677117,10.903048,3.8578122
+2230,rfd1,seems like it would be easier,rfd,1,1093,8.836291,9.4594965,-2.1623094
+2232,driver1,self-hatred/self-blame,driver,1,1094,10.361032,15.482577,-7.928395
+2232,driver2,past trauma,driver,2,1095,9.170716,9.794574,3.1160502
+2232,rfd1,unbearable pain,rfd,1,1096,2.577983,10.880918,-0.9682918
+2234,driver1,hopelessness,driver,1,1097,2.8082516,8.047689,-8.8267
+2234,driver2,alcohol use,driver,2,1098,2.8185115,11.016451,9.118747
+2239,driver1,escaping my problems,driver,1,1099,3.6179683,10.514943,-2.3383737
+2239,rfd1,trying to get out of a bad situation,rfd,1,1100,4.165363,10.290962,-2.9397104
+2240,driver1,defeat/entrapment,driver,1,1101,3.439224,9.451695,-3.7221029
+2240,driver2,depression,driver,2,1102,-6.477671,7.7732534,8.891915
+2240,driver3,anxiety,driver,3,1103,5.3852973,16.517006,-5.8281064
+2240,rfd1,psychological pain,rfd,1,1104,0.66254836,11.728066,-0.96047544
+2240,rfd2,worries,rfd,2,1105,5.3645205,16.505095,-5.8148317
+2240,rfd3,tired of it,rfd,3,1106,5.012127,11.1243725,-2.3314173
+2243,driver1,hopelessness,driver,1,1107,2.7897813,8.002645,-8.867527
+2243,driver2,schizophrenia/bipolar,driver,2,1108,5.009115,13.794063,-0.97862726
+2243,rfd1,going back to being stuck like this,rfd,1,1109,4.6522965,10.219324,-4.805151
+2247,driver1,hopelessness,driver,1,1110,2.9529915,7.9374905,-8.927244
+2247,driver2,drug use,driver,2,1111,1.6123228,18.834272,2.034513
+2247,rfd1,can't socialize properly without alcohol,rfd,1,1112,3.0071166,11.182189,9.194728
+2247,rfd2,being drunk keeps people away,rfd,2,1113,3.084928,11.234849,9.193128
+2248,driver1,defeated,driver,1,1114,4.563212,9.516172,-5.753268
+2248,driver2,drug use,driver,2,1115,1.5511674,18.895704,1.9919685
+2248,rfd1,that I have nothing to live for,rfd,1,1116,5.373253,9.306254,-2.811844
+2249,driver1,lack of belonging,driver,1,1117,7.228308,7.9291663,-2.6422946
+2252,driver1,feel like a failure compared to sister,driver,1,1118,7.1307316,9.652636,-4.8893
+2252,driver2,depression,driver,2,1119,-6.5967345,7.6942654,8.715004
+2252,rfd1,coming home to an empty house,rfd,1,1120,7.737449,11.19636,-1.8569276
+2252,rfd2,knowing my husband is gone,rfd,2,1121,6.9601865,8.695672,-0.33740187
+2252,rfd3,family is gone,rfd,3,1122,7.571841,8.578615,-0.49649546
+2262,driver1,self-hatred,driver,1,1123,10.747067,15.839422,-8.403149
+2262,driver2,PTSD,driver,2,1124,8.716561,10.909252,3.879903
+2262,rfd1,escaping the pain,rfd,1,1125,3.4343452,10.568477,-2.1063066
+2262,rfd2,no help,rfd,2,1126,6.869193,9.555548,-2.8221705
+2262,rfd3,"no one, no family",rfd,3,1127,7.507829,8.514595,-1.0524098
+2262,rfd4,no purpose,rfd,4,1128,4.867055,8.901694,-3.2544982
+2265,driver1,anxiety,driver,1,1129,5.3953815,16.485739,-5.7966213
+2265,driver2,depression,driver,2,1130,-6.504131,7.8105044,8.851241
+2265,driver3,substance use,driver,3,1131,2.3709335,17.775433,2.8767314
+2265,rfd1,wanted to express myself and my feelings,rfd,1,1132,3.9545164,10.037574,-2.0438638
+2266,driver1,anxiety,driver,1,1133,5.36737,16.504372,-5.817195
+2266,driver2,depression,driver,2,1134,-6.5791297,7.794305,8.844299
+2266,rfd1,stressed out with finances,rfd,1,1135,8.5981455,10.904888,-2.61297
+2266,rfd2,strained family relationship,rfd,2,1136,8.2635355,8.52344,-0.5506068
+2266,rfd3,physical disability,rfd,3,1137,5.0313993,12.077279,-1.0897471
+2266,rfd4,feeling overwhelmed,rfd,4,1138,6.4570894,13.521869,-2.724292
+2268,driver1,depression,driver,1,1139,-6.6404896,7.636545,8.880874
+2271,driver1,lost relationship,driver,1,1140,7.283064,9.066048,0.11270537
+2271,driver2,stress and lack of sleep,driver,2,1141,5.8171134,13.573451,-2.2383213
+2271,driver3,bipolar disorder,driver,3,1142,5.001254,13.746138,-0.95185024
+2271,rfd1,miss my wife,rfd,1,1143,7.5084624,9.011936,-0.17157963
+2271,rfd2,wish I'd been a better husband/father,rfd,2,1144,7.804194,9.431708,-0.55971247
+2271,rfd3,stuck in baton rouge,rfd,3,1145,4.543467,10.211113,-4.867746
+2271,rfd4,not smoking cigarettes,rfd,4,1146,2.063661,18.2046,2.5437665
+2274,driver1,stable housing,driver,1,1147,7.509736,11.243137,-1.96546
+2274,rfd1,felt like I lost everything (hopes and dreams),rfd,1,1148,6.9961185,9.296912,-0.19518517
+2275,driver1,no job,driver,1,1149,7.8849096,11.06188,-3.0660887
+2275,driver2,finding the correct meds for my symptoms,driver,2,1150,3.847217,12.007206,-1.2473351
+2275,rfd1,I've gone as far as I can go,rfd,1,1151,5.3345137,10.24985,-2.9191654
+2275,rfd2,no family/friends,rfd,2,1152,7.433657,8.488522,-1.2703284
+2277,driver1,stress,driver,1,1153,6.739628,15.526863,-3.1103573
+2277,driver2,family's homophobia,driver,2,1154,8.171517,8.467409,-0.7156426
+2286,driver1,feel like a failure,driver,1,1155,7.1217875,9.667221,-4.8951864
+2286,driver2,alcohol use,driver,2,1156,2.879645,11.078905,9.179842
+2286,rfd1,"if I fuck up again, I might as well die",rfd,1,1157,6.3814354,9.806453,-4.702552
+2290,driver1,PTSD,driver,1,1158,8.692732,10.8994665,3.8543906
+2299,driver1,defeat/entrapment,driver,1,1159,3.4454303,9.445909,-3.731325
+2299,driver2,drug abuse,driver,2,1160,1.6515687,18.76931,2.0819807
+2299,rfd1,can't seem to kick this habit,rfd,1,1161,2.1215994,18.146599,2.5993154
+2299,rfd2,messing things up for my family,rfd,2,1162,7.6572294,8.876814,-0.95756215
+2300,driver1,anxiety,driver,1,1163,5.3578095,16.52632,-5.837162
+2300,rfd1,people gave up on me,rfd,1,1164,7.735088,9.0452585,-3.1314154
+2300,rfd2,husband,rfd,2,1165,7.731971,8.713041,-0.5234132
+2301,driver1,interpersonal stress,driver,1,1166,6.693559,15.457661,-3.052231
+2301,rfd1,bad family,rfd,1,1167,8.189274,8.5133915,-0.755462
+2301,rfd2,loved life until that point,rfd,2,1168,5.418017,9.849624,-3.244506
+2304,driver1,no consistency,driver,1,1169,7.345918,10.842026,-2.2657669
+2304,rfd1,life in general,rfd,1,1170,5.6751637,9.604843,-3.102438
+2304,rfd2,overwhelmed,rfd,2,1171,6.4461803,13.480457,-2.7533689
+2305,driver1,guilt over choices,driver,1,1172,8.995722,11.590399,0.6438948
+2305,driver2,drugs,driver,2,1173,2.000934,18.00365,2.1106057
+2305,rfd1,drugs,rfd,1,1174,2.0142808,17.993975,2.1304765
+2307,driver1,depression,driver,1,1175,-6.4612393,7.8124237,8.747373
+2307,driver2,anxiety,driver,2,1176,5.2983046,16.581682,-5.894987
+2307,driver3,no job,driver,3,1177,7.9010134,11.054902,-3.0837417
+2307,rfd1,worthlessness,rfd,1,1178,9.839469,9.395462,-6.7475467
+2307,rfd2,miss parents,rfd,2,1179,7.4381623,8.459977,-0.25357905
+2307,rfd3,no job,rfd,3,1180,7.8958573,11.067477,-3.102897
+2308,driver1,no job,driver,1,1181,7.9032044,11.056818,-3.102361
+2308,driver2,unstable housing,driver,2,1182,7.5196266,11.25376,-1.9396248
+2308,rfd1,wouldn't have to face everything,rfd,1,1183,8.691689,9.250006,-2.071882
+2309,driver1,unstable housing,driver,1,1184,7.5147576,11.269448,-1.9442886
+2309,driver2,social anxiety,driver,2,1185,5.3832784,16.462711,-5.7748556
+2309,rfd1,we die anyway,rfd,1,1186,4.9853845,9.59435,-2.19042
+2309,rfd2,life's too expensive,rfd,2,1187,5.514423,9.768897,-2.9692965
+2309,rfd3,people let you down,rfd,3,1188,7.646616,9.24742,-3.3666167
+2310,driver1,worthlessness,driver,1,1189,9.827785,9.310784,-6.7333474
+2310,driver2,medications,driver,2,1190,2.027219,17.942518,2.0739505
+2310,rfd1,I'm worth nothing,rfd,1,1191,8.575217,9.213664,-4.153115
+2310,rfd2,I'll never be good enough no matter what I do,rfd,2,1192,6.7668366,9.544971,-4.558579
+2310,rfd3,what's the point in living,rfd,3,1193,5.093243,9.250189,-3.0731733
+2312,driver1,depression,driver,1,1194,-6.389242,7.7332435,8.954152
+2312,driver2,lack of purpose,driver,2,1195,5.0081053,8.541561,-4.202902
+2312,rfd1,don't see life as worth it,rfd,1,1196,5.23737,9.64741,-3.0071247
+2313,driver1,burdensomeness,driver,1,1197,9.902503,10.291952,-2.3287075
+2313,rfd1,unable to care for self,rfd,1,1198,6.463957,10.901658,-3.264282
+2315,driver1,anger,driver,1,1199,5.9260025,13.378349,-4.0462623
+2315,driver2,entrapment,driver,2,1200,3.4289706,9.463888,-3.650867
+2315,driver3,substance use,driver,3,1201,2.368415,17.78117,2.8696537
+2315,rfd1,shit ain't worth it,rfd,1,1202,5.3839645,9.551705,-2.9448462
+2315,rfd2,to see my little sister,rfd,2,1203,6.4292655,8.638445,-0.7111608
+2315,rfd3,I regret everything I've done in the past,rfd,3,1204,8.365131,11.019614,0.6107732
+2317,driver1,homelessness,driver,1,1205,8.145949,11.763938,-1.5701478
+2317,driver2,drug usage,driver,2,1206,1.5785908,18.85246,2.0157166
+2317,rfd1,using drugs and being around users,rfd,1,1207,1.985036,18.187471,2.3430827
+2317,rfd2,no social support/no family,rfd,2,1208,7.674032,10.685803,-1.8009317
+2318,driver1,academic troubles,driver,1,1209,6.5272026,9.848337,-4.255516
+2318,driver2,lethargy,driver,2,1210,5.5700483,13.02191,-1.9386727
+2318,rfd1,stress about school/scholarships,rfd,1,1211,8.584888,10.942315,-2.6486561
+2318,rfd2,disappointing my family,rfd,2,1212,7.756725,8.787337,-0.9775108
+2318,rfd3,loss of time,rfd,3,1213,6.871753,9.08119,0.14252289
+2318,rfd4,not enjoying the college experience,rfd,4,1214,5.84199,9.748647,-3.881376
+2318,rfd5,being the first child,rfd,5,1215,6.9837937,8.804174,-0.52842295
+2321,driver1,grief about dad,driver,1,1216,7.6010447,8.147713,0.57889026
+2321,rfd1,going with my dad,rfd,1,1217,6.707955,8.560151,-0.67117107
+2321,rfd2,be able to escape the pain,rfd,2,1218,3.4803905,10.6435585,-1.9395493
+2323,driver1,guilt,driver,1,1219,8.9879465,11.619208,0.64624596
+2323,driver2,depression,driver,2,1220,-6.471943,7.7305045,8.931784
+2323,rfd1,depression,rfd,1,1221,-6.5198708,7.785936,8.823477
+2323,rfd2,past thoughts,rfd,2,1222,8.264166,10.992966,0.7694053
+2323,rfd3,guilt,rfd,3,1223,8.998072,11.588241,0.68155515
+2324,driver1,unstable life,driver,1,1224,7.0115895,10.979897,-2.3557706
+2324,driver2,homeless,driver,2,1225,8.152053,11.78084,-1.5639104
+2324,rfd1,it would make everything easier on everybody,rfd,1,1226,8.793312,9.403046,-2.1315491
+2325,driver1,interpersonal rejection,driver,1,1227,7.510663,8.492259,-3.2941902
+2325,driver2,bipolar disorder,driver,2,1228,5.0106063,13.758475,-0.9625165
+2325,rfd1,sick and tired of being sick and tired,rfd,1,1229,5.24061,11.390057,-2.3859735
+2325,rfd2,nobody would care,rfd,2,1230,8.47349,8.99435,-2.3941572
+2328,driver1,burdensomeness,driver,1,1231,9.919156,10.269943,-2.3596523
+2328,driver2,new life adjustments,driver,2,1232,6.7076464,11.319593,-2.5919693
+2328,rfd1,feeling hopeless at times,rfd,1,1233,5.347687,9.585504,-4.8153224
+2331,driver1,feeling trapped/stuck,driver,1,1234,4.4674892,10.248861,-4.894524
+2331,driver2,depression,driver,2,1235,-6.4828067,7.773243,8.875299
+2331,rfd1,don't belong in family,rfd,1,1236,8.064448,8.487356,-0.9627248
+2331,rfd2,feel misunderstood,rfd,2,1237,7.3456936,8.323484,-3.0965364
+2332,driver1,depression,driver,1,1238,-6.5308027,7.8693237,8.768621
+2332,driver2,anxiety,driver,2,1239,5.3590064,16.505632,-5.810063
+2332,rfd1,burdensomeness,rfd,1,1240,9.900576,10.298668,-2.3336513
+2332,rfd2,useless-can't work job/career anymore,rfd,2,1241,7.9672313,10.911338,-3.2136683
+2333,driver1,anxiety,driver,1,1242,5.3926015,16.475876,-5.7969484
+2333,driver2,depression,driver,2,1243,-6.631845,7.677043,8.689542
+2333,rfd1,my daughter's struggles,rfd,1,1244,8.183887,8.67895,-0.14495187
+2334,driver1,guilt/burdensomeness,driver,1,1245,9.842816,10.334451,-2.201655
+2334,rfd1,hopelessness,rfd,1,1246,2.8147662,8.008807,-8.814973
+2334,rfd2,not having to fight with myself in my lead,rfd,2,1247,6.5442686,10.352512,-3.5775027
+2334,rfd3,scared and mixed up,rfd,3,1248,6.234927,13.386224,-3.2105243
+2334,rfd4,useless,rfd,4,1249,9.895342,9.386114,-6.80373
+2336,driver1,hopelessness,driver,1,1250,2.7980535,8.146139,-8.930394
+2336,rfd1,hopeless about the future,rfd,1,1251,5.72247,9.945398,-4.456328
+2336,rfd2,worthlessness,rfd,2,1252,9.881375,9.378158,-6.785648
+2337,driver1,anxiety,driver,1,1253,5.392326,16.486769,-5.809392
+2337,driver2,depression,driver,2,1254,-6.4531765,7.7504807,8.914625
+2337,rfd1,escape my emotional pain,rfd,1,1255,3.3689897,10.660555,-2.1175776
+2337,rfd2,no purpose in life,rfd,2,1256,5.048555,8.983346,-3.3354974
+2338,driver1,trauma/grief from trauma,driver,1,1257,7.670198,8.54652,1.7596393
+2338,rfd1,my ex,rfd,1,1258,7.506062,8.396543,-0.8345745
+2339,driver1,anxiety,driver,1,1259,5.4126554,16.457266,-5.8242416
+2339,driver2,depression,driver,2,1260,-6.484639,7.7833285,8.8300295
+2339,driver3,neuropsych eval,driver,3,1261,5.064969,13.763547,-0.8610599
+2339,rfd1,rather die than jail,rfd,1,1262,3.8993368,9.759894,-2.918564
+2340,driver1,depression,driver,1,1263,-6.4576764,7.7215343,8.876634
+2340,driver2,anxiety,driver,2,1264,5.3085656,16.570917,-5.8469734
+2340,rfd1,tired of life,rfd,1,1265,5.309457,11.339157,-2.4436347
+2340,rfd2,feel unwanted,rfd,2,1266,7.2381654,8.222825,-3.1207547
+2340,rfd3,no vision for the future,rfd,3,1267,5.7850785,10.053515,-4.4271116
+2341,driver1,PTSD/trauma,driver,1,1268,8.711363,10.831499,3.7773256
+2341,rfd1,stop the loneliness,rfd,1,1269,6.999458,8.205736,-2.2783742
+2341,rfd2,see all the people I love,rfd,2,1270,6.785886,8.745368,-0.64849627
+2361,driver1,hearing voices,driver,1,1271,5.46579,13.473281,0.30998564
+2361,driver2,feeling bad about self,driver,2,1272,6.2602634,10.033921,-4.8926344
+2361,rfd1,feel really bad about self,rfd,1,1273,6.2975907,10.067709,-4.884976
+2361,rfd2,things I've done/sins,rfd,2,1274,8.722297,11.433346,0.5227898
+2361,rfd3,"voices, negative",rfd,3,1275,5.4534187,13.428388,0.2979924
+2363,driver1,health and quality of life,driver,1,1276,4.8439293,12.12051,-1.3107963
+2363,rfd1,don't want wiife to have to deal with it,rfd,1,1277,4.2993484,10.666247,-2.21891
+2363,rfd2,pain,rfd,2,1278,2.7291045,10.635075,-1.0559568
+2364,driver1,feeling people better off without me,driver,1,1279,8.733216,8.746131,-2.3590615
+2364,rfd1,to have everything stop,rfd,1,1280,4.255635,10.535277,-2.099256
+2365,driver1,anger,driver,1,1281,5.939257,13.397867,-4.0469227
+2365,driver2,lack of support,driver,2,1282,7.460429,10.675533,-2.3730202
+2365,rfd1,way I feel,rfd,1,1283,6.4165525,8.598019,-4.819436
+2366,driver1,homelessness,driver,1,1284,8.159001,11.77551,-1.5561599
+2366,driver2,feeling humiliated/others being mean,driver,2,1285,10.135041,15.135009,-7.5846367
+2367,driver1,no way out,driver,1,1286,4.4886374,10.243241,-4.044598
+2367,rfd1,kids won't have anything to do with me,rfd,1,1287,7.959705,9.274718,-0.91923326
+2367,rfd2,gave up on life,rfd,2,1288,5.3399324,9.847946,-4.2619977
+2368,driver1,devil's trials,driver,1,1289,2.9615242,10.513731,-1.6646531
+2368,rfd1,lack of connections,rfd,1,1290,7.404408,10.701483,-2.457363
+2369,driver1,previous trauma,driver,1,1291,9.345759,9.644358,3.3784184
+2369,rfd1,living situation,rfd,1,1292,7.5946608,11.370097,-1.848465
+2369,rfd2,past traumas,rfd,2,1293,9.096993,9.854283,3.0538495
+2373,driver1,contant SI thoughts,driver,1,1294,8.1992,11.055971,0.6667326
+2373,rfd1,don't want to be here,rfd,1,1295,5.0514216,10.508391,-2.8260548
+2374,driver1,the sickness,driver,1,1296,4.524969,12.19051,-1.4863144
+2374,rfd1,sick,rfd,1,1297,5.2402325,12.610577,-1.7690314
+2375,driver1,the relationship with mom,driver,1,1298,8.340534,8.28191,-0.07511054
+2375,driver2,the unknown diagnosis,driver,2,1299,4.376797,12.3325205,-1.2619339
+2375,rfd1,not understanding why mom singles me out/not supportive,rfd,1,1300,8.386464,8.296205,-0.045016605
+2375,rfd2,everything going on,rfd,2,1301,5.9964604,9.875315,-2.9325378
+2376,driver1,not feeling good enough/worthy enough,driver,1,1302,6.6811786,9.134265,-4.671446
+2376,driver2,manic episodes,driver,2,1303,5.02478,13.7734995,-0.90284485
+2376,rfd1,see my kids (lost 2 girls pregnant in car wreck 2008),rfd,1,1304,6.8476405,8.614933,-0.44791803
+2376,rfd2,can't control self/ feel out of control,rfd,2,1305,5.2492886,10.341109,-4.419695
+2377,driver1,voiices telling me to kill self,driver,1,1306,5.3732834,13.329798,0.13879058
+2377,driver2,anxiety,driver,2,1307,5.379741,16.516647,-5.8308725
+2377,rfd1,I'm a problem,rfd,1,1308,8.472483,9.423919,-3.3345873
+2377,rfd2,torment too much,rfd,2,1309,2.961232,10.537255,-1.7138239
+2378,driver1,abuser- get rid of him,driver,1,1310,8.7217245,10.205244,2.103812
+2378,rfd1,being abused,rfd,1,1311,8.750328,10.176862,2.1304183
+2378,rfd2,what he did to me,rfd,2,1312,8.681385,10.208713,2.035144
+2380,driver1,homelessness,driver,1,1313,8.1461735,11.760334,-1.5720389
+2380,driver2,medical conditions,driver,2,1314,4.413993,12.290387,-1.2289771
+2380,rfd1,medical condition,rfd,1,1315,4.4308453,12.336029,-1.190524
+2380,rfd2,situation in court,rfd,2,1316,3.5607057,9.515221,-3.5502048
+2381,driver1,intense pain,driver,1,1317,2.651042,10.719484,-1.0184424
+2381,rfd1,losing myself and function,rfd,1,1318,5.293987,9.276524,-4.433129
+2381,rfd2,not being able to take care of self,rfd,2,1319,6.593687,10.763941,-3.1879063
+2381,rfd3,tired of depressioni/stress,rfd,3,1320,5.249395,11.296475,-2.461173
+2386,driver1,death of boyfriend,driver,1,1321,7.413521,8.486505,0.47771305
+2386,rfd1,boyfriend is gone,rfd,1,1322,7.4556026,8.780619,0.069268875
+2388,driver1,Auditory Verbal Hallucinations,driver,1,1323,5.3616867,13.538171,0.08462814
+2388,rfd1,suicide pact - friend died,rfd,1,1324,7.305322,8.44852,0.56638
+2388,rfd2,don't want to be here,rfd,2,1325,5.0582337,10.53358,-2.8161805
+2389,driver1,dealing with HIV diagnosis,driver,1,1326,4.430104,12.506589,-1.0198573
+2389,rfd1,sickness,rfd,1,1327,4.6400633,12.337361,-1.3674042
+2391,driver1,lonely,driver,1,1328,13.503304,0.93731266,3.3993566
+2391,rfd1,losing mawmaw,rfd,1,1329,7.0400414,8.955145,0.14884695
+2391,rfd2,mom left,rfd,2,1330,7.6777253,8.497714,-0.18000783
+2391,rfd3,dad stopped talking,rfd,3,1331,7.905331,8.2377,0.047405936
+2391,rfd4,break up,rfd,4,1332,7.604522,9.360997,0.062042147
+2393,driver1,shame,driver,1,1333,9.111684,12.395938,1.2760813
+2393,rfd1,wife and kids better off,rfd,1,1334,7.877957,8.84629,-1.1085571
+2393,rfd2,financial issues,rfd,2,1335,8.297716,10.854797,-2.5819037
+2394,driver1,pain,driver,1,1336,2.7256322,10.6328125,-1.0563782
+2394,rfd1,in so much pain,rfd,1,1337,3.0417268,10.699708,-1.348079
+2397,driver1,"in pain, ""my time to die""",driver,1,1338,4.990347,10.179578,-2.0335755
+2397,rfd1,time to move on,rfd,1,1339,7.6001477,9.379201,0.009144601
+2399,driver1,difficulties with family,driver,1,1340,8.282361,8.510328,-0.6806234
+2399,driver2,drugs,driver,2,1341,2.034596,17.992205,2.1645777
+2399,rfd1,"want drugs out of my life, only way",rfd,1,1342,2.1202939,17.886538,2.2810638
+2399,rfd2,relationship with mom,rfd,2,1343,8.3352995,8.262544,-0.045715954
+2400,driver1,feeling unwanted/abandoned,driver,1,1344,7.1721954,8.199068,-2.9798687
+2400,driver2,dad passing away,driver,2,1345,7.4303436,8.288038,0.41587314
+2400,rfd1,people better off without me,rfd,1,1346,8.714951,8.799308,-2.2360394
+2400,rfd2,no purpose,rfd,2,1347,4.885998,8.926717,-3.2455714
+2400,rfd3,being with dad,rfd,3,1348,6.6970606,8.617069,-0.86720246
+2402,driver1,issues with friends,driver,1,1349,7.5300355,8.450432,-1.5619056
+2402,rfd1,just tired,rfd,1,1350,5.4667983,12.698611,-1.8749893
+2402,rfd2,don't feel like a productive member,rfd,2,1351,6.4638867,8.827277,-4.5729227
+2402,rfd3,worthless drug addict,rfd,3,1352,9.845452,9.373397,-6.748148
+2402,rfd4,choose drugs over children,rfd,4,1353,2.0855036,17.919634,2.2235155
+2402,rfd5,wife drove me to drugs,rfd,5,1354,2.139763,17.938957,2.3940475
+2403,driver1,relationship problems with mom,driver,1,1355,8.40113,8.322525,-0.04241323
+2403,driver2,relationship wiith step dad is rocky,driver,2,1356,8.363352,8.257914,-0.10522811
+2403,rfd1,escape the feelings,rfd,1,1357,3.3703735,10.682219,-2.1963508
+2403,rfd2,not feeling understood,rfd,2,1358,7.3892994,8.349374,-3.0800447
+2404,driver1,interpersonal issues with wife,driver,1,1359,8.017377,9.190794,-0.38281742
+2404,rfd1,didn't want to start over with marriage/ getting divorced,rfd,1,1360,7.7359743,9.199627,-0.17475848
+2404,rfd2,punishing her (wife),rfd,2,1361,7.9614005,9.14405,-0.36298612
+2405,driver1,diabetes mismanagement,driver,1,1362,4.2492847,12.386641,-1.1703135
+2405,driver2,family issues,driver,2,1363,8.199357,8.45236,-0.6495505
+2406,driver1,communication with parents,driver,1,1364,8.347374,8.303311,-0.35538697
+2406,driver2,self-esteem,driver,2,1365,7.7968397,11.989431,-5.2597
+2406,rfd1,guilty about relationship,rfd,1,1366,8.919842,11.532387,0.68787247
+2406,rfd2,shame towards family,rfd,2,1367,8.250982,8.687064,-0.8653893
+2408,driver1,stable housing,driver,1,1368,7.543361,11.289239,-1.9199268
+2408,driver2,grief/ trauma,driver,2,1369,7.5596633,8.459388,1.6287576
+2408,driver3,substance use,driver,3,1370,2.384244,17.767036,2.8910637
+2408,rfd1,hopeless,rfd,1,1371,2.9884455,8.141949,-8.805419
+2408,rfd2,no where to stay,rfd,2,1372,7.666961,11.304433,-1.9328344
+2408,rfd3,grieving my mom,rfd,3,1373,7.297864,8.301976,0.37845233
+2408,rfd4,not being with my kids,rfd,4,1374,6.8782535,8.686567,-0.5408117
+2409,driver1,my temper,driver,1,1375,5.933645,13.3884735,-4.018295
+2409,driver2,inability to communicate,driver,2,1376,6.904021,10.835545,-2.8400397
+2409,rfd1,sick of not being heard/ validated,rfd,1,1377,5.134391,11.176452,-2.3176763
+2409,rfd2,feel useless,rfd,2,1378,6.474164,8.642007,-4.767772
+2409,rfd3,beinig a burden,rfd,3,1379,9.730471,9.776356,-2.5991173
+2410,driver1,anxiety and depression,driver,1,1380,5.287648,14.175461,-2.8062973
+2410,driver2,mediciation management,driver,2,1381,4.203,12.2824335,-1.1379802
+2410,rfd1,no more worries,rfd,1,1382,9.049059,12.3762045,1.2220594
+2410,rfd2,no place or purpose in the world,rfd,2,1383,5.0982747,8.800336,-3.6635818
+2410,rfd3,more stability,rfd,3,1384,7.486907,10.947835,-2.2191353
+2410,rfd4,no companionship/ partner,rfd,4,1385,6.363746,8.416534,-1.9649467
+2411,driver1,depression and anxiety,driver,1,1386,5.064493,14.048534,-1.6791649
+2411,rfd1,financial stress,rfd,1,1387,8.621712,10.918279,-2.6049044
+2411,rfd2,family issues (4 older sisters),rfd,2,1388,8.238026,8.345794,-0.49456754
+2411,rfd3,friends,rfd,3,1389,7.454389,8.405098,-1.3653674
+2414,driver1,negativity in my life,driver,1,1390,5.9440346,10.240159,-3.7761421
+2414,rfd1,negatvity around me,rfd,1,1391,6.013513,10.305809,-3.810161
+2414,rfd2,assault at age 15,rfd,2,1392,8.757242,10.168609,2.2262676
+2417,driver1,loneliness,driver,1,1393,13.656709,0.8171352,3.3141396
+2417,driver2,burden/hopeless,driver,2,1394,4.492365,9.310167,-6.0163817
+2417,rfd1,I wouldn't say I have any reasons for dying,rfd,1,1395,4.9672103,9.727543,-2.4659595
+2418,driver1,hopeless about mental health,driver,1,1396,5.2791553,9.766158,-4.716594
+2418,rfd1,Bipolar/Anxiety/Depression wasn't going away,rfd,1,1397,5.0268145,13.918084,-1.4355756
+2419,driver1,trapped/entrapment,driver,1,1398,3.4204757,9.458899,-3.668783
+2419,driver2,hopelessness,driver,2,1399,2.835799,7.9423127,-8.742375
+2419,rfd1,"I don't know what to do when think ""I'm stupid"" ""can't really cope""",rfd,1,1400,5.3123593,9.845276,-4.743469
+2419,rfd2,stressing mom- I'd be out the piicture,rfd,2,1401,6.7258935,8.56844,-0.6890835
+2419,rfd3,contract could be extended,rfd,3,1402,7.763469,10.625974,-2.3782897
+2419,rfd4,I don't know how to connect to people- unloveable,rfd,4,1403,7.30944,8.3958235,-2.2293584
+2421,driver1,rejection,driver,1,1404,7.599313,8.541072,-3.4853666
+2421,driver2,self-confidence,driver,2,1405,7.7809067,11.919077,-5.2452855
+2422,driver1,hopelessness about physical pain,driver,1,1406,2.5663636,11.401172,-1.3462919
+2422,rfd1,wont hurt anymore,rfd,1,1407,3.766812,10.730444,-1.4882555
+2422,rfd2,won't be a burden,rfd,2,1408,9.543234,9.81597,-2.6189535
+2424,driver1,worthless,driver,1,1409,9.86857,9.362095,-6.7746024
+2424,driver2,burden,driver,2,1410,9.64885,9.895688,-2.7251456
+2424,rfd1,better off - people worry about me,rfd,1,1411,8.668392,8.752348,-2.3624456
+2424,rfd2,"no job, homeless, no vehicle",rfd,2,1412,8.051499,11.510449,-1.6071502
+2431,driver1,self-hatred (negative self-talk),driver,1,1413,10.477138,15.589079,-8.1552
+2431,rfd1,"mad at myself- ""I screwed up""",rfd,1,1414,6.7613974,9.794915,-4.8681536
+2432,driver1,"fear of failure, hard on myself beating myself down",driver,1,1415,6.3368587,10.8339815,-3.9697032
+2432,rfd1,sometimes body issues,rfd,1,1416,5.6298213,13.704795,-2.0582237
+2435,driver1,worthlessness,driver,1,1417,9.917867,9.400635,-6.823707
+2435,rfd1,I'm worthless- can't do nothing no more,rfd,1,1418,8.416706,9.299039,-4.0596247
+2436,driver1,worthlessness,driver,1,1419,9.8461275,9.33887,-6.750123
+2436,driver2,"worry- finances, son, business",driver,2,1420,8.610872,10.851907,-2.599964
+2437,driver1,to escape suffering and abuse,driver,1,1421,3.9281225,10.056728,-2.0432174
+2438,driver1,failure,driver,1,1422,8.139851,9.170341,-4.9948306
+2438,rfd1,Failure,rfd,1,1423,8.107909,9.201456,-4.9647593
+2438,rfd2,not having friends who like me as a person,rfd,2,1424,7.5679336,8.541626,-2.7493021
+2438,rfd3,am I capable of making decisions,rfd,3,1425,6.0682025,9.81571,-4.3578644
+2440,driver1,worthless,driver,1,1426,9.873662,9.369093,-6.7802753
+2440,driver2,burden on others,driver,2,1427,9.547029,9.8958235,-2.6893044
+2440,rfd1,hate having sickle cell and suffering all my life,rfd,1,1428,4.379539,11.234726,-1.8791021
+2440,rfd2,hate myself- like I'm no good,rfd,2,1429,6.5482516,9.905025,-4.835765
+2441,driver1,loss sense of purpose,driver,1,1430,5.1142097,8.627603,-4.1453476
+2441,rfd1,When God pulls my number,rfd,1,1431,5.375577,9.996877,-1.9309095
+2442,driver1,trauma and anger,driver,1,1432,9.577877,9.316785,3.7350266
+2442,driver2,helplessness,driver,2,1433,5.189855,9.728422,-5.521628
+2442,rfd1,past- take abuse away,rfd,1,1434,8.489024,10.718932,1.2501775
+2442,rfd2,burden to mom,rfd,2,1435,9.44106,9.567624,-2.5565307
+2445,driver1,feeling alone,driver,1,1436,7.013229,8.350056,-2.4656591
+2446,driver1,overwhelmed with stress,driver,1,1437,6.3862114,13.946279,-2.7597983
+2446,driver2,hopeless,driver,2,1438,2.9639356,8.171741,-8.862185
+2446,rfd1,feeling like I don't have a purpose,rfd,1,1439,5.48432,8.824977,-4.1066575
+2446,rfd2,stress inconvience,rfd,2,1440,6.6239314,15.364312,-3.0124502
+2446,rfd3,past trauma makes me anxious,rfd,3,1441,9.171615,9.7986145,3.2078948
+2448,driver1,lonely,driver,1,1442,13.513173,0.9771805,3.3931584
+2448,rfd1,felt alone and unwanted,rfd,1,1443,7.1618876,8.213685,-3.0035758
+2448,rfd2,lost girlfriend and other girl,rfd,2,1444,7.38298,9.044874,0.07257615
+2449,driver1,hopeless,driver,1,1445,2.959376,8.126614,-8.81168
+2450,driver1,I've failed my kids,driver,1,1446,7.627114,9.510316,-4.5440464
+2450,driver2,worthy enough to fight for them again,driver,2,1447,9.839793,9.331258,-6.747421
+2450,rfd1,making others lives harder and hurting people even though I try not to,rfd,1,1448,4.514332,10.754486,-1.5221812
+2450,rfd2,not being able to be a mother,rfd,2,1449,7.138779,8.991751,-0.6553576
+2451,driver1,burdensomeness,driver,1,1450,9.905128,10.31115,-2.3344543
+2451,driver2,worthless,driver,2,1451,9.903285,9.396578,-6.809462
+2451,rfd1,don't feel like its worth anything,rfd,1,1452,9.904291,9.388152,-6.81384
+2451,rfd2,it would be easier,rfd,2,1453,8.821897,9.445974,-2.153312
+2452,driver1,burden,driver,1,1454,9.641149,9.899257,-2.6952794
+2452,driver2,guilt/shame (not being a good mom),driver,2,1455,7.9778204,9.546224,-0.5638577
+2452,rfd1,kids are better off,rfd,1,1456,8.356959,9.033316,-1.5216916
+2452,rfd2,won't be a hassle to others,rfd,2,1457,9.062036,9.600579,-2.5226183
+2453,driver1,chronic pain and mental health,driver,1,1458,2.6577754,11.521236,-1.0282589
+2453,driver2,feeling worthless,driver,2,1459,6.479388,8.635098,-4.7989507
+2453,rfd1,I don't have to feel pain anymore,rfd,1,1460,3.9574544,10.706985,-1.6104376
+2453,rfd2,panic/ anxiety/ depression/ isolation,rfd,2,1461,5.362611,14.10598,-2.7122822
+2454,driver1,justice from sister,driver,1,1462,7.8555675,8.243978,-0.02437926
+2454,driver2,hopeless,driver,2,1463,3.0201561,8.204262,-8.799882
+2454,rfd1,out of options,rfd,1,1464,4.5378165,10.221442,-3.978003
+2455,driver1,escape from being trapped and chronic pain,driver,1,1465,3.4730737,10.644743,-2.0384343
+2455,rfd1,guilt,rfd,1,1466,9.007787,11.632448,0.64668775
+2455,rfd2,lifes too hard,rfd,2,1467,5.508167,9.767088,-3.0623856
+2455,rfd3,impatient to get family,rfd,3,1468,7.7199593,8.49305,-1.1048076
+2455,rfd4,my past,rfd,4,1469,8.345364,10.951071,0.816436
+2457,driver1,self blame/ hate,driver,1,1470,10.363928,15.512194,-7.9400606
+2457,driver2,money/ fiinancial stress,driver,2,1471,8.603808,10.92009,-2.6316612
+2457,rfd1,to get out of everybody's word,rfd,1,1472,4.0528326,10.089102,-2.382671
+2457,rfd2,I don't want to leach off everybody,rfd,2,1473,9.07174,9.468384,-2.9165008
+2458,driver1,housing and a job,driver,1,1474,7.922767,11.531341,-1.7413545
+2458,driver2,stability,driver,2,1475,7.296035,11.01228,-2.244354
+2458,rfd1,family doesn't understand,rfd,1,1476,8.133492,8.4666,-0.9634204
+2458,rfd2,I'm not important,rfd,2,1477,8.543193,9.14132,-3.9024038
+2458,rfd3,feeling mad,rfd,3,1478,5.913852,12.975116,-4.038155
+2458,rfd4,no future,rfd,4,1479,5.72292,10.03755,-4.3292456
+2462,driver1,chronic pain (family after me/out to get me),driver,1,1480,2.739755,11.556151,-1.0561552
+2462,rfd1,giving up on myself,rfd,1,1481,5.4047976,9.824004,-4.776996
+2462,rfd2,nobody honest/ related to,rfd,2,1482,7.4765472,8.4050045,-1.011303
+2464,driver1,physical health,driver,1,1483,4.833974,12.138747,-1.2582861
+2464,driver2,quzlity of life,driver,2,1484,5.16634,9.158991,-3.1930194
+2464,rfd1,stop the pain and feelings I'm having,rfd,1,1485,3.365956,10.7162075,-1.9661008
+2464,rfd2,It would only help me,rfd,2,1486,8.810304,9.460245,-2.1421134
+2466,driver1,loneliness,driver,1,1487,13.547483,0.9427558,3.4181304
+2466,rfd1,I am no use,rfd,1,1488,8.496717,9.223714,-4.0598354
+2466,rfd2,trauma,rfd,2,1489,9.798308,9.237287,4.0229783
+2466,rfd3,lack of reasons to live,rfd,3,1490,5.22741,9.546887,-2.937376
+2468,driver1,people are bad= anxiety and hopelessness about it,driver,1,1491,5.2936654,14.116869,-2.7599013
+2468,driver2,Auditory hallucinations,driver,2,1492,5.3641562,13.5379305,0.10443618
+2468,rfd1,inability to overcome a certain obstacle in life- social anxiety,rfd,1,1493,5.379532,14.093493,-2.8914852
+2469,driver1,misery,driver,1,1494,2.8917801,10.526257,-1.6857287
+2469,driver2,self-hate,driver,2,1495,10.59354,15.683466,-8.236784
+2469,rfd1,to feel better,rfd,1,1496,3.9316366,10.222347,-1.8953921
+2469,rfd2,emotional pain,rfd,2,1497,1.8894802,11.242164,-1.2191998
+2476,driver1,burden/anger,driver,1,1498,9.714597,10.109455,-2.5755472
+2476,driver2,substance use,driver,2,1499,2.377823,17.771887,2.881191
+2476,rfd1,it makes thiings easier for me,rfd,1,1500,8.777613,9.63326,-2.19015
+2478,driver1,loneliness,driver,1,1501,13.57455,1.0446087,3.4984906
+2478,rfd1,relief- not wanting to feel,rfd,1,1502,3.646758,10.617591,-1.9821966
+2478,rfd2,not having to care for self anymore,rfd,2,1503,6.1200867,9.226414,-1.7441734
+2479,driver1,constant overwhelm- people needing me,driver,1,1504,6.5077953,13.570257,-2.7077963
+2480,driver1,loneliness or pressure to not be lonely,driver,1,1505,7.108636,7.9511085,-2.4165633
+2480,rfd1,feeling alone like no one loves me,rfd,1,1506,7.276575,8.349735,-2.4848576
+2481,driver1,drinking alcohol,driver,1,1507,2.923988,11.070964,9.246692
+2485,driver1,drinking only coping strategy,driver,1,1508,3.0134687,11.202585,9.179318
+2486,driver1,isolation/lacking support,driver,1,1509,6.935362,8.112015,-2.3414404
+2486,rfd1,nothing to live for,rfd,1,1510,5.4140162,9.260462,-2.8044164
+2487,driver1,interpersonal issues,driver,1,1511,7.996213,9.281231,-0.8392454
+2487,driver2,losing supports,driver,2,1512,7.514896,10.548412,-2.2377772
+2487,rfd1,avoid conflict with siblings,rfd,1,1513,8.171967,8.298166,-0.4412496
+2487,rfd2,make it easier on others,rfd,2,1514,8.998874,9.563676,-2.3381104
+2488,driver1,not measuring up,driver,1,1515,6.6288757,9.291176,-4.644089
+2488,driver2,loneliness,driver,2,1516,13.547592,0.9390105,3.4351592
+2488,rfd1,not providing for kids how I want,rfd,1,1517,7.9271555,9.280225,-0.7849438
+2488,rfd2,being alone,rfd,2,1518,6.1281157,8.576191,-1.7982432
+2488,rfd3,body image,rfd,3,1519,7.809702,12.03507,-5.2447085
+2489,driver1,hopelessness/ depression,driver,1,1520,3.0359507,8.098098,-8.536388
+2489,rfd1,losing everything,rfd,1,1521,6.976361,9.1890135,-0.06848013
+2489,rfd2,no one cares- trying to get something from me,rfd,2,1522,8.196191,8.778645,-2.8073916
+2490,driver1,unloveable,driver,1,1523,9.753848,9.267074,-6.6428857
+2490,driver2,lack of achievment/ not enough,driver,2,1524,6.1809773,9.231809,-4.1758895
+2490,rfd1,not accomplishing goals,rfd,1,1525,6.3283834,9.435723,-4.118336
+2490,rfd2,worrying about money,rfd,2,1526,8.519846,10.77571,-2.6647613
+2490,rfd3,worrying about others,rfd,3,1527,8.54116,10.525342,-2.7086587
+2492,driver1,substance use,driver,1,1528,2.3937309,17.758968,2.9055264
+2492,rfd1,couldn't stay sober,rfd,1,1529,3.0507631,11.244232,9.137821
+2494,driver1,worthless,driver,1,1530,9.860336,9.368321,-6.779751
+2494,driver2,loneliness,driver,2,1531,13.391457,0.8750761,3.538105
+2494,rfd1,being used by family,rfd,1,1532,8.238443,9.401793,-1.9456753
+2494,rfd2,can't have kids,rfd,2,1533,7.8067555,9.324494,-0.8816456
+2494,rfd3,no goal in life,rfd,3,1534,5.099465,9.023716,-3.377978
+2494,rfd4,becoming a dependent,rfd,4,1535,7.6660547,10.711955,-1.7921194
+2494,rfd5,not being able to drive,rfd,5,1536,6.656611,10.734345,-3.0369475
+2495,driver1,loneliness,driver,1,1537,13.4570465,0.9305716,3.397546
+2495,driver2,worthlessness and self-hate,driver,2,1538,10.434051,15.41547,-8.041946
+2495,rfd1,don't want to be alone,rfd,1,1539,6.5839243,8.47091,-2.0548196
+2495,rfd2,hate self,rfd,2,1540,10.447194,15.563958,-8.088015
+2496,driver1,alcohol use,driver,1,1541,2.8226025,11.02918,9.1720495
+2498,driver1,alcohol- blacking out,driver,1,1542,3.0248706,11.229278,9.126038
+2499,driver1,defear- fighting a losing battle,driver,1,1543,4.531936,9.396378,-5.9013596
+2499,driver2,hopeless,driver,2,1544,2.9877431,8.145126,-8.777446
+2499,rfd1,death is better than living,rfd,1,1545,4.981802,9.567983,-2.248781
+2499,rfd2,I could be with my mother,rfd,2,1546,6.6825833,8.556482,-0.69638985
+2499,rfd3,stops everything,rfd,3,1547,4.3107104,10.56029,-2.12312
+2502,driver1,anger,driver,1,1548,5.942499,13.3861,-4.0640016
+2502,driver2,9998,driver,2,1549,5.3960524,10.022056,-1.9614681
+2502,rfd1,feeling stuck in life,rfd,1,1550,4.657947,10.170262,-4.7791023
+2502,rfd2,"life wasn't moving fast enough. Wanted apt, job, it was all so slow",rfd,2,1551,5.499508,9.939282,-3.5062788
+2504,driver1,instable housing,driver,1,1552,7.5689826,11.314254,-1.8971117
+2504,driver2,chronic pain,driver,2,1553,2.6252463,11.467565,-1.0225533
+2504,rfd1,tired of life,rfd,1,1554,5.3005548,11.329623,-2.4680247
+2504,rfd2,overwhelmed,rfd,2,1555,6.4173737,13.507985,-2.7883341
+2505,driver1,not having care for self,driver,1,1556,6.51108,10.941409,-3.345526
+2505,rfd1,frustrated w / self,rfd,1,1557,5.632205,10.0411,-4.875535
+2505,rfd2,no control of self,rfd,2,1558,5.3238673,10.425087,-4.291986
+2505,rfd3,no identity,rfd,3,1559,6.569273,9.54135,-2.6704128
+2506,driver1,hopelessness/ not feeling confident,driver,1,1560,5.5419,9.532963,-4.9062076
+2506,rfd1,never going to get better,rfd,1,1561,5.646435,10.35802,-3.50919
+2506,rfd2,"burden to everyone, their lives better if I'm not here",rfd,2,1562,9.374449,9.641806,-2.8603828
+2506,rfd3,taste & smell different after COVID since 2020,rfd,3,1563,4.6088524,12.113138,-1.6125214
+2507,driver1,guilt,driver,1,1564,8.992796,11.616585,0.6693226
+2507,rfd1,can't change the past,rfd,1,1565,8.330668,11.036972,0.73184896
+2507,rfd2,my good doesn't undue bad,rfd,2,1566,6.4447336,9.99932,-4.090001
+2508,driver1,medication adherance,driver,1,1567,4.0304275,12.327771,-1.0748471
+2508,rfd1,tired of living this way,rfd,1,1568,5.311533,11.256903,-2.3595812
+2509,driver1,relationship w / ex,driver,1,1569,7.7505426,9.154438,0.12325763
+2509,rfd1,Past relationship situation,rfd,1,1570,7.7291,9.209529,0.07427994
+2510,driver1,Loneliness,driver,1,1571,13.475504,0.9811028,3.4873781
+2510,rfd1,not being good enough,rfd,1,1572,6.7877717,9.687937,-4.23312
+2511,driver1,break up / pain associated w / that,driver,1,1573,2.3152335,11.152146,-1.0549742
+2511,rfd1,events that occur- break up,rfd,1,1574,7.5475836,9.194846,0.18839921
+2513,driver1,the voices,driver,1,1575,5.470623,13.476898,0.31833163
+2513,driver2,lack of support,driver,2,1576,7.4357877,10.670001,-2.3284564
+2513,rfd1,feel stuck- spinning my wheels,rfd,1,1577,4.5026894,10.254149,-4.8207173
+2513,rfd2,everyone I know is dead,rfd,2,1578,6.906061,8.941363,-0.6676127
+2514,driver1,"losses / ""cruel world""",driver,1,1579,7.2168894,8.182214,1.4420298
+2514,rfd1,worrying if I'm not enough,rfd,1,1580,6.8013263,9.357576,-4.572535
+2515,driver1,hopelessness,driver,1,1581,2.8739629,8.048697,-8.799947
+2515,driver2,loneliness,driver,2,1582,13.508705,0.93041784,3.472382
+2515,rfd1,stress,rfd,1,1583,6.7022758,15.476443,-3.0717642
+2515,rfd2,gf died by suicide,rfd,2,1584,7.398252,8.397949,0.52623516
+2518,driver1,not having direction,driver,1,1585,5.1805663,9.09023,-4.209832
+2518,rfd1,alone,rfd,1,1586,6.251386,8.452883,-1.8500223
+2518,rfd2,homeless- no direction,rfd,2,1587,7.99384,11.599369,-1.6866748
+2518,rfd3,hopelessness,rfd,3,1588,2.9392414,7.944186,-8.711815
+2519,driver1,loneliness,driver,1,1589,13.499218,0.96871763,3.466085
+2519,rfd1,didn't know where going in life,rfd,1,1590,5.5202026,9.819373,-4.120594
+2521,driver1,abuse & lack of support,driver,1,1591,8.723443,10.197548,2.0711703
+2521,rfd1,"family, friends",rfd,1,1592,7.551765,8.405,-0.9878191
+2521,rfd2,not being in the position should be @ this age,rfd,2,1593,6.824731,9.692969,-4.227335
+2521,rfd3,feeling behind,rfd,3,1594,6.5267873,8.7406435,-4.8666577
+2523,driver1,grief- not handling well,driver,1,1595,7.3375144,8.274027,1.3648258
+2523,rfd1,to be w / loved ones who passed,rfd,1,1596,6.406174,8.615405,-0.6688001
+2525,driver1,""" don't want to fight this anymore""",driver,1,1597,5.025259,10.99685,-2.2131217
+2525,rfd1,the pain,rfd,1,1598,2.7240126,10.627175,-1.036447
+2525,rfd2,sleep,rfd,2,1599,5.5123496,12.726555,-1.8697135
+2525,rfd3,won't have to struggle anymore,rfd,3,1600,8.726021,9.659707,-2.2082734
+2526,driver1,hopelessness,driver,1,1601,3.0196612,7.9167404,-8.650853
+2526,rfd1,not sure what life has to offer,rfd,1,1602,5.4267545,9.771717,-4.318981
+2527,driver1,PTSD or hopelessness maybe?,driver,1,1603,8.703174,10.907432,3.863617
+2527,rfd1,everyone would be better off w / o me,rfd,1,1604,8.687275,8.845438,-2.198071
+2528,driver1,loss / grief,driver,1,1605,7.279199,8.222139,1.3312485
+2528,driver2,lack of support,driver,2,1606,7.43149,10.718124,-2.318308
+2528,rfd1,family not there,rfd,1,1607,7.5895,8.551783,-0.5838935
+2528,rfd2,homelessness,rfd,2,1608,8.14792,11.760719,-1.5724292
+2528,rfd3,"hopelessness about job, ID",rfd,3,1609,7.901491,11.026494,-3.156214
+2528,rfd4,not seeing daughter,rfd,4,1610,8.014607,8.758628,-0.06791891
+2529,driver1,chornic pain,driver,1,1611,2.635655,11.47794,-0.99706864
+2529,rfd1,being @ hospital,rfd,1,1612,4.70375,12.121872,-1.0933617
+2530,driver1,pain,driver,1,1613,2.736519,10.615835,-1.07528
+2530,rfd1,the pain- tired of it,rfd,1,1614,3.8229506,10.793609,-1.7172301
+2531,driver1,trauma,driver,1,1615,9.8111315,9.22044,4.032302
+2531,driver2,lack of stability,driver,2,1616,7.3452415,10.936239,-2.2162912
+2531,rfd1,people think I'm a bad person,rfd,1,1617,7.850985,8.884079,-3.0795999
+2531,rfd2,son stopped talking to me,rfd,2,1618,8.051531,8.252809,-0.08023835
+2532,driver1,pain & suffering,driver,1,1619,2.8972232,10.618445,-1.4852557
+2532,rfd1,I'm in pain,rfd,1,1620,3.0374424,10.663643,-1.3816733
+2532,rfd2,I'm suffering,rfd,2,1621,3.1155732,10.593828,-1.5975432
+2533,driver1,"hopelessness about world, economy",driver,1,1622,5.4562225,9.703523,-4.4881105
+2533,rfd1,I'm in too much pain,rfd,1,1623,3.2013915,10.718393,-1.4693531
+2533,rfd2,can't do it anymore,rfd,2,1624,6.2754583,9.66482,-2.983624
+2535,driver1,Abuse & PTSD,driver,1,1625,8.794406,10.47243,3.3078196
+2536,driver1,CPTSD / rejection sensitivity,driver,1,1626,7.54781,8.557459,-3.3828037
+2537,driver1,feeling shame & guilt,driver,1,1627,8.9322195,11.651521,0.5559764
+2537,rfd1,other people's lives will be easier,rfd,1,1628,8.857283,9.52376,-2.2312415
+2537,rfd2,burden on society,rfd,2,1629,9.502172,9.901577,-2.753824
+2538,driver1,hopelessness,driver,1,1630,2.913116,8.091675,-8.720038
+2539,driver1,Not good enough,driver,1,1631,6.8231506,9.359318,-4.5002236
+2539,driver2,No one cares about me,driver,2,1632,8.157444,8.699085,-2.8122756
+2539,rfd1,"when I die one day, I'll really be at peace",rfd,1,1633,4.930032,9.720728,-1.1908839
+2540,driver1,Lack of Purpose,driver,1,1634,4.9475484,8.472223,-4.189165
+2540,driver2,Anger Management,driver,2,1635,5.934115,13.558427,-3.8864226
+2540,rfd1,I'm lonely,rfd,1,1636,6.9357734,8.535677,-2.14483
+2540,rfd2,Stuck in place I don't want to be,rfd,2,1637,4.515383,10.223452,-4.888322
+2541,driver1,Pain,driver,1,1638,2.6932192,10.660834,-1.0233995
+2542,driver1,Incompetence,driver,1,1639,4.9535265,8.47995,-4.181729
+2545,driver1,sense of failure- self hate,driver,1,1640,10.297285,15.453609,-7.8665257
+2545,rfd1,Not feeling like I'm good enough- failure to everybody,rfd,1,1641,6.7629213,9.614654,-4.714906
+2547,driver1,Self hatred,driver,1,1642,10.649555,15.741211,-8.302291
+2547,rfd1,"Too much expectation on me; to do, who is relying on me",rfd,1,1643,9.418846,9.518376,-2.8552036
+2548,driver1,losing my children / grief,driver,1,1644,7.186734,8.420859,0.2777232
+2548,rfd1,"children were killed, attacked by an alligator",rfd,1,1645,7.578797,8.418771,0.5755974
+2548,rfd2,everything was taken from me,rfd,2,1646,6.9497857,9.28058,-0.13009514
+2549,driver1,Feeling like a failure,driver,1,1647,7.037888,9.666139,-4.9218216
+2549,driver2,Fear of Suffering,driver,2,1648,6.1259937,10.937016,-4.089128
+2550,driver1,Alcohol= shame / guilt worsening grief,driver,1,1649,7.414593,8.357709,1.4861238
+2550,rfd1,To see the lord,rfd,1,1650,4.1853027,9.836287,-2.0220058
+2550,rfd2,"See my son (Ryan), Mom",rfd,2,1651,7.617392,8.418314,-0.011885585
+2550,rfd3,Peace- not worrying,rfd,3,1652,4.9150777,9.723592,-1.1660217
+2552,driver1,AH; giving up / hopeless,driver,1,1653,4.5438895,9.371886,-5.9324303
+2556,driver1,Self- Image,driver,1,1654,7.819723,12.003433,-5.277333
+2558,driver1,Grief & potential loss,driver,1,1655,7.288925,8.22058,1.345898
+2558,driver2,Misery due to nightmares,driver,2,1656,2.8270347,10.530444,-1.7223855
+2558,rfd1,tired of everyone dying around me,rfd,1,1657,5.316564,11.240692,-2.4618957
+2559,driver1,Helplessness,driver,1,1658,5.189806,9.725112,-5.518186
+2559,driver2,Entrapment,driver,2,1659,3.428774,9.463617,-3.6504798
+2559,rfd1,I'm not going to get the things I want,rfd,1,1660,5.853252,9.868883,-4.215806
+2559,rfd2,I can't have freedom,rfd,2,1661,5.2930436,10.372947,-4.227996
+2560,driver1,Sleep,driver,1,1662,5.5197062,12.755591,-1.8620129
+2560,rfd1,I don’t like being in constant pain & misery,rfd,1,1663,4.0221586,10.811898,-1.8893621
+2560,rfd2,no quality of life,rfd,2,1664,5.850299,10.994122,-2.9527442
+2560,rfd3,scared of where this is going to get me,rfd,3,1665,5.7173758,10.4581995,-4.334025
+2563,driver1,Pain,driver,1,1666,2.7047422,10.616445,-1.0357486
+2563,driver2,self-hate,driver,2,1667,10.592598,15.685168,-8.236478
+2563,rfd1,pain & hurt (emotional) & stems from childhood to adulthood,rfd,1,1668,2.0938125,11.339023,-1.1187203
+2564,driver1,Misery,driver,1,1669,2.8935235,10.526943,-1.69178
+2564,rfd1,wouldn't have to worry about paying bills,rfd,1,1670,8.636203,9.258768,-2.0371177
+2564,rfd2,being lonely,rfd,2,1671,6.161702,8.583193,-1.8511479
+2565,driver1,hopelessness,driver,1,1672,2.904209,8.064261,-8.752507
+2565,rfd1,Haven't done well in school,rfd,1,1673,6.8607826,9.712984,-4.671988
+2565,rfd2,Don’t have direction,rfd,2,1674,5.4330673,9.446369,-4.2565837
+2565,rfd3,Extremely depressed,rfd,3,1675,-6.595561,8.056326,8.754396
+2565,rfd4,for peace,rfd,4,1676,4.8573375,9.747033,-1.1969627
+2566,driver1,Loneliness,driver,1,1677,13.517129,0.9500533,3.4681423
+2566,rfd1,being alone,rfd,1,1678,6.1363254,8.563207,-1.8065056
+2571,driver1,worthlessness,driver,1,1679,9.825811,9.303758,-6.7260013
+2571,rfd1,"No goals, ambition, desire",rfd,1,1680,5.136149,8.686522,-4.012254
+2571,rfd2,tomorrow is just today again,rfd,2,1681,5.4245634,10.180118,-2.879725
+2571,rfd3,No sense of purpose,rfd,3,1682,5.010236,8.541154,-4.124127
+2571,rfd4,"people quit worrying, quit trying",rfd,4,1683,7.619082,9.355207,-3.150417
+2573,driver1,Pain (ex- betrayal),driver,1,1684,2.0686817,11.158452,-1.2370496
+2573,rfd1,I just want the psin to stop,rfd,1,1685,4.3375244,10.685916,-2.1809237
+2573,rfd2,I didn't want to be w / o him,rfd,2,1686,5.1101933,10.562831,-2.8823507
+2575,driver1,"guilt, shame, worthlessness",driver,1,1687,8.880408,11.708269,0.49746427
+2575,rfd1,I let down people that love me the most,rfd,1,1688,7.614069,9.316114,-3.3775377
+2576,driver1,feeling worthless,driver,1,1689,6.424704,8.695771,-4.807338
+2576,rfd1,worthless,rfd,1,1690,9.945226,9.4368515,-6.8539715
+2576,rfd2,not accomplish enough,rfd,2,1691,6.264723,9.312208,-4.0956707
+2576,rfd3,miscarriage,rfd,3,1692,7.3233523,8.317899,0.3629334
+2577,driver1,drinking,driver,1,1693,3.114061,11.239532,9.238004
+2577,rfd1,feeling stuck,rfd,1,1694,4.5449524,10.20142,-4.849215
+2578,driver1,alcohol,driver,1,1695,3.2510014,11.349967,9.244319
+2578,rfd1,being alone in this world,rfd,1,1696,6.0975513,8.611752,-1.8409559
+2579,driver1,"lost so much - wife, NYC, life",driver,1,1697,7.1301875,9.178052,-0.031184927
+2579,rfd1,don’t see a future,rfd,1,1698,5.736563,10.007116,-4.3937187
+2579,rfd2,don't see wife & I back together,rfd,2,1699,7.6878524,9.137615,-0.1656769
+2579,rfd3,"things feel futile- hobbies, play piano",rfd,3,1700,5.395909,8.897228,-4.1502485
+2580,driver1,not having a job,driver,1,1701,7.7453485,11.228966,-2.5660467
+2580,rfd1,"""everything""",rfd,1,1702,6.03299,9.810277,-2.855689
+2580,rfd2,can't have fun w / o drinking,rfd,2,1703,3.0515175,11.214288,9.196987
+2580,rfd3,I only work & nothing else,rfd,3,1704,7.29153,8.5821,-1.6387157
+2581,driver1,feeling not enough,driver,1,1705,6.610084,8.820509,-4.7768993
+2581,driver2,being taken advantage,driver,2,1706,8.143234,9.458797,-2.0454319
+2581,rfd1,self pity,rfd,1,1707,10.42212,15.483298,-8.0033
+2581,rfd2,self hate,rfd,2,1708,10.482125,15.580959,-8.118521
+2581,rfd3,hopelessness,rfd,3,1709,2.8287876,7.97041,-8.752505
+2581,rfd4,depression,rfd,4,1710,-6.491078,7.732637,8.914076
+2584,driver1,perceived burdensomeness,driver,1,1711,9.877482,10.260368,-2.3640702
+2584,driver2,shame / self hate,driver,2,1712,10.352721,15.470872,-7.9379506
+2584,rfd1,Life is really rough sometimes,rfd,1,1713,5.574563,9.791416,-3.2177746
+2584,rfd2,If things don't get better… what's the point of sticking around,rfd,2,1714,5.6960135,10.289665,-3.450434
+2584,rfd3,Step mom- 90% of her problems,rfd,3,1715,8.385416,8.300988,-0.059622597
+2584,rfd4,Don't like myself that much,rfd,4,1716,6.19213,10.187226,-4.807018
+2585,driver1,Incompetence,driver,1,1717,4.9324594,8.454642,-4.176817
+2585,driver2,hopelessness,driver,2,1718,2.958421,7.92264,-8.834701
+2585,rfd1,Not able to visualize a future,rfd,1,1719,5.8308544,10.293818,-4.395206
+2585,rfd2,Can’t do what I need for my future,rfd,2,1720,5.836344,9.903087,-4.4239197
+2586,driver1,Lack of Purpose,driver,1,1721,4.963207,8.486396,-4.183409
+2586,driver2,Sense of Weakness,driver,2,1722,5.210108,9.752313,-5.504282
+2586,rfd1,I don't see the point- Life is too hard for me,rfd,1,1723,5.2285867,9.555732,-3.1003687
+2586,rfd2,Not strong enough to carry weight,rfd,2,1724,9.827325,9.732669,-2.5097954
+2586,rfd3,God wants me to kill myself,rfd,3,1725,5.382417,13.220338,0.055183448
+2586,rfd4,End the suffering,rfd,4,1726,3.3336005,10.527497,-1.7917824
+2588,driver1,feeling foolish & depressed,driver,1,1727,5.1593103,9.801534,-4.96418
+2588,rfd1,wife left,rfd,1,1728,7.6317687,8.975626,-0.251649
+2590,driver1,arguments w / my aunt & dad,driver,1,1729,8.370451,8.393302,-0.4543824
+2590,rfd1,mom- be closer to her & my little cousin who died,rfd,1,1730,6.528026,8.581144,-0.6514799
+2591,driver1,Loneliness,driver,1,1731,13.454964,1.0111165,3.4496205
+2591,rfd1,Depression,rfd,1,1732,-6.3685255,7.8891773,8.686226
+2591,rfd2,Grandma died,rfd,2,1733,7.3739643,8.310386,0.32675117
+2591,rfd3,anger,rfd,3,1734,5.9621367,13.410506,-4.064898
+2591,rfd4,losing everything,rfd,4,1735,6.961865,9.175103,-0.078966886
+2593,driver1,I want other people to suffer for hurting me,driver,1,1736,4.1562514,10.778533,-1.6523918
+2593,rfd1,don't like the day to day grind,rfd,1,1737,4.9622993,10.985479,-2.2822545
+2595,driver1,shame,driver,1,1738,9.047467,12.336216,1.2482864
+2595,rfd1,Family would be better off w / o me,rfd,1,1739,8.115198,8.509304,-1.164852
+2596,driver1,anxiety and pain,driver,1,1740,2.3034022,11.516553,-1.127547
+2596,driver2,Depression; on lowmood 4 pain,driver,2,1741,3.0522895,11.79583,-1.0755786
+2596,rfd1,my husband,rfd,1,1742,7.5253897,8.39205,-0.84550613
+2598,driver1,Lack of support,driver,1,1743,7.417596,10.718905,-2.3140757
+2598,rfd1,grandmother died,rfd,1,1744,7.4049516,8.29073,0.37103644
+2598,rfd2,2 aunts died by suicide,rfd,2,1745,7.4123774,8.337904,0.49982724
+2598,rfd3,miscarriage,rfd,3,1746,7.3192,8.307687,0.37201235
+2599,driver1,self-hate,driver,1,1747,10.594849,15.68747,-8.238837
+2599,driver2,perceived burdensomeness,driver,2,1748,9.907997,10.284841,-2.3390892
+2599,rfd1,"I've given up, make it stop",rfd,1,1749,4.9516215,10.986172,-2.43062
+2599,rfd2,I don't like what I've become,rfd,2,1750,6.0099897,10.215138,-4.6348596
+2599,rfd3,No job,rfd,3,1751,7.900789,11.065688,-3.0763233
+2599,rfd4,No friends,rfd,4,1752,7.4365134,8.409567,-1.3768383
+2599,rfd5,Financial burden,rfd,5,1753,9.528895,10.357505,-2.5129535
+2600,driver1,feeling like a burden,driver,1,1754,9.285939,9.25089,-3.0015519
+2600,driver2,alone w/ thoughts,driver,2,1755,6.189606,8.530822,-1.8076851
+2600,rfd1,being tired of living,rfd,1,1756,5.4920373,11.09319,-2.6272566
+2601,driver1,chemical imbalance,driver,1,1757,4.8917203,13.431874,-1.0621768
+2601,rfd1,chemical imbalance,rfd,1,1758,4.8797708,13.417237,-1.0666975
+2601,rfd2,not feeling secure,rfd,2,1759,5.912554,9.360921,-4.959497
+2602,driver1,dealing w / change,driver,1,1760,6.4863977,11.640307,-2.817995
+2602,rfd1,things I just got to be a lot,rfd,1,1761,6.5248833,10.3631735,-3.477658
+2604,driver1,Not feeling comfortable in body,driver,1,1762,5.7819924,9.549526,-4.9753885
+2605,driver1,Being alone,driver,1,1763,6.157066,8.556957,-1.8098046
+2605,rfd1,Tired of fighting in life,rfd,1,1764,5.165463,11.160896,-2.2386568
+2605,rfd2,I lost everything when I went to prison,rfd,2,1765,6.995497,9.227793,-0.08612536
+2605,rfd3,I have no one- I'm alone,rfd,3,1766,7.117421,8.5504465,-2.0447469
+2606,driver1,"Self-hate, self esteem",driver,1,1767,10.387103,15.421732,-8.071547
+2606,rfd1,Not suffer in jail,rfd,1,1768,3.7984061,9.893521,-2.830707
+2606,rfd2,They don't love me like I love them,rfd,2,1769,7.83097,8.463074,-2.0332706
+2608,driver1,Pain & suffering,driver,1,1770,2.9025118,10.598585,-1.5128027
+2608,rfd1,escape the pain (legal w/ wife),rfd,1,1771,3.4533997,10.625633,-2.0454717
+2608,rfd2,people lying about me,rfd,2,1772,7.836039,8.859696,-3.0478888
+2609,driver1,Panic,driver,1,1773,5.4056034,16.489347,-5.801892
+2611,driver1,feeling like a failure,driver,1,1774,7.03634,9.675219,-4.923187
+2611,rfd1,I was feeling like a failure,rfd,1,1775,7.072917,9.598789,-4.8630424
+2612,driver1,Lack of support,driver,1,1776,7.4146504,10.723518,-2.32131
+2612,rfd1,thought I wasn't good enough,rfd,1,1777,6.8270864,9.456212,-4.5021024
+2612,rfd2,grief- lost father,rfd,2,1778,7.4576297,8.203267,0.5410645
+2612,rfd3,things @ home were hard,rfd,3,1779,5.6291766,9.900332,-3.2724948
+2613,driver1,I don’t know,driver,1,1780,-6.573333,8.018096,8.980782
+2613,rfd1,I cause too many problems,rfd,1,1781,8.458773,9.421409,-3.0897553
+2613,rfd2,ppl are better off w/o me,rfd,2,1782,8.703859,8.772987,-2.2710671
+2615,driver1,Anxiety- Hopelessness and Dread,driver,1,1783,5.2997403,14.068335,-2.705299
+2615,rfd1,less hopelessness,rfd,1,1784,2.846487,7.868201,-8.686666
+2619,driver1,Abandonment,driver,1,1785,13.393971,1.0542156,3.4503152
+2619,driver2,Overwhelming Stress,driver,2,1786,6.413167,14.097267,-2.7775369
+2619,rfd1,I won't bother nobody,rfd,1,1787,8.767516,9.323339,-3.0084653
+2619,rfd2,Nobody would actually miss me,rfd,2,1788,8.612227,8.916166,-2.1930969
+2619,rfd3,I feel like a failure,rfd,3,1789,7.1576123,9.616247,-4.864332
+2620,driver1,"Grief ""why didn't I die with him""",driver,1,1790,7.2170086,8.155119,1.4303638
+2620,driver2,overwhelmed w/ stress & mental health,driver,2,1791,6.4515214,13.788275,-2.704372
+2621,driver1,Entrapment,driver,1,1792,3.4278479,9.463956,-3.6494646
+2622,driver1,Hopelessness,driver,1,1793,2.9740682,8.076866,-8.7145
+2622,driver2,Feeling inadequate,driver,2,1794,6.431735,8.826058,-4.9052753
+2622,rfd1,I'm old (laughed),rfd,1,1795,7.0232673,9.514805,-4.1395636
+2623,driver1,burdensomeness,driver,1,1796,9.914755,10.307383,-2.3262599
+2623,rfd1,stress- I won't have to deal w/ this,rfd,1,1797,6.761027,15.545378,-3.1230938
+2623,rfd2,I'm just tired of dealing w/ this shit,rfd,2,1798,5.0672736,11.139178,-2.3185267
+2624,driver1,seeing your mom/ uncle die,driver,1,1799,6.97523,8.521083,-0.09598098
+2624,driver2,substance,driver,2,1800,2.3658724,17.784355,2.8933694
+2624,rfd1,If this cancer kills me,rfd,1,1801,4.9096313,9.792261,-2.1628625
+2625,driver1,seeing others try to kill themselves,driver,1,1802,5.980757,10.644854,-2.772672
+2626,driver1,self-blame for bad things,driver,1,1803,10.213718,15.345782,-7.690358
+2626,rfd1,feel like I'm bad luck for myself and others,rfd,1,1804,5.947131,9.674612,-4.1347246
+2627,driver1,Entrapment,driver,1,1805,3.42796,9.463381,-3.6475198
+2627,rfd1,trapped,rfd,1,1806,4.3661847,10.249959,-4.9932203
+2627,rfd2,hopelessness,rfd,2,1807,2.8302474,7.994703,-8.787542
+2628,driver1,lonely companionship,driver,1,1808,6.3164854,8.449871,-1.9262466
+2628,driver2,lack of purpose,driver,2,1809,4.9584885,8.489511,-4.1701922
+2628,rfd1,how much more could it hurt?,rfd,1,1810,2.8940501,10.70264,-1.0605568
+2629,driver1,fear of the future,driver,1,1811,6.0146074,10.687996,-4.2611256
+2629,rfd1,"I'm scared to go in to the future, pain",rfd,1,1812,5.8325877,10.373793,-4.35395
+2629,rfd2,sometimes I feel worthless,rfd,2,1813,6.5222945,8.613852,-4.798169
+2633,driver1,lonely or trapped,driver,1,1814,6.4313035,8.408719,-2.1184216
+2633,rfd1,things weren't going right,rfd,1,1815,5.8752527,9.922245,-3.7225268
+2633,rfd2,grandparents died (raised me),rfd,2,1816,7.3903146,8.334806,0.23243941
+2634,driver1,lack of money,driver,1,1817,7.680693,10.845532,-2.6124413
+2634,rfd1,not feeling love,rfd,1,1818,7.1726503,8.182909,-3.1591594
+2634,rfd2,no one cared ab me,rfd,2,1819,8.222374,8.74482,-2.7805555
+2634,rfd3,no one around to help me,rfd,3,1820,6.980802,8.905045,-2.4572713
+2635,driver1,hopelessness about life,driver,1,1821,5.414766,9.700807,-4.4995284
+2635,rfd1,molesting grandaughter,rfd,1,1822,8.819187,10.065756,2.3669384
+2635,rfd2,depression from surgeries,rfd,2,1823,5.08221,14.0506,-1.6750076
+2635,rfd3,dealing w/ family issues,rfd,3,1824,8.270019,8.582241,-0.6503834
+2636,driver1,hopelessness when calamity strikes,driver,1,1825,2.9760075,7.9315195,-8.576554
+2636,rfd1,nothing was going my way,rfd,1,1826,5.856213,9.835555,-3.8744078
+2636,rfd2,depressed,rfd,2,1827,-6.645811,8.1113,8.712068
+2636,rfd3,drugs & alcohol,rfd,3,1828,2.3688886,17.78796,2.8724241
+2636,rfd4,gave up hope,rfd,4,1829,5.3613515,9.758095,-4.258187
+2638,driver1,medication management,driver,1,1830,4.0499024,12.29071,-1.0972476
+2641,driver1,Depression,driver,1,1831,-6.4147606,7.7645035,8.95223
+2641,rfd1,overwhelmed w/ responcibilities,rfd,1,1832,6.5251374,13.482211,-2.722848
+2641,rfd2,chronic pain,rfd,2,1833,2.6645844,11.510392,-1.0085806
+2641,rfd3,stress @ work,rfd,3,1834,6.6976757,15.46924,-3.062377
+2642,driver1,depression and anxiety,driver,1,1835,5.0682964,14.061804,-1.6850779
+2642,rfd1,desire to relieve pain,rfd,1,1836,3.6236305,10.650918,-1.7557566
+2642,rfd2,heartbroken,rfd,2,1837,6.192827,13.37441,-3.105917
+2642,rfd3,stress,rfd,3,1838,6.747096,15.536039,-3.1121247
+2642,rfd4,sad & depressed,rfd,4,1839,-6.5894103,8.054269,8.793585
+2643,driver1,Anxiety,driver,1,1840,5.3443136,16.545086,-5.8530965
+2643,rfd1,feeling overwhelmed,rfd,1,1841,6.454504,13.523369,-2.7208333
+2643,rfd2,hopelessness,rfd,2,1842,2.8101647,7.968858,-8.711124
+2644,driver1,anxiety and depression,driver,1,1843,5.305673,14.16366,-2.7911181
+2644,rfd1,overwhelmed emotionally,rfd,1,1844,6.322391,13.606898,-2.9194648
+2644,rfd2,prev. trauma,rfd,2,1845,9.569534,9.453146,3.6625683
+2646,driver1,my self esteem & anger issues,driver,1,1846,7.629332,12.141961,-5.1560163
+2646,rfd1,I don't do anything right,rfd,1,1847,6.540981,9.773729,-4.173317
+2647,driver1,anxiety & depression,driver,1,1848,5.300084,14.176148,-2.799343
+2647,rfd1,My medical situation,rfd,1,1849,4.428509,12.186081,-1.2318072
+2647,rfd2,All you've lost,rfd,2,1850,7.018785,9.196336,-0.033908352
+2647,rfd3,childhood trauma,rfd,3,1851,8.857575,9.990283,2.5380735
+2648,driver1,depression & anxiety,driver,1,1852,5.0627985,14.028913,-1.6940346
+2648,rfd1,take away the pain,rfd,1,1853,3.5163896,10.739853,-1.62618
+2648,rfd2,too much in my mind,rfd,2,1854,6.828101,11.596216,-2.103151
+2649,driver1,anxiety & depression,driver,1,1855,5.311959,14.159484,-2.7767487
+2649,driver2,trauma,driver,2,1856,9.810698,9.259169,4.023843
+2649,rfd1,tired of life,rfd,1,1857,5.3231325,11.271573,-2.4567742
+2649,rfd2,less financial stability,rfd,2,1858,8.146979,10.85884,-2.4270904
+2650,driver1,anxiety & depression,driver,1,1859,5.284992,14.19004,-2.8032818
+2650,rfd1,mental/ emotional abuse,rfd,1,1860,8.761426,10.196744,2.1635363
+2650,rfd2,relationship w/ dad,rfd,2,1861,8.292142,8.207295,-0.11411298
+2650,rfd3,not realizing my potential,rfd,3,1862,6.5626397,9.515851,-4.5790586
+2650,rfd4,feeling worthless,rfd,4,1863,6.4654045,8.630008,-4.821707
+2651,driver1,previous trauma,driver,1,1864,9.342195,9.648319,3.3718958
+2651,rfd1,being abandoned,rfd,1,1865,8.174905,11.6655035,-1.480102
+2651,rfd2,grief/ trauma,rfd,2,1866,7.558799,8.458078,1.637146
+2651,rfd3,$ troubles,rfd,3,1867,8.122452,10.914514,-2.725298
+2651,rfd4,being disappointed/ let down,rfd,4,1868,7.297663,9.516978,-4.7652383
+2652,driver1,trauma,driver,1,1869,9.753243,9.284243,4.0003533
+2652,driver2,substance use/ abuse,driver,2,1870,2.2826045,17.857079,2.7380857
+2652,rfd1,I lost my family,rfd,1,1871,7.1691794,8.709683,-0.15193148
+2652,rfd2,lost my best friend,rfd,2,1872,7.2119994,8.925621,0.1889691
+2652,rfd3,"lost my grandma, dad",rfd,3,1873,7.268156,8.487183,0.07254938
+2652,rfd4,nothing left,rfd,4,1874,6.3728795,9.412268,-2.6810715
+2652,rfd5,childhood trauma/ uncle,rfd,5,1875,8.8708,9.997354,2.548617
+2653,driver1,"anxiety, depression, trauma",driver,1,1876,5.3726954,14.119283,-2.6736531
+2653,rfd1,nobody cares/ all alone,rfd,1,1877,6.3477693,8.464562,-1.9402953
+2654,driver1,no housing stability,driver,1,1878,7.6356106,11.280865,-1.9303849
+2654,driver2,depression,driver,2,1879,-6.444561,7.690767,8.957028
+2654,rfd1,being homeless,rfd,1,1880,8.119996,11.73526,-1.593791
+2655,driver1,trauma,driver,1,1881,9.799631,9.238765,4.019008
+2655,driver2,depression & anxiety,driver,2,1882,5.055752,14.024709,-1.6795207
+2655,rfd1,"not deal w/ the pain- phys, mental",rfd,1,1883,3.3517044,10.808671,-1.745463
+2655,rfd2,peace,rfd,2,1884,4.888449,9.713192,-1.1424149
+2656,driver1,Guilt over family separating,driver,1,1885,8.320426,8.682333,-0.5377309
+2656,rfd1,I wasn't accepted in society,rfd,1,1886,7.2374353,8.331391,-3.17693
+2656,rfd2,I wasn't good enough,rfd,2,1887,6.8573956,9.418791,-4.456083
+2656,rfd3,I take my anger out on myself instead of someone else,rfd,3,1888,5.968705,13.494127,-4.0053525
+2657,driver1,hopelessness,driver,1,1889,2.8521793,8.120125,-8.819979
+2657,rfd1,conflict w/ dad,rfd,1,1890,8.284844,8.263156,-0.22275396
+2657,rfd2,not seeing things get better,rfd,2,1891,5.9321485,10.30343,-3.554467
+2657,rfd3,wanting to be w/ God,rfd,3,1892,5.8665495,8.96398,-1.9433867
+2658,driver1,Anger/hunt,driver,1,1893,5.9341474,13.387647,-4.098608
+2658,rfd1,Depression,rfd,1,1894,-6.658057,7.7802434,8.918586
+2659,driver1,grief & trauma,driver,1,1895,7.583181,8.469285,1.662533
+2659,rfd1,lost the life w/ Chandler (fiance),rfd,1,1896,7.348757,9.032438,0.19721206
+2660,driver1,anger issues &  anxious,driver,1,1897,5.6519365,13.907132,-3.272423
+2660,driver2,marriage counseling,driver,2,1898,7.9773583,9.0781975,-0.41292113
+2660,rfd1,trouble/strain w/ daughter,rfd,1,1899,8.113635,8.753571,-0.09129925
+2660,rfd2,possibly losing my wife,rfd,2,1900,6.959461,8.725895,-0.25264457
+2661,driver1,depressive episode,driver,1,1901,-6.4762454,7.829034,8.897275
+2661,rfd1,felt work was done,rfd,1,1902,6.7042108,8.842071,-4.78072
+2661,rfd2,no purpose or motivation in life,rfd,2,1903,5.133764,8.824801,-3.7452853
+2663,driver1,alcohol abuse,driver,1,1904,2.9359515,11.127024,9.09522
+2664,driver1,trapped,driver,1,1905,4.3541703,10.269658,-4.988929
+2664,rfd1,feeling trapped,rfd,1,1906,4.4204063,10.266902,-4.9407067
+2664,rfd2,"everything was/is so much, wanted to get out",rfd,2,1907,5.209495,10.062755,-3.642158
+2666,driver1,anxiety,driver,1,1908,5.3602595,16.519415,-5.833592
+2666,rfd1,not open up about mental health,rfd,1,1909,5.0664415,13.717278,-1.7071023
+2666,rfd2,lost someone I trusted- boyfriend,rfd,2,1910,7.3144226,8.96755,0.18508007
+2666,rfd3,job; not enough $,rfd,3,1911,7.961708,11.018436,-2.9164643
+2666,rfd4,leave all my troubles behind,rfd,4,1912,3.863904,10.442718,-2.4359455
+2667,driver1,anxiety,driver,1,1913,5.4164186,16.581709,-5.7881336
+2667,driver2,depression,driver,2,1914,-6.4893093,7.8446207,8.944361
+2667,rfd1,no family or kids,rfd,1,1915,7.5076246,8.634677,-1.1473806
+2667,rfd2,losing wolf,rfd,2,1916,6.9905,9.008465,0.22240032
+2667,rfd3,life won't get better,rfd,3,1917,5.6834826,10.356876,-3.514261
+2669,driver1,hopelessness,driver,1,1918,2.9141066,8.023151,-8.656105
+2669,rfd1,not doing so good in life/ my life isn't going well,rfd,1,1919,5.8432918,10.204018,-3.7182624
+2669,rfd2,I don't have anyone besides family,rfd,2,1920,7.338962,8.559597,-1.6236364
+2670,driver1,feeling unloved,driver,1,1921,7.221023,8.16753,-3.1523583
+2671,driver1,stress & anxiety,driver,1,1922,5.512236,14.180887,-2.6405613
+2671,driver2,trauma,driver,2,1923,9.822936,9.212407,4.021065
+2671,rfd1,desire to escape stressful situation,rfd,1,1924,3.5890732,10.419042,-2.185361
+2672,driver1,feeling trapped,driver,1,1925,4.4353924,10.2227125,-4.926998
+2672,rfd1,to stop suffering,rfd,1,1926,3.9695516,10.082901,-1.9589549
+2672,rfd2,get away from society,rfd,2,1927,4.172514,10.357855,-2.4618564
+2672,rfd3,get rid of stress,rfd,3,1928,6.6532207,15.304782,-3.048154
+2672,rfd4,world is better off w/o me,rfd,4,1929,8.803344,8.719586,-2.2893353
+2672,rfd5,dad doesn't deserve me as a son,rfd,5,1930,8.219944,8.149784,-0.06705893
+2673,driver1,feeling trapped,driver,1,1931,4.419752,10.199238,-4.886751
+2673,driver2,not being enough for dad,driver,2,1932,7.8587413,8.464223,-0.3578598
+2673,rfd1,my father- not there for me,rfd,1,1933,7.449887,8.122664,0.1507742
+2674,driver1,grief,driver,1,1934,7.133026,7.8265185,2.03552
+2674,rfd1,escape the pain & suffering,rfd,1,1935,3.5326219,10.481686,-2.1089997
+2676,driver1,depression,driver,1,1936,-6.566155,7.8593025,8.814318
+2676,rfd1,escape the mental pain/ thoughts,rfd,1,1937,3.3864877,10.643017,-2.0842152
+2677,driver1,depression/ grief,driver,1,1938,7.369071,8.314653,1.3134503
+2677,rfd1,self hatred,rfd,1,1939,10.70166,15.792704,-8.355149
+2677,rfd2,escape the frustration,rfd,2,1940,5.1213307,9.94858,-5.0140624
+2678,driver1,depression & lonliness,driver,1,1941,6.968495,7.9289026,-2.3129995
+2678,rfd1,escape pain & suffering ---> physical & psychological,rfd,1,1942,3.6031222,10.353869,-2.092003
+2679,driver1,my lack of self-esteem (depression),driver,1,1943,7.733562,12.011875,-5.193106
+2679,rfd1,escape the views of others,rfd,1,1944,3.8324957,10.357619,-2.445397
+2679,rfd2,no point in life,rfd,2,1945,5.022286,9.112428,-3.1475825
+2680,driver1,feeling stuck,driver,1,1946,4.5179434,10.221487,-4.874849
+2680,rfd1,don't see myself doing anything in life,rfd,1,1947,5.661255,9.77864,-4.40182
+2680,rfd2,life in general is draining,rfd,2,1948,5.463327,9.368171,-3.305118
+2681,driver1,low self-esteem/ no self-worth,driver,1,1949,7.920244,12.00248,-5.0585318
+2681,rfd1,I'm a waste,rfd,1,1950,8.501636,9.245346,-4.0617514
+2681,rfd2,I'm a bother,rfd,2,1951,8.824322,9.368541,-3.2166846
+2681,rfd3,what is the point,rfd,3,1952,4.8616395,9.024606,-3.145254
+2682,driver1,"""everything""",driver,1,1953,6.027403,9.814235,-2.8319266
+2682,rfd1,no more pain,rfd,1,1954,3.7784512,10.792646,-1.5473379
+2682,rfd2,no more meds,rfd,2,1955,3.968047,11.281723,-1.4805729
+2682,rfd3,no more doctors,rfd,3,1956,4.0851903,11.375499,-1.4509997
+2682,rfd4,be w/ family,rfd,4,1957,7.3758063,8.538325,-1.1349186
+2686,driver1,too many problems,driver,1,1958,8.347496,9.865985,-2.9353669
+2686,driver2,a disappointment,driver,2,1959,7.6738873,9.418866,-4.894043
+2686,rfd1,take out the pain,rfd,1,1960,3.5668626,10.734416,-1.5719371
+2686,rfd2,up for no good/ a disappointment,rfd,2,1961,7.532008,9.4396305,-4.8303695
+2689,driver1,not having enough $,driver,1,1962,7.933275,10.973126,-2.6701322
+2689,rfd1,didn't have enough $,rfd,1,1963,7.837932,10.909974,-2.7274778
+2690,driver1,my fiance,driver,1,1964,7.5130005,8.38596,-0.80966246
+2690,rfd1,2 grandchildren died,rfd,1,1965,7.478882,8.360078,0.4360074
+2692,driver1,depression,driver,1,1966,-6.5554624,7.719541,8.760372
+2692,rfd1,I felt I don't have a reason to live,rfd,1,1967,5.13815,9.611405,-2.945745
+2693,driver1,trauma & flashbacks,driver,1,1968,8.8432,10.119019,3.0785265
+2693,rfd1,I'm worthless,rfd,1,1969,8.50941,9.232348,-4.0756702
+2693,rfd2,A waste of space,rfd,2,1970,9.646782,9.279869,-6.563403
+2693,rfd3,A waste of time,rfd,3,1971,9.693221,9.346342,-6.5959253
+2695,driver1,feeling isolated,driver,1,1972,7.013764,8.122936,-2.4331386
+2695,rfd1,tired,rfd,1,1973,5.4994116,12.754681,-1.8679985
+2695,rfd2,problems w/ son,rfd,2,1974,8.27811,8.277443,-0.21618558
+2696,driver1,I'm not enough,driver,1,1975,6.853883,9.341909,-4.5361776
+2696,driver2,too much responsibility,driver,2,1976,9.725844,10.202255,-2.4094977
+2696,rfd1,to be w/ mom again,rfd,1,1977,6.4591904,8.655914,-0.7062845
+2696,rfd2,family be better off w/o me,rfd,2,1978,8.09948,8.493245,-1.0648646
+2698,driver1,loneliness,driver,1,1979,13.538858,0.92067397,3.410841
+2698,driver2,hopelessness,driver,2,1980,2.9199889,8.084986,-8.715867
+2698,rfd1,I'm not happy,rfd,1,1981,5.2501554,11.213092,-3.0697088
+2699,driver1,anxiety & depression,driver,1,1982,5.2882895,14.190365,-2.808954
+2699,rfd1,overwhelmed by relationship w/ dad,rfd,1,1983,8.314647,8.221438,-0.13120729
+2699,rfd2,stuck in middle of parents,rfd,2,1984,8.343708,8.299859,-0.2999696
+2704,driver1,communicating my pain,driver,1,1985,3.3569267,10.620632,-2.090301
+2704,rfd1,sometimes I feel like I'm helpless & I can't make an impact on the world,rfd,1,1986,6.5996165,8.881037,-4.5214767
+2704,rfd2,loneliness,rfd,2,1987,13.474563,0.980798,3.4745858
+2707,driver1,self-hate,driver,1,1988,10.598252,15.69162,-8.241445
+2707,driver2,drug use,driver,2,1989,1.5290065,18.919323,1.9705949
+2707,rfd1,tired of living like this,rfd,1,1990,5.3211737,11.285733,-2.3903213
+2708,driver1,Migraine pain,driver,1,1991,2.5127258,11.39972,-0.9740579
+2709,driver1,"crashing from cocaine (crying, panic)",driver,1,1992,2.0470731,18.159395,2.4752774
+2710,driver1,suffering w/ emotional pain,driver,1,1993,2.080726,11.309978,-1.138504
+2710,driver2,hopelessness,driver,2,1994,2.8540113,8.000773,-8.767232
+2710,rfd1,family would come into money,rfd,1,1995,7.8544254,8.728504,-1.0371375
+2710,rfd2,I wouldn't be hurting anymore,rfd,2,1996,3.9067464,10.751256,-1.5006818
+2710,rfd3,I don't want to play anymore,rfd,3,1997,5.01307,10.553498,-2.7281265
+2715,driver1,being trapped & lonely,driver,1,1998,6.3163433,8.435361,-1.9829597
+2715,driver2,hopelessness,driver,2,1999,2.9257977,8.153887,-8.68246
+2715,rfd1,the pain- physical & mental,rfd,1,2000,2.494302,11.150547,-1.1608926
+2715,rfd2,hopelessness,rfd,2,2001,2.8621109,8.045131,-8.863892
+2715,rfd3,losing my health & strength,rfd,3,2002,3.149158,11.553547,-1.49506
+2716,driver1,I don't know,driver,1,2003,-6.5601215,8.032675,9.001278
+2716,rfd1,I have a focus problem- visually,rfd,1,2004,5.7260494,10.1678095,-4.4926653
+2718,driver1,worthlessness,driver,1,2005,9.856588,9.35064,-6.7615266
+2718,rfd1,worthlessness,rfd,1,2006,9.861786,9.355602,-6.7664757
+2718,rfd2,not having a job,rfd,2,2007,7.7381477,11.256715,-2.4861028
+2718,rfd3,not having a home,rfd,3,2008,7.8415246,11.408719,-1.9833868
+2718,rfd4,not contributing to society,rfd,4,2009,9.363697,9.875577,-2.662303
+2719,driver1,lack of independence,driver,1,2010,7.402006,10.612218,-2.2447484
+2721,driver1,Loneliness,driver,1,2011,13.528292,0.9192591,3.4994292
+2721,driver2,Depression,driver,2,2012,-6.584591,7.866228,8.819986
+2721,rfd1,"not worrying about bills, or living arrangements",rfd,1,2013,6.201185,9.0722885,-1.521257
+2721,rfd2,being alone,rfd,2,2014,6.1428843,8.557672,-1.805864
+2722,driver1,Shame,driver,1,2015,9.071595,12.359167,1.2486776
+2724,driver1,Hopelessness,driver,1,2016,2.823211,8.147361,-8.86677
+2724,rfd1,because I lost a big part of who I was in the last 3 months,rfd,1,2017,6.0705967,10.2317505,-4.647921
+2725,driver1,pain-being away from family,driver,1,2018,2.3348563,11.312859,-1.0374453
+2725,driver2,guilt of being the cause,driver,2,2019,8.928227,11.556929,0.5859783
+2725,rfd1,I can't ever have a relationship w/ my kids and wife,rfd,1,2020,7.921904,9.26573,-0.75112545
+2725,rfd2,riddled w/ too much guilt- try to sleep,rfd,2,2021,8.999601,11.585623,0.613724
+2725,rfd3,hopeless- nothing left,rfd,3,2022,5.248795,9.516996,-4.381934
+2726,driver1,Grieving,driver,1,2023,7.2440753,8.158247,1.4039005
+2727,driver1,Gender Dysphoria,driver,1,2024,5.2109585,13.577129,-1.0745852
+2727,rfd1,people's lives would be better off if I wasn't in it,rfd,1,2025,8.729433,8.813982,-2.2134414
+2727,rfd2,gender dysphoria,rfd,2,2026,5.1830163,13.595692,-1.0569761
+2727,rfd3,body dysmorphia,rfd,3,2027,5.2655034,13.531645,-1.1347367
+2728,driver1,homelessness,driver,1,2028,8.151923,11.777121,-1.5748898
+2728,rfd1,I was homeless- didn't know what to do,rfd,1,2029,8.066997,11.684253,-1.624454

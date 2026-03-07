@@ -8,40 +8,77 @@ from dash import Dash, html, dcc, Input, Output
 df = pd.read_csv("data/processed/cams_long_umap.csv")
 
 df["text"] = df["text"].fillna("").astype(str)
-df["type"] = df["type"].fillna("Unknown").astype(str)
+df["type"] = df["type"].fillna("unknown").astype(str).str.strip().str.lower()
 df["row_id"] = df["row_id"].astype(int)
+df["id"] = df["id"].astype(str)
 
-# Create a shorter preview for hover so the graph payload stays lighter
+# Standardize type labels
+type_map = {
+    "driver": "drivers",
+    "drivers": "drivers",
+    "rfd": "rfd",
+    "reason for dying": "rfd",
+    "reasons for dying": "rfd"
+}
+df["type"] = df["type"].replace(type_map)
+
+# Pretty labels for display
+display_map = {
+    "drivers": "Drivers",
+    "rfd": "RFD"
+}
+df["type_label"] = df["type"].map(display_map).fillna(df["type"])
+
+# Short hover preview
 df["text_preview"] = df["text"].str.slice(0, 80)
 df.loc[df["text"].str.len() > 80, "text_preview"] += "..."
 
-# Use row_id as the index for faster lookup when clicking points
+# Use row_id as index
 df = df.set_index("row_id", drop=False)
 
+# -----------------------------
+# 2. GLOBAL AXIS LIMITS
+# -----------------------------
+x_range = [df["x"].min(), df["x"].max()]
+y_range = [df["y"].min(), df["y"].max()]
+z_range = [df["z"].min(), df["z"].max()]
 
 # -----------------------------
-# 2. HELPER FUNCTION TO BUILD FIGURE
+# 3. HELPER FUNCTION TO BUILD FIGURE
 # -----------------------------
-def make_figure(filtered_df, color_var="type"):
+def make_figure(filtered_df):
     fig = px.scatter_3d(
         filtered_df,
         x="x",
         y="y",
         z="z",
-        color=color_var,
-        hover_name="type",
+        color="type",
+        color_discrete_map={
+            "drivers": "#1f77b4",
+            "rfd": "#d62728"
+        },
+        category_orders={
+            "type": ["drivers", "rfd"]
+        },
+        hover_name="type_label",
         hover_data={
+            "id": True,
             "text_preview": True,
             "x": False,
             "y": False,
             "z": False,
-            "row_id": False
+            "row_id": False,
+            "type": False,
+            "type_label": False
         },
-        custom_data=["row_id"]  # only send row_id, not full text
+        custom_data=["row_id"]
     )
 
-    fig.update_traces(
-        marker=dict(size=5)
+    marker_size = 5 if len(filtered_df) > 20 else 8
+    fig.update_traces(marker=dict(size=marker_size))
+
+    fig.for_each_trace(
+        lambda trace: trace.update(name=display_map.get(trace.name, trace.name))
     )
 
     fig.update_layout(
@@ -54,29 +91,41 @@ def make_figure(filtered_df, color_var="type"):
         },
         margin=dict(l=0, r=0, t=50, b=0),
         height=850,
+        scene=dict(
+            xaxis=dict(range=x_range, title="x", autorange=False),
+            yaxis=dict(range=y_range, title="y", autorange=False),
+            zaxis=dict(range=z_range, title="z", autorange=False),
+            aspectmode="cube"
+        ),
         legend=dict(
             title="Type",
             font=dict(size=14),
             title_font=dict(size=16),
             itemsizing="constant"
-        )
+        ),
+        uirevision="fixed"
     )
 
     return fig
 
 
-# Precompute the initial full-data figure once at startup
+# Initial figure
 initial_fig = make_figure(df)
 
-
 # -----------------------------
-# 3. DASH APP
+# 4. DASH APP
 # -----------------------------
 app = Dash(__name__)
 server = app.server
 
 type_options = [{"label": "All", "value": "All"}] + [
-    {"label": t, "value": t} for t in sorted(df["type"].unique())
+    {"label": display_map.get(t, t), "value": t}
+    for t in sorted(df["type"].unique())
+]
+
+id_options = [{"label": "All participants", "value": "All"}] + [
+    {"label": pid, "value": pid}
+    for pid in sorted(df["id"].unique())
 ]
 
 app.layout = html.Div(
@@ -88,12 +137,12 @@ app.layout = html.Div(
     children=[
 
         html.H1(
-            "Semantic Similarity of CAMS Constructs: Exploration Dashboard",
+            "Semantic Similarity of CAMS Constructs: Dataset Exploration Dashboard",
             style={"marginBottom": "6px"}
         ),
 
         html.Div(
-            "Explore semantic clustering of text responses. Click any point to view the text.",
+            "Explore semantic clustering of text responses. Filter by type or participant, then click any point to view the text.",
             style={
                 "marginBottom": "16px",
                 "color": "#444"
@@ -103,7 +152,7 @@ app.layout = html.Div(
         html.Div(
             style={
                 "display": "grid",
-                "gridTemplateColumns": "260px 1fr 360px",
+                "gridTemplateColumns": "300px 1fr 360px",
                 "gap": "16px",
                 "alignItems": "start"
             },
@@ -130,15 +179,54 @@ app.layout = html.Div(
 
                         html.Br(),
 
+                        html.Label("Filter by participant"),
+                        dcc.Dropdown(
+                            id="id-filter",
+                            options=id_options,
+                            value="All",
+                            clearable=False
+                        ),
+
+                        html.Br(),
+                        html.Div(
+                            children=[
+                                html.H4(
+                                    "About the Visualization",
+                                    style={"marginTop": "0", "marginBottom": "6px"}
+                                ),
+                                html.P(
+                                    "This plot shows a UMAP (Uniform Manifold Approximation & Projection) projection of text embeddings. "
+                                    "UMAP is a dimensionality reduction technique that places "
+                                    "text responses with more similar meaning closer together.",
+                                    style={"marginBottom": "6px"}
+                                ),
+                                html.P(
+                                    "Although the figure appears three-dimensional, the axes do "
+                                    "not represent directly interpretable units. The plot is a "
+                                    "visual approximation of semantic similarity rather than a "
+                                    "literal 3D spatial map.",
+                                    style={"fontSize": "13px", "color": "#555", "marginBottom": "0"}
+                                )
+                            ],
+                            style={
+                                "backgroundColor": "#f8f9fb",
+                                "padding": "12px",
+                                "borderRadius": "8px",
+                                "fontSize": "13px",
+                                "lineHeight": "1.4",
+                                "border": "1px solid #e3e6eb"
+                            }
+                        ),
+
+                        html.Br(),
+
                         html.Div(
                             [
                                 html.Hr(),
                                 html.H4("Coming later... :)"),
                                 html.Ul([
                                     html.Li("Color by qualitative code"),
-                                    html.Li("Filter by theme"),
-                                    html.Li("Driver vs RFD overlays"),
-                                    html.Li("Participant-level exploration")
+                                    html.Li("Filter by theme")
                                 ])
                             ],
                             style={"color": "#555", "fontSize": "14px"}
@@ -183,25 +271,27 @@ app.layout = html.Div(
     ]
 )
 
-
 # -----------------------------
-# 4. CALLBACK: UPDATE PLOT
+# 5. CALLBACK: UPDATE PLOT
 # -----------------------------
 @app.callback(
     Output("umap-graph", "figure"),
-    Input("type-filter", "value")
+    Input("type-filter", "value"),
+    Input("id-filter", "value")
 )
-def update_graph(selected_type):
-    if selected_type == "All":
-        filtered_df = df
-    else:
-        filtered_df = df[df["type"] == selected_type]
+def update_graph(selected_type, selected_id):
+    filtered_df = df.copy()
+
+    if selected_type != "All":
+        filtered_df = filtered_df[filtered_df["type"] == selected_type]
+
+    if selected_id != "All":
+        filtered_df = filtered_df[filtered_df["id"] == selected_id]
 
     return make_figure(filtered_df)
 
-
 # -----------------------------
-# 5. CALLBACK: SHOW CLICKED TEXT
+# 6. CALLBACK: SHOW CLICKED TEXT
 # -----------------------------
 @app.callback(
     Output("text-panel", "children"),
@@ -220,12 +310,20 @@ def display_click_data(clickData):
     panel_children = [
         html.H3("Selected Point", style={"marginTop": "0"}),
         html.P([
+            html.Strong("Participant ID: "),
+            str(row["id"])
+        ]),
+        html.P([
             html.Strong("Type: "),
-            row["type"]
+            row["type_label"]
         ]),
         html.P([
             html.Strong("Row ID: "),
             str(row["row_id"])
+        ]),
+        html.P([
+            html.Strong("UMAP Coordinates: "),
+            f"({row['x']:.3f}, {row['y']:.3f}, {row['z']:.3f})"
         ]),
         html.Hr(),
         html.H4("Full Text"),
@@ -243,7 +341,6 @@ def display_click_data(clickData):
     ]
 
     optional_cols = [
-        "participant_id",
         "driver_code",
         "driver_theme",
         "rfd_code",
@@ -267,9 +364,8 @@ def display_click_data(clickData):
 
     return panel_children
 
-
 # -----------------------------
-# 6. RUN APP
+# 7. RUN APP
 # -----------------------------
 if __name__ == "__main__":
     app.run(debug=True)

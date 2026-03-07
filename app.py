@@ -11,9 +11,16 @@ df["text"] = df["text"].fillna("").astype(str)
 df["type"] = df["type"].fillna("Unknown").astype(str)
 df["row_id"] = df["row_id"].astype(int)
 
+# Create a shorter preview for hover so the graph payload stays lighter
+df["text_preview"] = df["text"].str.slice(0, 80)
+df.loc[df["text"].str.len() > 80, "text_preview"] += "..."
+
+# Use row_id as the index for faster lookup when clicking points
+df = df.set_index("row_id", drop=False)
+
 
 # -----------------------------
-# 3. HELPER FUNCTION TO BUILD FIGURE
+# 2. HELPER FUNCTION TO BUILD FIGURE
 # -----------------------------
 def make_figure(filtered_df, color_var="type"):
     fig = px.scatter_3d(
@@ -24,23 +31,22 @@ def make_figure(filtered_df, color_var="type"):
         color=color_var,
         hover_name="type",
         hover_data={
-            "text": True,
+            "text_preview": True,
             "x": False,
             "y": False,
             "z": False,
             "row_id": False
         },
-        custom_data=["row_id", "text", "type"]
+        custom_data=["row_id"]  # only send row_id, not full text
     )
 
     fig.update_traces(
-        marker=dict(size=5),
-        selector=dict(mode="markers")
+        marker=dict(size=5)
     )
 
     fig.update_layout(
         title={
-            "text": "3D UMAP of Drivers and reasons for Dying",
+            "text": "3D UMAP of Drivers and Reasons for Dying",
             "x": 0.03,
             "xanchor": "left",
             "y": 0.98,
@@ -59,10 +65,15 @@ def make_figure(filtered_df, color_var="type"):
     return fig
 
 
+# Precompute the initial full-data figure once at startup
+initial_fig = make_figure(df)
+
+
 # -----------------------------
-# 4. DASH APP
+# 3. DASH APP
 # -----------------------------
 app = Dash(__name__)
+server = app.server
 
 type_options = [{"label": "All", "value": "All"}] + [
     {"label": t, "value": t} for t in sorted(df["type"].unique())
@@ -78,13 +89,11 @@ app.layout = html.Div(
 
         html.H1(
             "Semantic Similarity of CAMS Constructs: Exploration Dashboard",
-            style={
-                "marginBottom": "6px"
-            }
+            style={"marginBottom": "6px"}
         ),
 
         html.Div(
-            "Explore semantic clustering of text responses. Click any point to view the full text.",
+            "Explore semantic clustering of text responses. Click any point to view the text.",
             style={
                 "marginBottom": "16px",
                 "color": "#444"
@@ -148,7 +157,7 @@ app.layout = html.Div(
                     children=[
                         dcc.Graph(
                             id="umap-graph",
-                            figure=make_figure(df),
+                            figure=initial_fig,
                             style={"height": "85vh"}
                         )
                     ]
@@ -176,7 +185,7 @@ app.layout = html.Div(
 
 
 # -----------------------------
-# 5. CALLBACK: UPDATE PLOT
+# 4. CALLBACK: UPDATE PLOT
 # -----------------------------
 @app.callback(
     Output("umap-graph", "figure"),
@@ -184,15 +193,15 @@ app.layout = html.Div(
 )
 def update_graph(selected_type):
     if selected_type == "All":
-        filtered_df = df.copy()
+        filtered_df = df
     else:
-        filtered_df = df[df["type"] == selected_type].copy()
+        filtered_df = df[df["type"] == selected_type]
 
     return make_figure(filtered_df)
 
 
 # -----------------------------
-# 6. CALLBACK: SHOW CLICKED TEXT
+# 5. CALLBACK: SHOW CLICKED TEXT
 # -----------------------------
 @app.callback(
     Output("text-panel", "children"),
@@ -205,10 +214,8 @@ def display_click_data(clickData):
             html.P("Click a point in the plot to view its full text and metadata.")
         ]
 
-    point = clickData["points"][0]
-    row_id = point["customdata"][0]
-
-    row = df.loc[df["row_id"] == row_id].iloc[0]
+    row_id = clickData["points"][0]["customdata"][0]
+    row = df.loc[row_id]
 
     panel_children = [
         html.H3("Selected Point", style={"marginTop": "0"}),
@@ -235,7 +242,6 @@ def display_click_data(clickData):
         )
     ]
 
-    # Add optional columns later if they exist
     optional_cols = [
         "participant_id",
         "driver_code",
@@ -263,9 +269,7 @@ def display_click_data(clickData):
 
 
 # -----------------------------
-# 7. RUN APP
+# 6. RUN APP
 # -----------------------------
-server = app.server
-
 if __name__ == "__main__":
     app.run(debug=True)

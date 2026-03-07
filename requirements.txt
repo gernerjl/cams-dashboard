@@ -1,6 +1,4 @@
 dash
 pandas
 plotly
-umap-learn
-scikit-learn
 gunicorn

@@ -82,13 +82,6 @@ def make_figure(filtered_df):
     )
 
     fig.update_layout(
-        title={
-            "text": "3D UMAP of Drivers and Reasons for Dying",
-            "x": 0.03,
-            "xanchor": "left",
-            "y": 0.98,
-            "yanchor": "top"
-        },
         margin=dict(l=0, r=0, t=50, b=0),
         height=850,
         scene=dict(
@@ -187,36 +180,54 @@ app.layout = html.Div(
                             clearable=False
                         ),
 
-                        html.Br(),
-                        html.Div(
-                            children=[
-                                html.H4(
-                                    "About the Visualization",
-                                    style={"marginTop": "0", "marginBottom": "6px"}
-                                ),
-                                html.P(
-                                    "This plot shows a UMAP (Uniform Manifold Approximation & Projection) projection of text embeddings. "
-                                    "UMAP is a dimensionality reduction technique that places "
-                                    "text responses with more similar meaning closer together.",
-                                    style={"marginBottom": "6px"}
-                                ),
-                                html.P(
-                                    "Although the figure appears three-dimensional, the axes do "
-                                    "not represent directly interpretable units. The plot is a "
-                                    "visual approximation of semantic similarity rather than a "
-                                    "literal 3D spatial map.",
-                                    style={"fontSize": "13px", "color": "#555", "marginBottom": "0"}
-                                )
-                            ],
-                            style={
-                                "backgroundColor": "#f8f9fb",
-                                "padding": "12px",
-                                "borderRadius": "8px",
-                                "fontSize": "13px",
-                                "lineHeight": "1.4",
-                                "border": "1px solid #e3e6eb"
-                            }
-                        ),
+html.Br(),
+html.Div(
+    children=[
+        html.P(
+            html.Strong("About the Visualization"),
+            style={"marginBottom": "6px"}
+    ),
+        html.P(
+            "Each point represents a single text response from the CAMS dataset "
+            "(either a Driver or a Reason for Dying [RFD]).",
+            style={"marginBottom": "6px"}
+        ),
+
+        html.P(
+            "To compare responses, Natural Language Processing (NLP) was used to convert "
+            "each piece of text into a numerical representation called an embedding.",
+            style={"marginBottom": "6px"}
+        ),
+
+        html.P(
+            "Embeddings capture aspects of the semantic meaning of text responses, "
+            "allowing responses with similar themes or language to be compared.",
+            style={"marginBottom": "6px"}
+        ),
+
+        html.P(
+            "Because these embeddings exist in a very high-dimensional space "
+            "(often hundreds of dimensions), UMAP (Uniform Manifold Approximation "
+            "and Projection) was used to reduce them to three dimensions for visualization.",
+            style={"marginBottom": "6px"}
+        ),
+
+        html.P(
+            "Points that appear closer together represent responses that are more "
+            "similar in meaning, while points farther apart represent responses "
+            "that are less similar.",
+            style={"marginBottom": "0"}
+        ),
+    ],
+    style={
+        "backgroundColor": "#f8f9fb",
+        "padding": "12px",
+        "borderRadius": "8px",
+        "fontSize": "13px",
+        "lineHeight": "1.4",
+        "border": "1px solid #e3e6eb"
+    }
+),
 
                         html.Br(),
 

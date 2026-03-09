@@ -336,7 +336,7 @@ app.layout = html.Div(
 
                                 html.P(
                                     "This dashboard explores semantic similarity among CAMS Drivers and Reasons for Dying (RFD) using natural language processing (NLP). "
-                                    "It combines an interactive 3D visualization with summary charts to show both individual text responses and broader similarity patterns.",
+                                    "The 3D visualization shows individual RFD and driver responses represented in 3D space. The box plots show the average within-person relationships between constructs.",
                                     style={"marginBottom": "8px"}
                                 ),
 
@@ -361,7 +361,7 @@ app.layout = html.Div(
                                 html.Ul([
                                     html.Li("Each point in the 3D plot represents one text response (a Driver or an RFD)."),
                                     html.Li("Points that appear closer together represent responses that are more similar in meaning."),
-                                    html.Li("The 3D axes themselves do not represent directly interpretable units; they are a visualization of high-dimensional semantic relationships."),
+                                    html.Li("The 3D axes do not represent directly interpretable units; they are a visualization of high-dimensional semantic relationships."),
                                     html.Li("The participant-level and overall bar charts show average cosine similarity, where higher values indicate greater semantic overlap.")
                                 ], style={"paddingLeft": "20px", "marginTop": "0", "marginBottom": "0"})
                             ],

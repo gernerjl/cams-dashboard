@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
@@ -50,7 +51,33 @@ z_range = [df["z"].min(), df["z"].max()]
 # -----------------------------
 # 3. HELPER FUNCTIONS
 # -----------------------------
+def make_empty_umap_figure(message="No data available for the selected filters."):
+    fig = go.Figure()
+    fig.add_annotation(
+        text=message,
+        x=0.5,
+        y=0.5,
+        xref="paper",
+        yref="paper",
+        showarrow=False,
+        font=dict(size=16)
+    )
+    fig.update_layout(
+        margin=dict(l=0, r=0, t=30, b=0),
+        height=600,
+        scene=dict(
+            xaxis=dict(visible=False),
+            yaxis=dict(visible=False),
+            zaxis=dict(visible=False)
+        )
+    )
+    return fig
+
+
 def make_umap_figure(filtered_df):
+    if filtered_df.empty:
+        return make_empty_umap_figure()
+
     fig = px.scatter_3d(
         filtered_df,
         x="x",
@@ -149,6 +176,7 @@ def make_participant_similarity_figure(selected_id):
         fig = go.Figure()
         fig.add_annotation(
             text="Select a participant to view.",
+            x=0.5,
             y=0.5,
             xref="paper",
             yref="paper",
@@ -233,7 +261,7 @@ initial_participant_fig = make_participant_similarity_figure("All")
 # 4. DASH APP
 # -----------------------------
 app = Dash(__name__)
-server = app.server
+server = app.server  # important for gunicorn
 
 type_options = [{"label": "All", "value": "All"}] + [
     {"label": display_map.get(t, t), "value": t}
@@ -258,7 +286,6 @@ app.layout = html.Div(
             "Exploring the Semantic Similarity of CAMS Constructs",
             style={"marginBottom": "6px"}
         ),
-
 
         html.Div(
             style={
@@ -300,53 +327,53 @@ app.layout = html.Div(
 
                         html.Br(),
 
-html.Div(
-    children=[
-        html.P(
-            html.Strong("About This Page"),
-            style={"marginBottom": "8px"}
-        ),
+                        html.Div(
+                            children=[
+                                html.P(
+                                    html.Strong("About This Page"),
+                                    style={"marginBottom": "8px"}
+                                ),
 
-        html.P(
-            "This dashboard explores semantic similarity among CAMS Drivers and Reasons for Dying (RFD) using natural language processing (NLP). "
-            "It combines an interactive 3D visualization with summary charts to show both individual text responses and broader similarity patterns.",
-            style={"marginBottom": "8px"}
-        ),
+                                html.P(
+                                    "This dashboard explores semantic similarity among CAMS Drivers and Reasons for Dying (RFD) using natural language processing (NLP). "
+                                    "It combines an interactive 3D visualization with summary charts to show both individual text responses and broader similarity patterns.",
+                                    style={"marginBottom": "8px"}
+                                ),
 
-        html.P(
-            html.Strong("How to use it"),
-            style={"marginBottom": "6px"}
-        ),
+                                html.P(
+                                    html.Strong("How to use it"),
+                                    style={"marginBottom": "6px"}
+                                ),
 
-        html.Ul([
-            html.Li("Use the dropdowns to filter by response type or participant."),
-            html.Li("Rotate and zoom the 3D plot to explore how responses cluster in semantic space."),
-            html.Li("Click any point to view the full text, participant ID, and UMAP coordinates."),
-            html.Li("Select a participant to view their Driver–Driver, RFD–RFD, and Driver–RFD similarity values."),
-            html.Li("Use the bottom chart to compare overall mean semantic similarity across the full sample.")
-        ], style={"paddingLeft": "20px", "marginTop": "0", "marginBottom": "8px"}),
+                                html.Ul([
+                                    html.Li("Use the dropdowns to filter by response type or participant."),
+                                    html.Li("Rotate and zoom the 3D plot to explore how responses cluster in semantic space."),
+                                    html.Li("Click any point to view the full text, participant ID, and UMAP coordinates."),
+                                    html.Li("Select a participant to view their Driver–Driver, RFD–RFD, and Driver–RFD similarity values."),
+                                    html.Li("Use the bottom chart to compare overall mean semantic similarity across the full sample.")
+                                ], style={"paddingLeft": "20px", "marginTop": "0", "marginBottom": "8px"}),
 
-        html.P(
-            html.Strong("How to interpret it"),
-            style={"marginBottom": "6px"}
-        ),
+                                html.P(
+                                    html.Strong("How to interpret it"),
+                                    style={"marginBottom": "6px"}
+                                ),
 
-        html.Ul([
-            html.Li("Each point in the 3D plot represents one text response (a Driver or an RFD)."),
-            html.Li("Points that appear closer together represent responses that are more similar in meaning."),
-            html.Li("The 3D axes themselves do not represent directly interpretable units; they are a visualization of high-dimensional semantic relationships."),
-            html.Li("The participant-level and overall bar charts show average cosine similarity, where higher values indicate greater semantic overlap.")
-        ], style={"paddingLeft": "20px", "marginTop": "0", "marginBottom": "0"})
-    ],
-    style={
-        "backgroundColor": "#f8f9fb",
-        "padding": "12px",
-        "borderRadius": "8px",
-        "fontSize": "13px",
-        "lineHeight": "1.45",
-        "border": "1px solid #e3e6eb"
-    }
-),
+                                html.Ul([
+                                    html.Li("Each point in the 3D plot represents one text response (a Driver or an RFD)."),
+                                    html.Li("Points that appear closer together represent responses that are more similar in meaning."),
+                                    html.Li("The 3D axes themselves do not represent directly interpretable units; they are a visualization of high-dimensional semantic relationships."),
+                                    html.Li("The participant-level and overall bar charts show average cosine similarity, where higher values indicate greater semantic overlap.")
+                                ], style={"paddingLeft": "20px", "marginTop": "0", "marginBottom": "0"})
+                            ],
+                            style={
+                                "backgroundColor": "#f8f9fb",
+                                "padding": "12px",
+                                "borderRadius": "8px",
+                                "fontSize": "13px",
+                                "lineHeight": "1.45",
+                                "border": "1px solid #e3e6eb"
+                            }
+                        ),
 
                         html.Br(),
 
@@ -557,4 +584,5 @@ def display_click_data(clickData):
 # 8. RUN APP
 # -----------------------------
 if __name__ == "__main__":
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host="0.0.0.0", port=port, debug=False)
